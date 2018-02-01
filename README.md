@@ -5,15 +5,15 @@ Composition Anomaly and Feature Enrichment (CAFE), is genomic island prediction 
 
 ## Input
 CAFE requires genome sequence and annotations to predict genomic islands. These can be provided in one of the following ways:
--Fasta file containing the genome sequence and another file containing annotations in ptt format.
+*Fasta file containing the genome sequence and another file containing annotations in ptt format.
 ```
 ./cafe.pl [options] genome.fna annotation.ptt
 ```
--A single file containing both the sequence and annotations in gbk format.
+*A single file containing both the sequence and annotations in gbk format.
 ```
 ./cafe.pl [options] -gbk  genome.gbk
 ```
--If the genome is not annotated then CAFE can identify marker genes for genomic island. This requires Prodigal and Hmmer be installed and included in path
+*If the genome is not annotated then CAFE can identify marker genes for genomic island. This requires Prodigal and Hmmer be installed and included in path
 ```
 ./cafe.pl [options] -annot genome.fna
 ```
