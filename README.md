@@ -3,6 +3,11 @@
 Composition Anomaly and Feature Enrichment (CAFE), is genomic island prediction tool that utilizes sequence composition and functional information to identify genomic islands.
 
 
+## Example
+```
+./cafe.pl -out outfile -verbose -gbk example.gbk
+```
+
 ## Input
 CAFE requires genome sequence and annotations to predict genomic islands. These can be provided in one of the following ways:
 1. Fasta file containing the genome sequence and another file containing annotations in ptt format.
@@ -38,10 +43,6 @@ CAFE requires genome sequence and annotations to predict genomic islands. These 
 CAFE outputs two tab separated text files. File with suffix CAFE_full_version.txt shows genomic island predictions using CAFE full version. Likewise, file with suffix CAFE_marker_version.txt. shows genomic island predictions using CAFE marker version.
 Both files has four columns showing genomic island id, start and end co-ordinates, and length of the genomic island.
 
-## Example
-```
-./cafe.pl -out outfile -verbose -gbk example.gbk
-```
 
 
 
