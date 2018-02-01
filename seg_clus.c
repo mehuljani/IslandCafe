@@ -656,7 +656,7 @@ for (i=1; i<fgs;i++){
 
 //Print segments with cluster ids
 FILE *output4;   
-output4 = fopen("temp", "w"); 
+output4 = fopen("cafe_temp", "w"); 
 
 for(i=1;i<fgs;i++){
 		
