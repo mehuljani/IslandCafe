@@ -1,0 +1,2139 @@
+Bartonella tribocorum CIP 105476 complete genome, type strain CIP 105476 - 1..2619061
+2136 proteins
+Location	Strand	Length	PID	Gene	Synonym	Code	COG	Product
+1..825	+	274	161016948	-	BT0001	-	-	conserved hypothetical protein
+838..1434	+	198	161016949	-	BT_0002	-	-	nucleotide-binding protein
+1427..2299	+	290	161016950	aroE	BT_0003	-	-	Shikimate 5-dehydrogenase
+2296..2883	+	195	161016951	coaE	BT_0004	-	-	Dephospho-CoA kinase
+2888..3595	+	235	161016952	dnaQ	BT_0005	-	-	DNA polymerase III epsilon chain
+3919..6825	+	968	161016953	polA	BT_0007	-	-	DNA polymerase I
+6832..7788	-	318	161016954	-	BT_0008	-	-	conserved hypothetical protein
+7809..8582	-	257	161016955	-	BT_0009	-	-	conserved hypothetical protein
+9377..9880	-	167	161016956	lspA	BT_0010	-	-	Lipoprotein signal peptidase
+9870..10724	-	284	161016957	-	BT_0011	-	-	tRNA/rRNA methyltransferase protein, TrmH family
+10727..11671	-	314	161016958	-	BT_0012	-	-	methyltransferase
+11831..12127	-	98	161016959	-	BT_0013	-	-	hypothetical protein
+12135..12413	-	92	161016960	ihfB	BT_0014	-	-	integration host factor beta chain
+12599..13246	+	215	161016961	-	BT_0015	-	-	conserved hypothetical protein
+13274..13921	+	215	161016962	-	BT_0016	-	-	conserved hypothetical protein
+13928..14722	+	264	161016963	-	BT_0017	-	-	ABC transporter/ATP-binding protein
+15907..16371	+	154	161016964	ptsN	BT_0018	-	-	nitrogen regulatory IIA protein
+17771..18280	+	169	161016965	-	BT_0019	-	-	conserved hypothetical protein
+18323..19549	+	408	161016966	-	BT_0020	-	-	conserved hypothetical protein
+20277..20918	-	213	161016967	-	BT_0021	-	-	amino acid efflux protein
+21085..22320	+	411	161016968	argG	BT_0022	-	-	Argininosuccinate synthase
+22695..24353	+	552	161016969	lysS	BT_0023	-	-	lysyl-tRNA synthetase
+24353..25927	+	524	161016970	prfC	BT_0024	-	-	peptide chain release factor 3
+26386..29511	+	1041	161016971	-	BT_0025	-	-	conserved hypothetical protein
+29514..32987	+	1157	161016972	addA	BT_0026	-	-	ATP-dependent nuclease subunit A
+33164..33487	+	107	161016973	trxA	BT_0027	-	-	thioredoxin
+33639..33770	-	43	161016974	-	BT_0028	-	-	conserved hypothetical protein (fragment)
+34065..34172	-	35	161016975	-	BT_0029	-	-	conserved hypothetical protein (fragment)
+34247..34714	-	155	161016976	-	BT_0030	-	-	conserved hypothetical protein
+34759..37224	-	821	161016977	-	BT_0031	-	-	sensor histidine kinase protein
+37260..38657	-	465	161016978	ahcY	BT_0032	-	-	adenosylhomocysteinase
+39377..40375	-	332	161016979	-	BT_0033	-	-	NADH-ubiquinone oxidoreductase
+40419..41738	-	439	161016980	folC	BT_0034	-	-	dihydrofolate synthase / folylpolyglutamate synthase
+41743..42663	-	306	161016981	accD	BT_0035	-	-	acetyl-CoA carboxylase carboxyl transferase subunit beta
+43661..44380	-	239	161016982	-	BT_0036	-	-	conserved hypothetical protein
+45954..47378	-	474	161016983	dfp	BT_0038	-	-	panthotenate metabolism flavoprotein
+47447..49033	-	528	161016984	aarF	BT_0039	-	-	ubiquinone biosynthesis protein
+49036..49818	-	260	161016985	ubiE	BT_0040	-	-	ubiquinone/menaquinone biosynthesis
+49939..52389	-	816	161016986	gyrB	BT_0041	-	-	DNA gyrase subunit B
+53421..54350	+	309	161016987	-	BT_0042	-	-	ABC transporter, periplasmic amino acid-binding protein
+54362..55894	-	510	161016988	-	BT_0043	-	-	conserved hypothetical protein
+56299..58263	+	654	161016989	-	BT_0044	-	-	putative outer membrane protein
+58263..62915	+	1550	161016990	-	BT_0045	-	-	conserved hypothetical protein
+65182..66948	-	588	161016991	msbA	BT_0046	-	-	ABC transporter, ATP-binding protein
+68456..68974	-	172	161016992	infC	BT_0048	-	-	translation initiation factor IF-3
+69168..69947	+	259	161016993	-	BT_0049	-	-	conserved hypothetical protein
+69980..70720	+	246	161016994	-	BT_0050	-	-	conserved hypothetical protein
+70950..72122	+	390	161016995	dapE	BT_0051	-	-	succinyl-diaminopimelate desuccinylase
+72983..74182	-	399	161016996	hemN	BT_0052	-	-	oxygen-independent coproporphyrinogen III oxidase
+74179..74826	-	215	161016997	-	BT_0053	-	-	HAM1-like protein
+75318..76388	+	356	161016998	hrcA	BT_0055	-	-	heat-inducible transcription repressor HrcA
+76514..77182	+	222	161016999	grpE	BT_0056	-	-	heat shock protein GrpE
+77277..77816	-	179	161017000	ligT	BT_0057	-	-	ABC transporter (permease)
+78399..78692	-	97	161017001	ptsH	BT_0058	-	-	phosphocarrier protein HPr
+78710..79108	-	132	161017002	-	BT_0059	-	-	PTS system, IIA component
+79244..79708	-	154	161017003	-	BT_0060	-	-	conserved hypothetical protein
+79732..81516	-	594	161017004	batS	BT_0061	-	-	two-component sensor kinase BatS
+81556..82278	-	240	161017005	batR	BT_0062	-	-	transcriptional regulator BatR
+82666..83121	+	151	161017006	-	BT_0063	-	-	conserved hypothetical protein
+83237..83791	-	184	161017007	-	BT_0064	-	-	conserved hypothetical protein
+84784..86676	+	630	161017008	dnaK	BT_0065	-	-	heat shock protein 70 DnaK
+86835..87977	+	380	161017009	dnaJ1	BT_0066	-	-	heat shock chaperone protein DnaJ
+89435..90340	+	301	161017010	argB	BT_0069	-	-	Acetylglutamate kinase
+90373..91266	+	297	161017011	-	BT_0070	-	-	conserved hypothetical protein
+92669..94510	+	613	161017012	lepA	BT_0074	-	-	GTP-binding protein LepA
+95085..95945	-	286	161017013	dapD	BT_0075	-	-	2,3,4,5-tetrahydropyridine-2-carboxylateN-succinyltransferase
+96046..96915	+	289	161017014	-	BT_0076	-	-	conserved hypothetical protein
+96948..97691	-	247	161017015	truA	BT_0077	-	-	tRNA pseudouridine synthase A
+97693..98622	-	309	161017016	fmt	BT_0078	-	-	Methionyl-tRNA formyltransferase
+98622..99158	-	178	161017017	def	BT_0079	-	-	polypeptide deformylase
+99250..100431	+	393	161017018	-	BT_0080	-	-	conserved hypothetical protein
+100545..101132	+	195	161017019	-	BT_0081	-	-	conserved hypothetical protein
+102690..103070	-	126	161017020	-	BT_0082	-	-	hypothetical protein
+103247..104575	+	442	161017021	aroA	BT_0084	-	-	3-phosphoshikimate 1-carboxyvinyltransferase
+104572..105219	+	215	161017022	cmk	BT_0085	-	-	Cytidylate kinase
+105354..107054	+	566	161017023	rpsA	BT_0086	-	-	30S ribosomal protein S1
+107286..115862	+	2858	161017024	chvB	BT_0088	-	-	cyclic beta 1-2 glucan synthetase
+115988..117292	+	434	161017025	pncB	BT_0089	-	-	nicotinate phosphoribosyltransferase
+118108..118494	-	128	161017026	-	BT_0090	-	-	hypothetical protein
+118933..119838	-	301	161017027	sitD	BT_0091	-	-	Iron transport protein, inner membrane component
+119835..120701	-	288	161017028	sitC	BT_0092	-	-	Iron transport protein, inner membrane component
+120698..121528	-	276	161017029	sitB	BT_0093	-	-	Iron transport protein, ATP-binding component
+121525..122433	-	302	161017030	sitA	BT_0094	-	-	Iron transport protein, periplasmic-binding protein
+124000..126414	-	804	161017031	pheT	BT_0096	-	-	phenylalanyl-tRNA synthetase beta chain
+126446..127528	-	360	161017032	pheS	BT_0097	-	-	phenylalanyl-tRNA synthetase alpha chain
+127623..128024	-	133	161017033	rplT	BT_0098	-	-	50S ribosomal protein L20
+128058..128261	-	67	161017034	rpmI	BT_0099	-	-	50S ribosomal protein L35
+128418..129179	-	253	161017035	nth	BT_0100	-	-	endonuclease III
+129301..129732	+	143	161017036	ibpA1	BT_0101	-	-	small heat shock protein
+129759..130010	+	83	161017037	-	BT_0102	-	-	hypothetical protein
+131217..133055	+	612	161017038	ilvD	BT_0106	-	-	dihydroxy-acid dehydratase
+133119..133253	+	44	161017039	ilvD (fragment)	BT_0107	-	-	dihydroxy-acid dehydratase
+134338..137082	-	914	161017040	mutS	BT_0108	-	-	DNA mismatch repair protein MutS
+137279..139579	+	766	161017041	maeB1	BT_0109	-	-	NADP-dependent malic enzyme
+139642..140118	-	158	161017042	secB	BT_0110	-	-	protein-export protein SecB
+140266..140760	-	164	161017043	-	BT_0111	-	-	conserved hypothetical protein
+140931..141623	+	230	161017044	-	BT_0112	-	-	conserved hypothetical protein
+141671..142261	+	196	161017045	-	BT_0113	-	-	conserved hypothetical protein
+143217..143750	-	177	161017046	-	BT_0114	-	-	conserved hypothetical protein
+144233..145432	+	399	161017047	argD	BT_0115	-	-	acetylornithine aminotransferase
+145683..146099	+	138	161017048	argF (fragment 1)	BT_0116	-	-	Ornithine carbamoyltransferase
+146107..146379	+	90	161017049	argF (fragment 2)	BT_0117	-	-	Ornithine carbamoyltransferase
+146416..147417	+	333	161017050	hslO	BT_0118	-	-	heat shock protein hsp33 homolog
+147989..148315	+	108	161017051	-	BT_0119	-	-	hypothetical protein
+149577..150170	-	197	161017052	ccmG	BT_0121	-	-	thiol:disulfide interchange protein
+150145..150396	-	83	161017053	ccmX	BT_0122	-	-	hypothetical protein
+150384..151181	-	265	161017054	ccmC	BT_0123	-	-	heme exporter protein C
+151210..151875	-	221	161017055	ccmB	BT_0124	-	-	heme exporter protein CcmB
+151887..152498	-	203	161017056	ccmA	BT_0125	-	-	heme exporter protein CcmA
+152793..155480	+	895	161017057	acnA	BT_0126	-	-	aconitate hydratase
+155722..155988	+	88	161017058	rpsT	BT_0127	-	-	30S ribosomal protein S20
+156702..158273	+	523	161017059	dnaA	BT_0129	-	-	chromosomal replication initiator protein DnaA
+158463..159584	+	373	161017060	dnaN	BT_0130	-	-	DNA polymerase III, beta chain
+159605..160738	+	377	161017061	recF	BT_0131	-	-	DNA replication and repair protein
+160792..161241	+	149	161017062	aroQ	BT_0132	-	-	3-dehydroquinate dehydratase
+161367..162338	+	323	161017063	cyoA	BT_0133	-	-	cytochrome o ubiquinol oxidase subunit II
+162414..164432	+	672	161017064	cyoB	BT_0134	-	-	cytochrome o ubiquinol oxidase subunit I
+164429..165097	+	222	161017065	cyoC	BT_0135	-	-	cytochrome o ubiquinol oxidase subunit III
+165097..165825	+	242	161017066	cyoD	BT_0136	-	-	cytochrome o ubiquinol oxidase subunit IV
+166230..167234	+	334	161017067	gpsA	BT_0137	-	-	Glycerol-3-phosphate dehydrogenase
+168755..168985	+	76	161017068	int	BT_0138	-	-	putative integrase protein
+168985..169185	+	66	161017069	int	BT_0139	-	-	putative integrase protein
+169480..170298	-	272	161017070	fabI1	BT_0141	-	-	Enoyl-[acyl-carrier-protein] reductase
+170347..171567	-	406	161017071	fabB	BT_0142	-	-	3-oxoacyl-(acyl-carrier-protein) synthase I
+171625..172134	-	169	161017072	fabA	BT_0143	-	-	3-hydroxydecanoyl-[acyl-carrier-protein]dehydratase
+172368..172880	+	170	161017073	fur1	BT_0144	-	-	ferric uptake regulation protein
+172927..173487	-	186	161017074	-	BT_0145	-	-	conserved hypothetical protein
+175082..175315	-	77	161017075	rpsU	BT_0146	-	-	30S ribosomal protein S21
+175504..177177	-	557	161017076	fhs	BT_0147	-	-	formate--tetrahydrofolate ligase
+178407..179546	+	379	161017077	-	BT_0148	-	-	conserved hypothetical protein
+179543..182680	+	1045	161017078	acrD	BT_0149	-	-	AcrB/AcrD/AcrF multidrug efflux protein
+182870..184534	+	554	161017079	pgi	BT_0150	-	-	Glucose-6-phosphate isomerase
+185218..185694	+	158	161017080	rplU	BT_0151	-	-	50S ribosomal protein L21
+185707..185976	+	89	161017081	rpmA	BT_0152	-	-	50S ribosomal protein L27
+187380..189887	+	835	161017082	fruB	BT_0154	-	-	multiphosphoryl transfer protein (mtp)
+190759..191964	-	401	161017083	-	BT_0156	-	-	conserved hypothetical protein
+191961..192410	-	149	161017084	-	BT_0157	-	-	putative membrane protein
+192490..193191	-	233	161017085	-	BT_0158	-	-	putative membrane protein
+193403..194569	+	388	161017086	int	BT_0159	-	-	phage-related integrase
+194778..194978	+	66	161017087	-	BT_0160	-	-	hypothetical protein
+195076..196194	+	372	161017088	-	BT_0161	-	-	conserved hypothetical protein
+196243..196644	+	133	161017089	-	BT_0162	-	-	hypothetical protein
+197314..202278	+	1654	161017090	-	BT_0164	-	-	helicase/methyltransferase
+204151..204810	+	219	161017091	-	BT_0165	-	-	phage-related protein
+204893..205486	+	197	161017092	-	BT_0166	-	-	phage-related protein
+205592..206371	+	259	161017093	-	BT_0167	-	-	phage-related protein
+208070..223177	+	5035	161017094	badA	BT_0168	-	-	surface protein/Bartonella adhesin
+223174..223776	+	200	161017095	-	BT_0169	-	-	hypothetical protein
+224710..226020	+	436	161017096	-	BT_0170	-	-	exopolyphosphatase, Ppx/GppA family
+226050..226778	+	242	161017097	ftsJ	BT_0171	-	-	cell division protein ftsJ
+226946..227971	+	341	161017098	cgtA	BT_0172	-	-	GTP-binding protein
+227973..229112	+	379	161017099	proB	BT_0173	-	-	Glutamate 5-kinase
+229157..230413	+	418	161017100	proA	BT_0174	-	-	Gamma-glutamyl phosphate reductase
+230443..231027	+	194	161017101	nadD	BT_0175	-	-	nicotinate-nucleotide adenylyltransferase
+231145..231534	+	129	161017102	-	BT_0176	-	-	conserved hypothetical protein
+231536..232018	+	160	161017103	-	BT_0177	-	-	conserved hypothetical protein
+232123..233397	+	424	161017104	-	BT_0178	-	-	filament-A percursor
+233387..234697	+	436	161017105	ctpA	BT_0179	-	-	carboxy-terminal protease
+234735..235256	+	173	161017106	ialA	BT_0180	-	-	Invasion-associated locus protein A
+235366..235926	+	186	161017107	ialB	BT_0181	-	-	Invasion-associated locus protein B
+236263..236556	+	97	161017108	-	BT_0183	-	-	conserved hypothetical protein
+236579..236905	+	108	161017109	-	BT_0184	-	-	conserved hypothetical protein
+236947..237477	-	176	161017110	ppa	BT_0185	-	-	Inorganic pyrophosphatase
+237544..239370	-	608	161017111	typA	BT_0186	-	-	GTP-binding protein TypA
+240601..241977	-	458	161017112	mgtE	BT_0188	-	-	Mg2+ transport protein
+242922..244946	+	674	161017113	dcp	BT_0189	-	-	peptidyl-dipeptidase
+245111..246187	-	358	161017114	-	BT_0190	-	-	conserved hypothetical protein
+246203..247459	-	418	161017115	mltB	BT_0191	-	-	peptidoglycan-binding protein
+247697..248611	+	304	161017116	galU	BT_0193	-	-	UTP-glucose-1-phosphate uridylyltransferase
+248651..249643	+	330	161017117	-	BT_0194	-	-	sugar isomerase
+249917..250285	-	122	161017118	omp10	BT_0195	-	-	outer membrane lipoprotein
+250552..251937	+	461	161017119	-	BT_0197	-	-	sigma factor-dependent DNA-binding response regulator
+252346..253917	+	523	161017120	-	BT_0198	-	-	phopholipase D-family protein
+254080..255576	+	498	161017121	guaB	BT_0199	-	-	inosine-5'-monophosphate dehydrogenase
+256427..257713	+	428	161017122	sun1	BT_0200	-	-	SUN-family protein
+257811..259403	+	530	161017123	guaA	BT_0201	-	-	GMP synthase
+259597..260319	+	240	161017124	ugpQ	BT_0202	-	-	Glycerophosphoryl diester phosphodiesterase
+261283..262617	+	444	161017125	ugpB	BT_0203	-	-	glycerol-3-phosphate-binding periplasmic protein
+262713..263597	+	294	161017126	ugpA	BT_0204	-	-	glycerol-3-phosphate ABC transporter permease protein
+263608..264459	+	283	161017127	ugpE	BT_0205	-	-	glycerol-3-phosphate ABC transporter permease protein
+264462..265508	+	348	161017128	ugpC	BT_0206	-	-	glycerol-3-phosphate ABC transporter ATP-binding protein
+266970..267890	-	306	161017129	-	BT_0207	-	-	ABC transporter, periplasmic binding protein
+267900..268769	-	289	161017130	-	BT_0208	-	-	ABC transporter, permease protein
+268773..269537	-	254	161017131	-	BT_0209	-	-	ABC transporter, ATP-binding protein
+270204..270428	+	74	161017132	nrdH	BT_0210	-	-	putative glutaredoxin
+270428..270826	+	132	161017133	nrdI	BT_0211	-	-	NrdI protein
+270808..272958	+	716	161017134	nrdE	BT_0212	-	-	ribonucleoside-diphosphate reductase 2 alpha chain
+272970..273944	+	324	161017135	nrdF	BT_0213	-	-	ribonucleoside-diphosphate reductase beta chain
+273941..274807	-	288	161017136	prmC	BT_0214	-	-	Methylase
+274804..275880	-	358	161017137	prfA	BT_0215	-	-	peptide chain release factor 1
+276105..276518	-	137	161017138	fur2	BT_0216	-	-	ferric uptake regulation protein
+276535..279252	-	905	161017139	secA	BT_0217	-	-	translocase SecA subunit protein precursor
+279677..280630	+	317	161017140	-	BT_0218	-	-	peptidyl-prolyl cis-trans isomerase
+280757..281989	+	410	161017141	argJ	BT_0219	-	-	arginine biosynthesis bifunctional protein
+282115..282528	+	137	161017142	mutT	BT_0220	-	-	mutator MutT protein
+282715..282903	+	62	161017143	int	BT_0221	-	-	putative phage integrase
+282828..282959	+	43	161017144	int	BT_0222	-	-	hypothetical protein predicted by Glimmer/Critica
+284202..285062	-	286	161017145	-	BT_0225	-	-	conserved hypothetical protein
+285214..286587	-	457	161017146	pepA	BT_0226	-	-	Leucyl aminopeptidase
+286601..287599	-	332	161017147	coaA	BT_0227	-	-	pantothenate kinase
+287721..288710	-	329	161017148	ansA	BT_0228	-	-	L-asparaginase
+288929..289510	+	193	161017149	hslV	BT_0229	-	-	heat shock protein
+289511..290821	+	436	161017150	hslU	BT_0230	-	-	heat shock protein
+290840..291850	-	336	161017151	rsmC	BT_0231	-	-	ribosomal RNA small subunit methyltransferase C
+291909..294104	-	731	161017152	pnp	BT_0232	-	-	polyribonucleotide nucleotidyltransferase
+294355..294624	-	89	161017153	rpsO	BT_0233	-	-	30S ribosomal protein S15
+294939..296567	+	542	161017154	-	BT_0234	-	-	transport transmembrane protein
+298152..299114	-	320	161017155	truB	BT_0237	-	-	tRNA pseudouridine synthase B
+299119..299526	-	135	161017156	rbfA	BT_0238	-	-	Ribosome-binding factor A
+299650..302178	-	842	161017157	infB	BT_0239	-	-	translation initiation factor IF-2
+302175..302810	-	211	161017158	-	BT_0240	-	-	conserved hypothetical protein
+302811..304442	-	543	161017159	nusA	BT_0241	-	-	transcription elongation protein
+304490..305116	-	208	161017160	-	BT_0242	-	-	conserved hypothetical protein
+305267..305968	-	233	161017161	-	BT_0243	-	-	tRNA (guanine-N7-)-methyltransferase
+305965..307233	-	422	161017162	metK	BT_0244	-	-	S-adenosylmethionine synthetase
+307359..307778	-	139	161017163	dicA	BT_0245	-	-	transcriptional regulator
+307928..309562	-	544	161017164	lnt	BT_0246	-	-	Apolipoprotein N-acyltransferase
+309525..310550	-	341	161017165	tlyC	BT_0247	-	-	hemolysin
+310635..311126	-	163	161017166	-	BT_0248	-	-	conserved hypothetical protein
+311123..312256	-	377	161017167	phoH	BT_0249	-	-	phosphate starvation-induced protein phoH
+312385..313761	-	458	161017168	miaB	BT_0250	-	-	bifunctional enzyme
+313793..314284	-	163	161017169	rimI	BT_0251	-	-	ribosomal-protein-alanine acetyltransferase
+314284..314970	-	228	161017170	-	BT_0252	-	-	conserved hypothetical protein
+315865..316893	-	342	161017171	-	BT_0255	-	-	conserved hypothetical protein
+316943..317548	-	201	161017172	recR	BT_0256	-	-	recombination protein RecR
+317580..317903	-	107	161017173	-	BT_0257	-	-	conserved hypothetical protein
+317918..319858	-	646	161017174	dnaX	BT_0258	-	-	DNA polymerase III gamma and tau subunit
+320695..321099	-	134	161017175	-	BT_0259	-	-	hypothetical protein
+321646..322509	-	287	161017176	pheA	BT_0261	-	-	chorismate mutase/prephenate dehydratase
+322506..323237	-	243	161017177	kdsB	BT_0262	-	-	3-deoxy-manno-octulosonate cytidylyltransferase
+323342..323905	+	187	161017178	cycM	BT_0264	-	-	cytochrome c
+324799..325593	-	264	161017179	moeB	BT_0265	-	-	molybdopterin biosynthesis protein MoeB
+325681..326619	+	312	161017180	gshB	BT_0266	-	-	glutathione synthetase
+326759..327805	+	348	161017181	-	BT_0267	-	-	periplasmic phosphate binding protein
+327882..329342	+	486	161017182	pstC	BT_0268	-	-	phosphate ABC transporter, permease protein
+329339..330628	+	429	161017183	pstA	BT_0269	-	-	phosphate ABC transporter, permease protein
+330680..331438	+	252	161017184	pstB	BT_0270	-	-	phosphate ABC transporter, ATP-binding protein
+331460..332182	+	240	161017185	phoU	BT_0271	-	-	phosphate transport system protein PhoU
+332785..333621	+	278	161017186	-	BT_0273	-	-	hypothetical protein
+333799..335046	+	415	161017187	ampS	BT_0274	-	-	aminopeptidase
+335326..336201	+	291	161017188	mutM	BT_0275	-	-	Formamidopyrimidine-DNA glycosylase
+336287..337681	+	464	161017189	-	BT_0276	-	-	amidohydrolase
+337674..338294	+	206	161017190	rnd1	BT_0277	-	-	Ribonuclease D
+341576..342409	+	277	161017191	hbpC	BT_0280	-	-	hemin binding protein C
+342747..343619	+	290	161017192	hbpA	BT_0281	-	-	hemin binding protein A
+345027..346661	+	544	161017193	hbpB	BT_0283	-	-	hemin binding protein B
+346911..349826	+	971	161017194	ileS	BT_0285	-	-	Isoleucyl-tRNA synthetase
+350004..350495	+	163	161017195	-	BT_0286	-	-	conserved hypothetical protein
+351151..351597	-	148	161017196	codA	BT_0287	-	-	Cytosine/adenosine deaminase
+351865..353265	+	466	161017197	rluB	BT_0288	-	-	ribosomal large subunit pseudouridine synthase B
+353246..353812	+	188	161017198	-	BT_0289	-	-	conserved hypothetical protein
+354612..355058	+	148	161017199	-	BT_0290	-	-	hypothetical protein
+356552..357883	+	443	161017200	pmbA	BT_0291	-	-	PmbA protein
+357948..358673	+	241	161017201	-	BT_0292	-	-	inositol monophosphatase family protein
+358719..358964	+	81	161017202	-	BT_0293	-	-	conserved hypothetical protein
+360194..361516	+	440	161017203	kdtA	BT_0295	-	-	3-deoxy-D-manno-octulosonic-acid transferase
+361506..362546	+	346	161017204	lpxK	BT_0296	-	-	tetraacyldisaccharide 4'-kinase
+362566..362802	-	78	161017205	-	BT_0297	-	-	conserved hypothetical protein
+362914..364767	-	617	161017206	mutL	BT_0298	-	-	DNA mismatch repair protein MutL
+365041..366129	+	362	161017207	dcd	BT_0299	-	-	2'-deoxycytidine 5'-triphosphate deaminase
+367213..368364	+	383	161017208	lldD	BT_0300	-	-	L-lactate dehydrogenase
+369533..369715	-	60	161017209	-	BT_0301	-	-	hypothetical protein predicted by Glimmer/Critica
+371757..371852	+	31	161017210	-	BT_0303	-	-	hypothetical protein predicted by Glimmer/Critica
+372416..372631	-	71	161017211	-	BT_0305	-	-	hypothetical protein
+372788..373450	-	220	161017212	-	BT_0306	-	-	phage-related lysozyme
+374581..375165	+	194	161017213	-	BT_0307	-	-	phage-related modification methylase
+375595..376752	+	385	161017214	int	BT_0309	-	-	phage-related integrase
+377025..377615	+	196	161017215	-	BT_0310	-	-	anti-repressor protein
+377735..378010	+	91	161017216	dinJ	BT_0311	-	-	DNA-damage-inducible protein
+378023..378304	+	93	161017217	-	BT_0312	-	-	conserved hypothetical protein
+378429..378641	-	70	161017218	-	BT_0313	-	-	hypothetical prophage protein
+378770..378997	-	75	161017219	-	BT_0314	-	-	hypothetical protein
+378994..379656	-	220	161017220	-	BT_0315	-	-	phage-related lysozyme
+379763..380086	+	107	161017221	-	BT_0316	-	-	conserved hypothetical protein
+380098..380409	+	103	161017222	-	BT_0317	-	-	conserved hypothetical prophage protein
+380482..381789	-	435	161017223	-	BT_0318	-	-	hypothetical prophage protein
+381786..382010	-	74	161017224	gpX	BT_0319	-	-	phage tail protein
+382007..382387	-	126	161017225	gpU	BT_0320	-	-	phage-related tail protein
+382393..384528	-	711	161017226	-	BT_0321	-	-	phage-related hypothetical protein
+384635..384922	-	95	161017227	-	BT_0322	-	-	hypothetical prophage protein
+384924..385430	-	168	161017228	gpFII	BT_0323	-	-	phage tail tube protein
+385430..386641	-	403	161017229	gpFI	BT_0324	-	-	phage-related tail sheath protein
+387028..387759	+	243	161017230	-	BT_0325	-	-	hypothetical prophage protein
+387756..388034	+	92	161017231	-	BT_0326	-	-	hypothetical prophage protein
+388080..388409	-	109	161017232	vap	BT_0327	-	-	virulence-associated protein
+388497..388676	+	59	161017233	-	BT_0328	-	-	hypothetical prophage protein
+389019..389459	-	146	161017234	-	BT_0329	-	-	hypothetical protein predicted by Glimmer/Critica
+389585..390355	-	256	161017235	-	BT_0331	-	-	hypothetical prophage protein
+390370..393513	-	1047	161017236	-	BT_0332	-	-	hypothetical protein
+393515..394621	-	368	161017237	gp27	BT_0333	-	-	phage protein
+394621..395448	-	275	161017238	gp26	BT_0334	-	-	Phage-related baseplate assembly protein
+395445..395774	-	109	161017239	gp25	BT_0335	-	-	phage-related baseplate assembly protein
+395783..396448	-	221	161017240	-	BT_0336	-	-	phage-related baseplate assembly protein
+396429..396971	-	180	161017241	-	BT_0337	-	-	hypothetical prophage protein
+397025..397339	+	104	161017242	-	BT_0338	-	-	killer protein
+397356..397652	+	98	161017243	vap	BT_0339	-	-	virulence-associated protein
+397699..397977	-	92	161017244	-	BT_0340	-	-	hypothetical prophage protein
+397974..398159	-	61	161017245	-	BT_0341	-	-	anti-repressor protein (fragment)
+398207..398386	-	59	161017246	-	BT_0342	-	-	anti-repressor protein (fragment)
+399089..400174	+	361	161017247	-	BT_0343	-	-	hypothetical prophage protein
+400178..400318	-	46	161017248	-	BT_0344	-	-	hypothetical prophage protein
+400328..400555	-	75	161017249	-	BT_0344a	-	-	hypothetical protein
+400557..401633	-	358	161017250	gp20	BT_0345	-	-	phage protein
+401646..402014	-	122	161017251	gp19	BT_0346	-	-	phage protein
+402274..403320	-	348	161017252	gp18	BT_0347	-	-	putative capsid protein of prophage
+403328..404899	-	523	161017253	gp17	BT_0348	-	-	phage-related portal protein
+404899..405147	-	82	161017254	-	BT_0349	-	-	hypothetical prophage protein
+405151..407079	-	642	161017255	gp15	BT_0350	-	-	terminase large subunit
+407110..407661	-	183	161017256	gp13	BT_0351	-	-	phage protein
+407731..408012	+	93	161017257	-	BT_0352	-	-	conserved hypothetical protein
+407990..408295	+	101	161017258	-	BT_0353	-	-	hypothetical prophage protein
+408348..408626	-	92	161017259	-	BT_0354	-	-	hypothetical prophage protein
+408623..409363	-	246	161017260	-	BT_0355	-	-	phage-related hypothetical protein
+409962..410540	-	192	161017261	-	BT_0356	-	-	hypothetical prophage protein
+410544..410885	-	113	161017262	-	BT_0357	-	-	hypothetical prophage protein
+411440..411862	+	140	161017263	-	BT_0360	-	-	hypothetical protein
+411865..412407	-	180	161017264	-	BT_0361	-	-	hypothetical protein
+412418..412864	-	148	161017265	ssb	BT_0362	-	-	single-strand binding protein (ssb)
+413007..413381	-	124	161017266	-	BT_0363	-	-	hypothetical protein
+413407..414279	-	290	161017267	dam	BT_0364	-	-	DNA methyltransferase
+414414..414935	-	173	161017268	-	BT_0365	-	-	hypothetical protein predicted by Glimmer/Critica
+414916..415272	-	118	161017269	-	BT_0366	-	-	hypothetical protein
+415436..415855	-	139	161017270	-	BT_0367	-	-	hypothetical protein
+415848..416921	-	357	161017271	-	BT_0368	-	-	hypothetical protein
+416911..417390	-	159	161017272	-	BT_0369	-	-	phage-related conserved hypothetical protein
+417814..418464	+	216	161017273	-	BT_0370	-	-	hypothetical protein
+418627..419001	+	124	161017274	-	BT_0371	-	-	hypothetical protein
+419070..419462	+	130	161017275	-	BT_0372	-	-	phage-related hypothetical protein
+419472..420230	+	252	161017276	-	BT_0373	-	-	hypothetical prophage protein
+420588..421178	+	196	161017277	-	BT_0374	-	-	anti-repressor protein
+421330..422106	+	258	161017278	-	BT_0375	-	-	phage-related protein
+422108..422731	+	207	161017279	exo	BT_0376	-	-	phage-related exonuclease
+422808..423011	+	67	161017280	-	BT_0377	-	-	phage-related protein
+423633..423824	+	63	161017281	slyX	BT_0378	-	-	SlyX protein
+424087..424194	+	35	161017282	int	BT_0379	-	-	hypothetical protein predicted by Glimmer/Critica
+424854..425174	-	106	161017283	-	BT_0379a	-	-	conserved hypothetical protein
+425361..426788	+	475	161017284	aroP	BT_0380	-	-	aromatic amino acid transport protein
+426830..427510	+	226	161017285	cbiO	BT_0381	-	-	ABC transporter ATP-binding protein
+427507..428145	+	212	161017286	-	BT_0382	-	-	predicted membrane protein
+428161..428715	+	184	161017287	-	BT_0383	-	-	bioY family protein
+429027..429581	+	184	161017288	-	BT_0384	-	-	bioY family protein
+431077..431235	-	52	161017289	-	BT_0387	-	-	hypothetical protein
+433469..433726	-	85	161017290	dinJ	BT_0389	-	-	DNA-damage-inducible protein
+434103..434453	-	116	161017291	-	BT_0390	-	-	helicase domain protein (fragment)
+435074..436837	+	587	161017292	-	BT_0392	-	-	conserved hypothetical protein
+436928..444469	+	2513	161017293	fhaB	BT_0394	-	-	filamentous hemagglutinin
+444534..445124	+	196	161017294	-	BT_0395	-	-	hypothetical protein predicted by Glimmer/Critica
+445366..446079	+	237	161017295	-	BT_0396	-	-	hypothetical protein predicted by Glimmer/Critica
+446073..446747	+	224	161017296	-	BT_0397	-	-	hypothetical protein
+446782..447246	+	154	161017297	-	BT_0398	-	-	hypothetical protein predicted by Glimmer/Critica
+447352..447837	+	161	161017298	-	BT_0399	-	-	hypothetical protein predicted by Glimmer/Critica
+447834..448412	+	192	161017299	-	BT_0400	-	-	hypothetical protein predicted by Glimmer/Critica
+448465..449046	+	193	161017300	-	BT_0401	-	-	hypothetical protein predicted by Glimmer/Critica
+449288..450526	+	412	161017301	-	BT_0402	-	-	hypothetical protein
+450726..451307	+	193	161017302	-	BT_0403	-	-	hypothetical protein
+451360..451950	+	196	161017303	-	BT_0404	-	-	hypothetical protein
+452047..454611	+	854	161017304	-	BT_0405	-	-	hypothetical protein predicted by Glimmer/Critica
+454792..455592	+	266	161017305	-	BT_0406	-	-	hypothetical protein
+455554..456534	-	326	161017306	-	BT_0407	-	-	helicase domain protein (fragment)
+457310..459097	+	595	161017307	hec1	BT_0409	-	-	hemolysin activation protein precursor
+459123..467213	+	2696	161017308	fhaB	BT_0410	-	-	filamentous hemagglutinin
+467210..467617	+	135	161017309	-	BT_0411	-	-	hypothetical protein
+467694..469082	+	462	161017310	fhaB	BT_0412	-	-	filamentous hemagglutinin
+469079..469492	+	137	161017311	-	BT_0413	-	-	hypothetical protein
+469569..470957	+	462	161017312	fhaB	BT_0414	-	-	filamentous hemagglutinin
+470978..471385	+	135	161017313	-	BT_0415	-	-	hypothetical protein
+471462..472850	+	462	161017314	fhaB	BT_0416	-	-	filamentous hemagglutinin
+472847..473260	+	137	161017315	-	BT_0417	-	-	hypothetical protein
+473337..474260	+	307	161017316	fhaB	BT_0418	-	-	filamentous hemagglutinin
+474253..474783	+	176	161017317	fhaB	BT_0419	-	-	filamentous hemagglutinin
+474780..475193	+	137	161017318	-	BT_0420	-	-	hypothetical protein
+475475..475756	+	93	161017319	vapD	BT_0421	-	-	conserved hypothetical protein
+475775..476074	+	99	161017320	vapA	BT_0422	-	-	virulence-associated protein A
+476132..477169	-	345	161017321	int	BT_0423	-	-	phage-related integrase/recombinase
+477172..477420	-	82	161017322	-	BT_0424	-	-	hypothetical protein
+477532..478155	-	207	161017323	exo	BT_0425	-	-	phage-related exonuclease
+478157..478978	-	273	161017324	-	BT_0426	-	-	phage-related protein
+479037..479579	-	180	161017325	-	BT_0427	-	-	phage-related protein
+479573..480064	-	163	161017326	-	BT_0428	-	-	phage-related protein
+480068..480682	-	204	161017327	-	BT_0429	-	-	phage-related protein
+480694..481011	-	105	161017328	-	BT_0430	-	-	phage-related protein
+481024..481755	-	243	161017329	-	BT_0431	-	-	phage-related hypothetical protein
+481828..482184	-	118	161017330	-	BT_0432	-	-	hypothetical protein
+482473..482610	-	45	161017331	-	BT_0434	-	-	hypothetical protein
+482778..483380	-	200	161017332	-	BT_0435	-	-	conserved hypothetical protein
+483771..484220	+	149	161017333	-	BT_0437	-	-	phage-related conserved hypothetical protein
+484239..485384	+	381	161017334	-	BT_0438	-	-	hypothetical protein
+485428..485754	+	108	161017335	-	BT_0439	-	-	hypothetical protein
+486046..486417	+	123	161017336	-	BT_0440	-	-	hypothetical protein predicted by Glimmer/Critica
+486362..487444	+	360	161017337	-	BT_0441	-	-	hypothetical protein predicted by Glimmer/Critica
+487593..487919	-	108	161017338	-	BT_0442	-	-	hypothetical protein
+487916..488140	-	74	161017339	-	BT_0443	-	-	hypothetical protein
+488363..488809	+	148	161017340	ssb	BT_0444	-	-	single-strand binding protein (ssb)
+488863..489363	+	166	161017341	-	BT_0445	-	-	conserved hypothetical protein
+489416..489673	+	85	161017342	pemI	BT_0446	-	-	PemI protein
+489670..489996	+	108	161017343	pemK	BT_0447	-	-	PemK protein
+490207..490434	+	75	161017344	-	BT_0448	-	-	hypothetical protein
+490418..490687	+	89	161017345	-	BT_0449	-	-	hypothetical protein
+490717..491163	-	148	161017346	-	BT_0449a	-	-	hypothetical protein
+491236..491679	-	147	161017347	-	BT_0450	-	-	hypothetical protein predicted by Glimmer/Critica
+491711..492058	-	115	161017348	-	BT_0450a	-	-	hypothetical protein
+493826..494272	-	148	161017349	-	BT_0452	-	-	phage-related protein
+494485..495063	-	192	161017350	-	BT_0453	-	-	phage-related protein
+495145..495825	-	226	161017351	-	BT_0454	-	-	phage-related protein
+497188..501543	-	1451	161017352	-	BT_0455	-	-	helicase/methyltransferase
+501570..502151	-	193	161017353	-	BT_0456	-	-	helicase domain protein (fragment)
+502694..504310	-	538	161017354	-	BT_0457	-	-	conserved hypothetical protein
+504307..505149	-	280	161017355	-	BT_0458	-	-	conserved hypothetical protein
+505305..505505	-	66	161017356	-	BT_0459	-	-	conserved hypothetical protein
+505715..505753	-	12	161017357	-	BT_0460	-	-	hypothetical protein predicted by Glimmer/Critica
+505806..506879	-	357	161017358	int	BT_0461	-	-	phage-related integrase
+506977..507492	+	171	161017359	-	BT_0462	-	-	phage related protein
+507477..509531	+	684	161017360	-	BT_0463	-	-	phage-related protein
+509548..510444	+	298	161017361	-	BT_0464	-	-	hypothetical protein
+510542..511684	+	380	161017362	-	BT_0465	-	-	hypothetical protein
+511704..512162	+	152	161017363	-	BT_0466	-	-	hypothetical protein
+512237..512935	+	232	161017364	-	BT_0467	-	-	hypothetical protein
+512935..514392	+	485	161017365	-	BT_0468	-	-	hypothetical protein
+514434..514817	+	127	161017366	-	BT_0469	-	-	hypothetical protein
+514819..515874	+	351	161017367	-	BT_0470	-	-	hypothetical protein
+515874..517823	+	649	161017368	-	BT_0471	-	-	hypothetical protein
+517816..520026	+	736	161017369	-	BT_0472	-	-	hypothetical protein
+520026..520610	+	194	161017370	-	BT_0473	-	-	hypothetical protein
+520750..521907	+	385	161017371	int	BT_0474	-	-	phage-related integrase
+522179..522736	+	185	161017372	-	BT_0475	-	-	anti-repressor protein
+522822..523499	+	225	161017373	-	BT_0476	-	-	hypothetical prophage protein
+523496..523774	+	92	161017374	-	BT_0477	-	-	hypothetical prophage protein
+523894..524169	+	91	161017375	dinJ	BT_0478	-	-	DNA-damage-inducible protein
+524182..524463	+	93	161017376	-	BT_0479	-	-	conserved hypothetical protein
+524588..524800	-	70	161017377	-	BT_0480	-	-	hypothetical prophage protein
+524929..525156	-	75	161017378	-	BT_0481	-	-	hypothetical prophage protein
+525153..525815	-	220	161017379	-	BT_0482	-	-	phage-related lysozyme
+526038..526277	+	79	161017380	-	BT_0483	-	-	conserved hypothetical prophage protein
+526264..526584	+	106	161017381	-	BT_0484	-	-	hypothetical prophage protein
+526628..526906	-	92	161017382	-	BT_0485	-	-	hypothetical prophage protein
+526903..527628	-	241	161017383	-	BT_0486	-	-	phage-related hypothetical protein
+527930..529237	-	435	161017384	-	BT_0487	-	-	hypothetical prophage protein
+529234..529458	-	74	161017385	gpX	BT_0488	-	-	phage tail protein
+529455..529835	-	126	161017386	gpU	BT_0489	-	-	phage-related tail protein
+529841..531976	-	711	161017387	-	BT_0490	-	-	phage-related hypothetical protein
+532083..532370	-	95	161017388	-	BT_0491	-	-	hypothetical protein
+532372..532878	-	168	161017389	gpFII	BT_0492	-	-	phage tail tube protein
+532878..534089	-	403	161017390	gpFI	BT_0493	-	-	phage-related tail sheath protein
+534476..535207	+	243	161017391	-	BT_0494	-	-	hypothetical prophage protein
+535204..535482	+	92	161017392	-	BT_0495	-	-	phage-related hypothetical protein
+535528..535869	-	113	161017393	vap	BT_0496	-	-	virulence-associated protein
+535880..536158	-	92	161017394	-	BT_0497	-	-	conserved hypothetical protein
+536392..536643	+	83	161017395	-	BT_0498	-	-	hypothetical protein
+536636..537022	+	128	161017396	-	BT_0499	-	-	hypothetical protein
+537032..537328	-	98	161017397	vap	BT_0500	-	-	virulence-associated protein
+537416..537595	+	59	161017398	-	BT_0501	-	-	hypothetical prophage protein
+537938..538378	-	146	161017399	-	BT_0502	-	-	hypothetical protein predicted by Glimmer/Critica
+538504..539274	-	256	161017400	-	BT_0504	-	-	hypothetical prophage protein
+539289..542432	-	1047	161017401	-	BT_0505	-	-	hypothetical protein
+542434..543540	-	368	161017402	gp27	BT_0506	-	-	phage protein
+543540..544367	-	275	161017403	gp26	BT_0507	-	-	Phage-related baseplate assembly protein
+544364..544693	-	109	161017404	gp25	BT_0508	-	-	phage-related baseplate assembly protein
+544702..545367	-	221	161017405	gp24	BT_0509	-	-	phage-related baseplate assembly protein
+545348..545890	-	180	161017406	-	BT_0510	-	-	hypothetical prophage protein
+545940..546212	+	90	161017407	-	BT_0511	-	-	hypothetical prophage protein
+546202..546519	+	105	161017408	-	BT_0512	-	-	hypothetical prophage protein
+546565..546837	+	90	161017409	-	BT_0513	-	-	conserved hypothetical protein
+546908..547216	-	102	161017410	-	BT_0514	-	-	conserved hypothetical protein
+547213..547461	-	82	161017411	-	BT_0515	-	-	conserved hypothetical protein
+547556..547912	-	118	161017412	-	BT_0516	-	-	hypothetical prophage protein
+547914..548990	-	358	161017413	gp20	BT_0517	-	-	phage protein
+549003..549371	-	122	161017414	gp19	BT_0518	-	-	phage protein
+549631..550680	-	349	161017415	gp18	BT_0519	-	-	putative capsid protein of prophage
+550688..552259	-	523	161017416	gp17	BT_0520	-	-	phage-related portal protein
+552259..552507	-	82	161017417	-	BT_0521	-	-	hypothetical phage protein
+552511..554439	-	642	161017418	gp15	BT_0522	-	-	phage terminase large subunit
+554470..555021	-	183	161017419	gp13	BT_0523	-	-	phage protein
+555091..555372	+	93	161017420	-	BT_0524	-	-	conserved hypothetical protein
+555350..555655	+	101	161017421	-	BT_0525	-	-	hypothetical protein
+555708..555986	-	92	161017422	-	BT_0526	-	-	hypothetical prophage protein
+555983..556723	-	246	161017423	-	BT_0527	-	-	phage-related hypothetical protein
+557322..557900	-	192	161017424	-	BT_0528	-	-	hypothetical prophage protein
+557904..558218	-	104	161017425	-	BT_0529	-	-	hypothetical prophage protein
+558736..559158	+	140	161017426	-	BT_0531	-	-	hypothetical protein
+559162..559614	-	150	161017427	-	BT_0532	-	-	hypothetical protein
+559842..561008	+	388	161017428	int	BT_0533	-	-	phage-related integrase
+561209..561409	+	66	161017429	-	BT_0535	-	-	conserved hypothetical protein
+562114..562404	+	96	161017430	yacA	BT_0536	-	-	conserved hypothetical protein
+562401..562673	+	90	161017431	yacB	BT_0537	-	-	putative stability determinant
+562872..563372	+	166	161017432	fragment 1	BT_0538	-	-	conserved hypothetical protein
+563421..563822	+	133	161017433	fragment 2	BT_0539	-	-	conserved hypothetical protein
+564495..569480	+	1661	161017434	-	BT_0541	-	-	helicase/methyltransferase
+571114..571794	+	226	161017435	-	BT_0542	-	-	phage-related protein
+571876..572454	+	192	161017436	-	BT_0543	-	-	phage-related protein
+572667..573299	+	210	161017437	-	BT_0544	-	-	phage-related protein
+574974..575432	-	152	161017438	ssb	BT_0546	-	-	single-strand binding protein (ssb)
+575560..575934	-	124	161017439	-	BT_0547	-	-	hypothetical protein
+575960..576355	-	131	161017440	-	BT_0548	-	-	hypothetical protein
+576330..577310	-	326	161017441	-	BT_0549	-	-	hypothetical protein
+577390..577869	-	159	161017442	-	BT_0550	-	-	phage-related conserved hypothetical protein
+578509..578961	-	150	161017443	-	BT_0551a	-	-	hypothetical protein
+579344..579997	+	217	161017444	-	BT_0553	-	-	hypothetical prophage protein
+580018..581073	+	351	161017445	-	BT_0554	-	-	conserved hypothetical protein
+581482..581856	+	124	161017446	-	BT_0555	-	-	hypothetical protein
+581925..582317	+	130	161017447	-	BT_0556	-	-	phage-related hypothetical protein
+582327..583085	+	252	161017448	-	BT_0557	-	-	hypothetical prophage protein
+583098..583415	+	105	161017449	-	BT_0558	-	-	phage-related protein
+583427..584041	+	204	161017450	-	BT_0559	-	-	phage-related protein
+584045..584536	+	163	161017451	-	BT_0560	-	-	phage-related protein
+584530..585072	+	180	161017452	-	BT_0561	-	-	phage-related protein
+585131..585907	+	258	161017453	-	BT_0562	-	-	phage-related protein
+585909..586532	+	207	161017454	exo	BT_0563	-	-	phage-related exonuclease
+586611..586814	+	67	161017455	-	BT_0564	-	-	hypothetical prophage protein
+587390..588547	+	385	161017456	serC	BT_0565	-	-	Phosphoserine aminotransferase
+588929..590218	+	429	161017457	purA	BT_0567	-	-	adenylosuccinate synthetase
+590455..591876	+	473	161017458	-	BT_0568	-	-	conserved hypothetical protein
+592071..592955	-	294	161017459	rpoH1	BT_0569	-	-	RNA polymerase sigma-32 factor
+593105..594109	-	334	161017460	rluD	BT_0570	-	-	ribosomal large subunit pseudouridine synthase D
+594141..595571	-	476	161017461	aldA	BT_0571	-	-	aldehyde dehydrogenase
+596034..598610	+	858	161017462	ftsK1	BT_0572	-	-	cell division transmembrane protein FtsK
+600138..601826	+	562	161017463	-	BT_0574	-	-	conserved hypothetical protein
+601845..602255	-	136	161017464	mscL	BT_0575	-	-	Large-conductance mechanosensitive channel
+603523..604605	+	360	161017465	pyrD	BT_0576	-	-	Dihydroorotate dehydrogenase
+605381..605707	+	108	161017466	-	BT_0577	-	-	hypothetical protein predicted by Glimmer/Critica
+605796..606707	+	303	161017467	-	BT_0578	-	-	hypothetical protein predicted by Glimmer/Critica
+606809..607720	+	303	161017468	-	BT_0579	-	-	hypothetical protein predicted by Glimmer/Critica
+608009..608842	+	277	161017469	-	BT_0580	-	-	hypothetical protein predicted by Glimmer/Critica
+608835..609722	+	295	161017470	-	BT_0581	-	-	putative membrane protein
+609725..610639	+	304	161017471	-	BT_0582	-	-	putative membrane protein
+611094..611495	+	133	161017472	-	BT_0583	-	-	hypothetical protein predicted by Glimmer/Critica
+611485..612000	+	171	161017473	-	BT_0584	-	-	hypothetical protein
+614270..615490	-	406	161017474	-	BT_0588	-	-	conserved hypothetical protein
+616128..616907	-	259	161017475	-	BT_0590	-	-	hypothetical protein
+618621..619748	+	375	161017476	-	BT_0594	-	-	puative permease, major facilitator superfamily
+620381..621724	+	447	161017477	norM	BT_0595	-	-	conserved multidrug resistance protein
+621972..622673	-	233	161017478	-	BT_0596	-	-	conserved hypothetical protein
+623134..624561	+	475	161017479	-	BT_0597	-	-	glutamine synthetase-related protein
+624573..625856	+	427	161017480	ordL	BT_0598	-	-	oxidoreductase
+625977..627452	+	491	161017481	zwf	BT_0599	-	-	Glucose-6-phosphate 1-dehydrogenase
+627470..628222	+	250	161017482	pgl	BT_0600	-	-	6-phosphogluconolactonase
+628260..630101	+	613	161017483	edd	BT_0601	-	-	phosphogluconate dehydratase
+630168..631067	-	299	161017484	folD	BT_0602	-	-	methylenetetrahydrofolate dehydrogenase (NADP+) / methenyltetrahydrofolate cyclohydrolase
+631385..633265	+	626	161017485	-	BT_0603	-	-	conserved hypothetical protein
+633587..633730	-	47	161017486	-	BT_0604	-	-	hypothetical protein predicted by Glimmer/Critica
+633872..634705	+	277	161017487	-	BT_0605	-	-	conserved hypothetical protein
+634774..636147	+	457	161017488	gshA	BT_0606	-	-	glutamate-cysteine ligase
+638070..639425	+	451	161017489	ydjN	BT_0608	-	-	putative sodium:dicarboxylate symporter
+639433..640311	-	292	161017490	-	BT_0609	-	-	conserved hypothetical protein
+640510..641295	+	261	161017491	comF	BT_0610	-	-	competence protein ComF
+641344..641598	+	84	161017492	grxC	BT_0611	-	-	glutaredoxin
+641619..642362	-	247	161017493	ubiG	BT_0612	-	-	3-demethylubiquinone-9 3-methyltransferase
+642540..643805	+	421	161017494	lysC	BT_0613	-	-	aspartokinase, alpha and beta subunits
+644363..645022	+	219	161017495	-	BT_0614	-	-	putative thymidylate kinase
+645598..646959	-	453	161017496	nhaA	BT_0615	-	-	sodium-proton antiporter
+647108..648814	-	568	161017497	-	BT_0616	-	-	conserved hypothetical protein
+649169..650941	+	590	161017498	-	BT_0617	-	-	conserved hypothetical protein
+651512..652183	+	223	161017499	-	BT_0618	-	-	conserved hypothetical protein
+652188..653612	+	474	161017500	engA	BT_0619	-	-	GTP-binding protein
+655443..655877	+	144	161017501	atpI	BT_0621	-	-	ATP synthase protein I
+655858..656643	+	261	161017502	atpB	BT_0622	-	-	ATP synthase, A chain
+656698..656928	+	76	161017503	atpE	BT_0623	-	-	ATP synthase, subunit C
+657058..657624	+	188	161017504	atpF1	BT_0624	-	-	ATP synthase, B' chain
+657636..658130	+	164	161017505	atpF2	BT_0625	-	-	ATP synthase, B chain
+659649..661871	-	740	161017506	glyS	BT_0626	-	-	glycyl-tRNA synthetase beta chain
+661871..662812	-	313	161017507	glyQ	BT_0627	-	-	glycyl-tRNA synthetase alpha chain
+662910..664604	-	564	161017508	-	BT_0628	-	-	conserved hypothetical protein
+664700..665716	-	338	161017509	ispB	BT_0629	-	-	octaprenyl-diphosphate synthase
+665954..666742	+	262	161017510	-	BT_0631	-	-	methyltransferase
+666928..667776	+	282	161017511	sohB	BT_0632	-	-	protease
+668030..668929	+	299	161017512	ipk	BT_0633	-	-	4-diphosphocytidyl-2-C-methyl-D-erythritolkinase
+669170..669844	+	224	161017513	rnhB	BT_0634	-	-	Ribonuclease HII
+669841..670803	+	320	161017514	-	BT_0635	-	-	conserved hypothetical protein
+670806..672215	+	469	161017515	-	BT_0636	-	-	oxidoreductase
+672359..672886	+	175	161017516	-	BT_0637	-	-	conserved hypothetical protein
+673820..675094	-	424	161017517	purD	BT_0639	-	-	Phosphoribosylamine-glycine ligase
+675185..676189	+	334	161017518	ubiA	BT_0640	-	-	4-hydroxybenzoate octaprenyltransferase
+676729..677352	-	207	161017519	pdxH	BT_0642	-	-	Pyridoxamine 5 prime-phosphate oxidase
+677686..678588	+	300	161017520	dnaJ2	BT_0643	-	-	heat shock chaperone protein DnaJ
+678719..679537	+	272	161017521	fabI2	BT_0644	-	-	Enoyl-[acyl-carrier-protein ] reductase
+679683..680771	+	362	161017522	aroC	BT_0645	-	-	Chorismate synthase
+680787..681890	+	367	161017523	ribA	BT_0646	-	-	GTP cyclohydrolase II
+681898..682152	+	84	161017524	xseB	BT_0647	-	-	Exodeoxyribonuclease small subunit
+682398..684305	+	635	161017525	dxs	BT_0649	-	-	1-deoxy-D-xylulose-5-phosphate synthase
+684322..685065	+	247	161017526	tlyA	BT_0650	-	-	hemolysin-like protein
+685062..686315	+	417	161017527	-	BT_0651	-	-	RNA methyltransferase
+686879..688294	-	471	161017528	tldD	BT_0652	-	-	TldD protein
+688405..688995	-	196	161017529	-	BT_0653	-	-	conserved hypothetical protein
+689373..690308	+	311	161017530	cyoE	BT_0654	-	-	protoheme IX farnesyltransferase
+690492..691547	+	351	161017531	lytB	BT_0655	-	-	4-hydroxy-3-methylbut-2-enyl diphosphate reductase
+691547..692506	+	319	161017532	thrB	BT_0656	-	-	homoserine kinase
+692512..692979	+	155	161017533	rnhA	BT_0657	-	-	ribonuclease H
+693008..693886	-	292	161017534	-	BT_0658	-	-	conserved hypothetical protein
+693958..694542	+	194	161017535	-	BT_0659	-	-	conserved hypothetical protein
+694577..694843	-	88	161017536	int	BT_0660	-	-	hypothetical protein
+694901..697786	-	961	161017537	-	BT_0661	-	-	conserved hypothetical protein
+698197..699471	-	424	161017538	-	BT_0662	-	-	processing protease protein
+699555..700952	-	465	161017539	thrC	BT_0663	-	-	Threonine synthase
+701420..701782	-	120	161017540	-	BT_0664	-	-	hypothetical protein
+701998..702360	-	120	161017541	-	BT_0665	-	-	hypothetical protein
+702541..702897	-	118	161017542	-	BT_0666	-	-	hypothetical protein
+704972..705667	-	231	161017543	-	BT_0667	-	-	conserved hypothetical protein
+705991..707127	+	378	161017544	ccrM	BT_0668	-	-	adenine DNA methyltransferase protein CcrM
+707900..708955	-	351	161017545	mutY	BT_0669	-	-	A/G-specific adenine glycosylase MutY
+709164..709664	+	166	161017546	-	BT_0670	-	-	conserved hypothetical protein
+709748..710404	+	218	161017547	-	BT_0671	-	-	conserved hypothetical protein
+710584..713250	+	888	161017548	ppdK	BT_0673	-	-	pyruvate phosphate dikinase
+714998..715840	-	280	161017549	-	BT_0675	-	-	conserved hypothetical protein
+716941..717315	+	124	161017550	-	BT_0678	-	-	hypothetical protein
+717405..717815	+	136	161017551	-	BT_0679	-	-	conserved hypothetical protein
+717926..718363	-	145	161017552	rosAR	BT_0680	-	-	transcriptional regulator
+719213..721306	+	697	161017553	ptrB	BT_0681	-	-	Protease II
+721388..721990	-	200	161017554	sodB	BT_0682	-	-	Superoxide dismutase
+722442..722738	-	98	161017555	int	BT_0683	-	-	hypothetical protein
+723642..724091	-	149	161017556	hlyC	BT_0686	-	-	conserved hypothetical protein
+724097..725422	-	441	161017557	hlyD	BT_0687	-	-	putative transporter
+725412..727079	-	555	161017558	hlyB	BT_0688	-	-	ABC transporter, ATP-binding protein
+727334..727621	+	95	161017559	-	BT_0689	-	-	hypothetical protein predicted by Glimmer/Critica
+728664..728933	-	89	161017560	-	BT_0691	-	-	hypothetical protein
+731593..732378	-	261	161017561	-	BT_0693	-	-	conserved hypothetical protein
+733392..733931	-	179	161017562	-	BT_0694	-	-	conserved hypothetical protein
+733924..734541	-	205	161017563	-	BT_0695	-	-	hypothetical protein
+734538..736688	-	716	161017564	pbp	BT_0696	-	-	penicillin binding protein
+737029..737265	+	78	161017565	-	BT_0697	-	-	hypothetical protein
+737287..737955	+	222	161017566	feuP	BT_0698	-	-	two-component system regulatory protein
+737952..739370	+	472	161017567	feuQ	BT_0699	-	-	sensor histidine kinase
+739671..740411	+	246	161017568	cycH	BT_0700	-	-	cytochrome c-type biogenesis protein
+740748..741227	+	159	161017569	cycJ	BT_0701	-	-	cytochrome C-type biogenesis protein
+741214..743214	+	666	161017570	cycK	BT_0702	-	-	cytochrome C-type biogenesis protein
+743216..743620	+	134	161017571	cycL	BT_0703	-	-	cytochrome C-type biogenesis protein
+743852..745363	+	503	161017572	htrA1	BT_0704	-	-	serine protease
+745444..746130	+	228	161017573	-	BT_0705	-	-	two-component response regulator
+746127..747509	+	460	161017574	-	BT_0706	-	-	sensor histidine kinase
+747608..750532	+	974	161017575	glnE	BT_0707	-	-	glutamate-ammonia-ligase adenylyltransferase
+751304..752143	+	279	161017576	hbpD	BT_0708	-	-	hemin binding protein D
+752476..752613	+	45	161017577	int	BT_0709	-	-	hypothetical protein
+753576..754466	-	296	161017578	-	BT_0711	-	-	conserved hypothetical protein
+755364..757460	-	698	161017579	-	BT_0712	-	-	conserved hypothetical protein
+757457..760255	-	932	161017580	-	BT_0713	-	-	conserved hypothetical protein
+760252..761088	-	278	161017581	-	BT_0714	-	-	conserved hypothetical protein
+761165..762196	-	343	161017582	-	BT_0715	-	-	conserved hypothetical protein
+762436..763689	+	417	161017583	pcnB	BT_0716	-	-	poly(A) polymerase
+764385..764861	-	158	161017584	-	BT_0717	-	-	RNA methyltransferase
+765438..765986	+	182	161017585	fbcF	BT_0718	-	-	ubiquinol-cytochrome c reductase iron-sulfur subunit FbcF
+765991..767247	+	418	161017586	fbcB	BT_0719	-	-	ubiquinol-cytochrome c reductase cytochrome b subunit
+767241..768134	+	297	161017587	fbcC	BT_0720	-	-	ubiquinol-cytochrome c reductase cytochrome c1 subunit
+768245..768685	+	146	161017588	-	BT_0721	-	-	conserved hypothetical protein
+768843..769946	-	367	161017589	engD	BT_0722	-	-	GTP-binding protein
+770200..770940	+	246	161017590	-	BT_0723	-	-	conserved hypothetical protein
+771344..771925	-	193	161017591	pth	BT_0725	-	-	Peptidyl-tRNA hydrolase
+771992..772621	-	209	161017592	rplY	BT_0726	-	-	50S ribosomal protein L25
+772908..774407	+	499	161017593	-	BT_0727	-	-	conserved hypothetical protein
+774404..775336	-	310	161017594	prsA	BT_0728	-	-	ribose-phosphate pyrophosphokinase
+776126..776908	-	260	161017595	-	BT_0731	-	-	conserved hypothetical protein
+777007..778086	-	359	161017596	-	BT_0732	-	-	conserved hypothetical protein
+778061..778939	-	292	161017597	lgt	BT_0733	-	-	prolipoprotein diacylglyceryl transferase
+779206..779478	+	90	161017598	-	BT_0734	-	-	conserved hypothetical protein
+779839..780339	+	166	161017599	-	BT_0735	-	-	conserved hypothetical protein
+780386..781726	-	446	161017600	envZ	BT_0736	-	-	sensor histidine kinase
+781735..782439	-	234	161017601	ompR	BT_0737	-	-	transcriptional regulator OmpR
+782576..783226	+	216	161017602	-	BT_0738	-	-	probable hydrolase
+783288..784010	-	240	161017603	-	BT_0739	-	-	hypothetical membrane protein
+785457..787592	-	711	161017604	uvrB	BT_0741	-	-	excinuclease ABC, subunit B
+787885..788184	-	99	161017605	-	BT_0744	-	-	conserved hypothetical protein
+788519..788992	+	157	161017606	greA	BT_0745	-	-	transcription elongation factor GreA
+789007..790065	+	352	161017607	lpcC	BT_0746	-	-	lipopolysaccharide core biosynthesis mannosyltransferase LpcC
+791256..792650	-	464	161017608	trkH	BT_0747	-	-	trk system potassium uptake protein TrkH
+792964..793920	+	318	161017609	trxB	BT_0748	-	-	Thioredoxin reductase
+793963..794868	+	301	161017610	-	BT_0749	-	-	transcriptional regulator, LysR family
+795074..795181	+	35	161017611	int	BT_0750	-	-	hypothetical protein
+795728..795832	+	34	161017612	int	BT_0751	-	-	hypothetical protein predicted by Glimmer/Critica
+797691..798893	-	400	161017613	aatA	BT_0754	-	-	aspartate aminotransferase A
+799216..799425	-	69	161017614	cspA	BT_0755	-	-	cold shock protein
+799682..803167	-	1161	161017615	carB	BT_0756	-	-	carbamoyl-phosphate synthase (subunit B)
+803876..804409	+	177	161017616	-	BT_0757	-	-	methyltranferase fragment
+804406..806727	-	773	161017617	-	BT_0758	-	-	two-component sensor histidine kinase
+807017..809656	-	879	161017618	pepN	BT_0759	-	-	Aminopeptidase N
+809716..810555	-	279	161017619	-	BT_0760	-	-	phage SPO1 DNA polymerase-related protein
+810906..811685	-	259	161017620	thiD1	BT_0761	-	-	phosphomethylpyrimidine kinase
+811655..812260	-	201	161017621	thiE1	BT_0762	-	-	thiamine-phosphate pyrophosphorylase
+812260..813030	-	256	161017622	thiG	BT_0763	-	-	thiamin biosynthesis protein
+813036..813233	-	65	161017623	thiS	BT_0764	-	-	thiamine biosynthesis protein
+813237..814187	-	316	161017624	thiO	BT_0765	-	-	thiamine biosynthesis oxidoreductase
+814184..816004	-	606	161017625	thiC	BT_0766	-	-	thiamine biosynthesis protein
+817372..818346	+	324	161017626	-	BT_0768	-	-	phage related protein
+818956..819789	-	277	161017627	hmuV	BT_0770	-	-	ATP-binding protein of hemin ABC transporter
+819786..820865	-	359	161017628	hmuU	BT_0771	-	-	hemin ABC transporter, permease protein
+820883..821788	-	301	161017629	hmuT	BT_0772	-	-	periplasmic hemin-binding protein
+821802..822845	-	347	161017630	hmuS	BT_0773	-	-	putative hemin-degrading protein
+823110..825287	-	725	161017631	hutA	BT_0774	-	-	outer membrane heme receptor
+825529..826308	+	259	161017632	tonB	BT_0775	-	-	tonB protein
+827319..829406	-	695	161017633	slt	BT_0776	-	-	soluble lytic murein transglycosylase precursor
+829657..830541	+	294	161017634	-	BT_0777	-	-	dihydrodipicolinate synthase
+830560..831036	+	158	161017635	smpB	BT_0778	-	-	SsrA-binding protein
+831061..831744	-	227	161017636	-	BT_0779	-	-	conserved hypothetical protein
+832290..832688	+	132	161017637	rpoZ	BT_0780	-	-	RNA polymerase omega subunit
+832827..835049	+	740	161017638	spoT	BT_0781	-	-	GTP pyrophosphokinase
+835066..835644	+	192	161017639	pyrE	BT_0782	-	-	Orotate phosphoribosyltransferase
+835721..836329	+	202	161017640	-	BT_0783	-	-	conserved hypothetical protein
+836350..836751	+	133	161017641	acpS	BT_0784	-	-	acyl carrier protein synthase
+836832..837644	+	270	161017642	lepB	BT_0785	-	-	Signal peptidase I
+837625..838332	+	235	161017643	rnc	BT_0786	-	-	ribonuclease III
+838319..839230	+	303	161017644	era	BT_0787	-	-	GTP-binding protein Era
+839241..839987	+	248	161017645	recO	BT_0788	-	-	DNA repair protein RecO
+840016..840876	+	286	161017646	panC	BT_0789	-	-	pantoate--beta-alanine ligase
+840873..841688	+	271	161017647	panB	BT_0790	-	-	3-methyl-2-oxobutanoate hydroxymethyltransferase
+842283..842900	-	205	161017648	-	BT_0793	-	-	hypothetical protein
+842893..843765	-	290	161017649	-	BT_0794	-	-	aminomethyltransferase
+843831..845159	+	442	161017650	pyrC1	BT_0795	-	-	dihydroorotase
+845428..845655	+	75	161017651	int	BT_0796	-	-	phage-related integrase
+845976..846347	-	123	161017652	-	BT_0799	-	-	conserved hypothetical protein
+846827..848338	+	503	161017653	cysS	BT_0800	-	-	Cysteinyl-tRNA synthetase
+848379..849053	+	224	161017654	-	BT_0801	-	-	conserved hypothetical protein
+849162..851045	+	627	161017655	-	BT_0802	-	-	ABC transporter, ATP-binding protein
+851163..851861	+	232	161017656	psd	BT_0803	-	-	Phosphatidylserine decarboxylase
+851871..852710	+	279	161017657	pssA	BT_0804	-	-	Phosphatidylserine synthase
+852782..853534	-	250	161017658	-	BT_0805	-	-	oxidoreductase, short-chain dehydrogenase/reductase family
+853534..855027	-	497	161017659	purF	BT_0806	-	-	amidophosphoribosyltransferase
+855103..855684	-	193	161017660	cvpA	BT_0807	-	-	colicin V production protein
+855827..857203	-	458	161017661	radA	BT_0808	-	-	DNA repair protein
+857210..858700	-	496	161017662	dnaB	BT_0809	-	-	Replicative DNA helicase
+859301..859897	-	198	161017663	rplI	BT_0811	-	-	50S ribosomal protein L9
+859923..860903	-	326	161017664	-	BT_0812	-	-	hypothetical protein
+861056..861304	-	82	161017665	rpsR	BT_0813	-	-	30S ribosomal protein S18
+861304..861711	-	135	161017666	rpsF	BT_0814	-	-	30S ribosomal protein S6
+862059..862661	+	200	161017667	-	BT_0815	-	-	conserved hypothetical protein
+862724..863668	+	314	161017668	fabD	BT_0816	-	-	malonyl CoA-acyl carrier protein transacylase
+863688..864425	+	245	161017669	fabG	BT_0817	-	-	3-oxoacyl-(acyl carrierprotein) reductase
+864687..864923	+	78	161017670	acpP	BT_0818	-	-	Acyl carrier protein
+865026..866288	+	420	161017671	fabF1	BT_0819	-	-	3-oxoacyl-acyl carrier protein synthase II
+866455..867486	+	343	161017672	-	BT_0820	-	-	conserved hypothetical protein
+867788..868453	+	221	161017673	gmk	BT_0821	-	-	Guanylate kinase
+868485..869315	-	276	161017674	ksgA	BT_0822	-	-	dimethyladenosine transferase
+869306..870319	-	337	161017675	pdxA	BT_0823	-	-	4-hydroxythreonine-4-phosphate dehydrogenase
+870319..871287	-	322	161017676	surA	BT_0824	-	-	Peptidyl-prolyl cis-trans isomerase
+871372..873741	-	789	161017677	ostA	BT_0825	-	-	organic solvent tolerance protein
+873742..874833	-	363	161017678	-	BT_0826	-	-	hypothetical transmembrane protein
+874830..876020	-	396	161017679	-	BT_0827	-	-	conserved hypothetical protein
+876430..876876	+	148	161017680	-	BT_0828	-	-	putative DNA polymerase III chi subunit
+877044..877307	+	87	161017681	-	BT_0830	-	-	hypothetical protein
+877304..878593	-	429	161017682	yhjE	BT_0831	-	-	metabolite transport protein
+879164..884674	+	1836	161017683	-	BT_0832	-	-	hypothetical protein
+885070..887592	+	840	161017684	-	BT_0833	-	-	hypothetical protein
+888426..890990	+	854	161017685	-	BT_0834	-	-	hypothetical protein
+891385..891807	+	140	161017686	ndk	BT_0836	-	-	Nucleoside diphosphate kinase
+892120..892701	-	193	161017687	pgsA	BT_0837	-	-	CDP-diacylglycerol--glycerol-3-phosphate3-phosphatidyltransferase
+892774..894759	-	661	161017688	uvrC	BT_0838	-	-	excinuclease ABC subunit C
+895455..896318	-	287	161017689	-	BT_0839	-	-	hypothetical protein
+897433..897744	+	103	161017690	tatA	BT_0841	-	-	sec-independent protein translocase
+897800..898240	+	146	161017691	tatB	BT_0842	-	-	Sec-independent protein translocase
+898237..899019	+	260	161017692	tatC	BT_0843	-	-	sec-independent protein translocase component
+899096..900373	+	425	161017693	serS	BT_0844	-	-	Seryl-tRNA synthetase
+900507..901166	+	219	161017694	-	BT_0845	-	-	conserved hypothetical protein
+901334..902503	+	389	161017695	-	BT_0846	-	-	putative virulence determinant
+903431..903892	+	153	161017696	yajC	BT_0847	-	-	preprotein translocase YajC
+904343..904729	+	128	161017697	-	BT_0848	-	-	conserved hypothetical protein
+905831..906691	+	286	161017698	crtB	BT_0850	-	-	phytoene synthase
+907801..909687	-	628	161017699	-	BT_0851	-	-	peptidyl-prolyl cis-trans isomerase D
+909842..910606	+	254	161017700	tpiA	BT_0852	-	-	Triose-phosphate isomerase
+910690..911142	+	150	161017701	secG	BT_0853	-	-	preprotein translocase SecG subunit
+911271..912899	+	542	161017702	pyrG	BT_0854	-	-	CTP synthase
+912941..913777	+	278	161017703	kdsA	BT_0855	-	-	2-dehydro-3-deoxyphosphooctonate aldolase (KDO 8-P synthase)
+913849..915117	+	422	161017704	eno	BT_0856	-	-	Enolase
+915232..915639	+	135	161017705	-	BT_0857	-	-	conserved hypothetical protein
+916029..916481	+	150	161017706	-	BT_0858	-	-	conserved hypothetical protein
+916848..917291	+	147	161017707	-	BT_0859	-	-	conserved hypothetical protein
+917477..917788	+	103	161017708	-	BT_0860	-	-	conserved hypothetical protein
+917924..918964	+	346	161017709	pdhA	BT_0861	-	-	pyruvate dehydrogenase E1 component, alpha subunit
+918981..920345	+	454	161017710	pdhB	BT_0862	-	-	pyruvate dehydrogenase E1 component beta subunit
+920360..921697	+	445	161017711	pdhC	BT_0863	-	-	dihydrolipoamide acetyltransferase
+921914..923374	+	486	161017712	lpdA1	BT_0865	-	-	dihydrolipoamide dehydrogenase
+923444..924406	+	320	161017713	lipA	BT_0866	-	-	lipoic acid synthetase
+924409..924870	+	153	161017714	-	BT_0867	-	-	conserved hypothetical protein
+925627..926115	-	162	161017715	cinA	BT_0869	-	-	competence/damage-inducible protein
+926112..927308	-	398	161017716	-	BT_0870	-	-	2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase / 2C-methyl-D-erythritol 2,4-cyclodiphosphate synthase
+927332..927766	-	144	161017717	-	BT_0871	-	-	conserved hypothetical protein
+927932..930199	+	755	161017718	-	BT_0872	-	-	two-component system, sensor histidine kinase
+930201..931559	+	452	161017719	-	BT_0873	-	-	two-component system, response regulator
+931564..932940	+	458	161017720	trkA	BT_0874	-	-	potassium uptake protein TrkA
+932951..933760	+	269	161017721	-	BT_0875	-	-	conserved hypothetical protein
+933908..934540	+	210	161017722	clpP	BT_0876	-	-	ATP-dependent Clp protease, proteolytic subunit
+934725..935999	+	424	161017723	clpX	BT_0877	-	-	ATP-dependent Clp protease, ATP-binding subunit ClpX
+936184..938610	+	808	161017724	lon	BT_0878	-	-	ATP-dependent protease LA
+938842..939120	+	92	161017725	-	BT_0879	-	-	DNA-binding protein
+940119..941543	-	474	161017726	-	BT_0880	-	-	gid-family protein
+941929..943356	+	475	161017727	tig	BT_0881	-	-	trigger factor
+943482..944981	+	499	161017728	gatB	BT_0882	-	-	glutamyl-tRNA amidotransferase subunit B
+945162..945560	+	132	161017729	-	BT_0883	-	-	conserved hypothetical protein
+945646..946062	+	138	161017730	-	BT_0884	-	-	conserved hypothetical protein
+947287..948018	+	243	161017731	-	BT_0885	-	-	conserved hypothetical protein
+948015..948845	-	276	161017732	-	BT_0886	-	-	tRNA/rRNA metyltransferase
+949421..950596	+	391	161017733	tufB	BT_0887	-	-	elongation factor Tu (EF-Tu)
+950953..951165	+	70	161017734	secE	BT_0889	-	-	preprotein translocase, SecE subunit
+951186..951716	+	176	161017735	nusG	BT_0890	-	-	transcription antitermination protein
+951866..952294	+	142	161017736	rplK	BT_0891	-	-	50S ribosomal protein L11
+952299..953003	+	234	161017737	rplA	BT_0892	-	-	50S ribosomal protein L1
+953361..953879	+	172	161017738	rplJ	BT_0893	-	-	50S ribosomal protein L10
+953981..954352	+	123	161017739	rplL	BT_0894	-	-	50S ribosomal protein L7/L12
+954639..958790	+	1383	161017740	rpoB	BT_0895	-	-	DNA-directed RNA polymerase, beta chain
+958961..963172	+	1403	161017741	rpoC	BT_0896	-	-	DNA-directed RNA polymerase, beta chain
+963757..963975	+	72	161017742	-	BT_0898	-	-	conserved hypothetical protein
+964331..965020	+	229	161017743	pnbA	BT_0899	-	-	nitroreductase family protein
+965359..966750	+	463	161017744	sdaA	BT_0900	-	-	L-serine dehydratase
+968630..968908	-	92	161017745	-	BT_0905	-	-	hypothetical protein
+968941..970290	-	449	161017746	dacD	BT_0906	-	-	penicillin-binding protein
+970524..970895	+	123	161017747	clpS	BT_0907	-	-	Clp protease adaptor protein
+970902..973253	+	783	161017748	clpA	BT_0908	-	-	Clp protease subunit
+973279..973701	-	140	161017749	-	BT_0909	-	-	HIT family protein
+973835..974296	-	153	161017750	-	BT_0910	-	-	conserved hypothetical protein
+974439..975275	+	278	161017751	-	BT_0911	-	-	conserved hypothetical protein
+975354..976244	+	296	161017752	rpsB	BT_0912	-	-	30S ribosomal protein S2
+976348..977271	+	307	161017753	tsf	BT_0913	-	-	elongation factor EF-Ts
+977428..978147	+	239	161017754	pyrH	BT_0914	-	-	Uridylate kinase
+978185..978745	+	186	161017755	rrf	BT_0915	-	-	Ribosome recycling factor
+979472..980287	+	271	161017756	cdsA	BT_0916	-	-	phosphatidate cytidylyltransferase
+980321..981451	+	376	161017757	-	BT_0917	-	-	zinc metalloprotease
+981656..984052	+	798	161017758	-	BT_0918	-	-	outer membrane protein
+984121..985167	+	348	161017759	lpxD	BT_0919	-	-	UDP-3-O-[3-hydroxymyristoyl] glucosamine N-acyltransferase
+985169..985636	+	155	161017760	fabZ	BT_0920	-	-	acyl carrier protein
+985661..986473	+	270	161017761	lpxA	BT_0921	-	-	acyl-carrier-protein
+986488..987360	+	290	161017762	cdsA	BT_0922	-	-	phosphatidate cytidyltransferase
+987353..988549	+	398	161017763	lpxB	BT_0923	-	-	lipid-A-disaccharide synthase
+988570..989343	-	257	161017764	-	BT_0924	-	-	ATP-binding component of an ABC transporter
+989424..990131	-	235	161017765	-	BT_0925	-	-	ABC transporter, permease protein
+990128..990850	-	240	161017766	-	BT_0926	-	-	ABC transporter, permease protein
+990928..991680	-	250	161017767	-	BT_0927	-	-	ABC transporter, periplasmic amino acid-binding protein
+992109..992861	-	250	161017768	-	BT_0928	-	-	ABC transporter, periplasmic amino acid-binding protein
+993704..994999	-	431	161017769	gltA	BT_0930	-	-	Citrate synthase
+995264..996694	-	476	161017770	gltX1	BT_0931	-	-	glutamyl-tRNA synthetase
+996809..999118	+	769	161017771	-	BT_0932	-	-	putative DNA uptake protein
+999415..1000119	+	234	161017772	rpiA	BT_0933	-	-	Ribose 5-phosphate isomerase
+1000217..1000774	+	185	161017773	-	BT_0934	-	-	conserved hypothetical protein
+1000980..1002371	+	463	161017774	gor	BT_0935	-	-	glutathione reductase
+1002443..1003822	+	459	161017775	dhs	BT_0936	-	-	phospho-2-dehydro-3-deoxyheptonate aldolase
+1003950..1005611	+	553	161017776	nadE	BT_0937	-	-	NH3-dependent NAD synthetase
+1005622..1006995	+	457	161017777	gltX2	BT_0938	-	-	glutamyl-tRNA synthetase
+1007056..1008459	-	467	161017778	rhlE1	BT_0939	-	-	ATP-dependent RNA helicase
+1008603..1009376	-	257	161017779	-	BT_0940	-	-	probable inorganic polyphosphate/ATP-NAD kinase
+1010156..1011334	+	392	161017780	yjiJ	BT_0941	-	-	putative membrane protein
+1011999..1012325	+	108	161017781	-	BT_0942	-	-	hypothetical protein predicted by Glimmer/Critica
+1012482..1012967	+	161	161017782	-	BT_0943	-	-	putative phage tail protein
+1012964..1013218	+	84	161017783	-	BT_0944	-	-	hypothetical protein
+1013209..1014039	+	276	161017784	-	BT_0945	-	-	hypothetical prophage protein
+1014735..1015922	+	395	161017785	-	BT_0946	-	-	conserved hypothetical protein
+1016048..1016542	+	164	161017786	-	BT_0947	-	-	hypothetical protein
+1016657..1016824	-	55	161017787	-	BT_0948	-	-	hypothetical protein predicted by Glimmer/Critica
+1017185..1017457	+	90	161017788	-	BT_0949	-	-	hypothetical protein
+1017564..1017797	+	77	161017789	-	BT_0950	-	-	hypothetical protein
+1017870..1018151	+	93	161017790	vapD	BT_0951	-	-	conserved hypothetical protein
+1018167..1018454	+	95	161017791	vap	BT_0952	-	-	virulence-associated protein
+1018499..1018777	-	92	161017792	-	BT_0953	-	-	hypothetical prophage protein
+1018774..1019487	-	237	161017793	-	BT_0954	-	-	hypothetical prophage protein
+1020083..1020661	-	192	161017794	-	BT_0955	-	-	hypothetical prophage protein
+1020665..1020985	-	106	161017795	-	BT_0956	-	-	hypothetical prophage protein
+1021459..1021854	-	131	161017796	-	BT_0958	-	-	conserved hypothetical protein
+1021851..1022051	-	66	161017797	-	BT_0959	-	-	hypothetical protein
+1022116..1022652	-	178	161017798	-	BT_0960	-	-	hypothetical protein
+1022663..1023124	-	153	161017799	ssb	BT_0961	-	-	single-strand binding protein (ssb)
+1023611..1024039	+	142	161017800	-	BT_0963	-	-	hypothetical protein
+1024088..1024636	-	182	161017801	-	BT_0964	-	-	anti-repressor protein
+1024850..1025227	-	125	161017802	-	BT_0965	-	-	hypothetical protein
+1025389..1025808	-	139	161017803	-	BT_0966	-	-	hypothetical protein
+1025801..1026904	-	367	161017804	-	BT_0967	-	-	hypothetical protein
+1026894..1027241	-	115	161017805	-	BT_0968	-	-	hypothetical prophage protein
+1027234..1027710	-	158	161017806	-	BT_0969	-	-	phage-related conserved hypothetical protein
+1027838..1028626	+	262	161017807	-	BT_0970	-	-	hypothetical prophage protein
+1028705..1029157	-	150	161017808	-	BT_0970a	-	-	hypothetical protein
+1029170..1029529	-	119	161017809	-	BT_0970b	-	-	hypothetical protein
+1029586..1030230	+	214	161017810	-	BT_0971	-	-	putative bacteriophage-related transcriptional repressor
+1030470..1030844	+	124	161017811	-	BT_0972	-	-	hypothetical protein
+1030908..1031045	+	45	161017812	fragment 1	BT_0973	-	-	hypothetical protein
+1031085..1031264	+	59	161017813	fragment 2	BT_0974	-	-	hypothetical protein predicted by Glimmer/Critica
+1031276..1031437	+	53	161017814	fragment 1	BT_0975	-	-	hypothetical prophage protein
+1031537..1032007	+	156	161017815	fragment 2	BT_0976	-	-	hypothetical prophage protein
+1032020..1032337	+	105	161017816	-	BT_0977	-	-	phage-related protein
+1032349..1032918	+	189	161017817	-	BT_0978	-	-	phage-related protein
+1032977..1033813	+	278	161017818	-	BT_0979	-	-	phage-related protein
+1033815..1034438	+	207	161017819	exo	BT_0980	-	-	phage-related exonuclease
+1034517..1034720	+	67	161017820	-	BT_0981	-	-	hypothetical prophage protein
+1034914..1035951	-	345	161017821	int	BT_0982	-	-	phage-related integrase/recombinase
+1035960..1036178	-	72	161017822	-	BT_0983	-	-	hypothetical protein predicted by Glimmer/Critica
+1036300..1036923	-	207	161017823	exo	BT_0984	-	-	phage-related exonuclease
+1036925..1037740	-	271	161017824	-	BT_0985	-	-	bacteriophage recombination protein
+1037817..1038347	-	176	161017825	-	BT_0986	-	-	phage-related protein
+1038351..1038818	-	155	161017826	-	BT_0987	-	-	phage-related protein
+1038833..1039579	-	248	161017827	-	BT_0988	-	-	anti-repressor protein
+1039628..1040047	-	139	161017828	-	BT_0989	-	-	hypothetical protein
+1040766..1041032	+	88	161017829	-	BT_0990	-	-	hypothetical protein predicted by Glimmer/Critica
+1041043..1041930	+	295	161017830	-	BT_0991	-	-	phage-related protein
+1042204..1042680	+	158	161017831	-	BT_0993	-	-	phage-related conserved hypothetical protein
+1042667..1043044	+	125	161017832	-	BT_0994	-	-	hypothetical protein
+1043034..1044122	+	362	161017833	-	BT_0995	-	-	hypothetical protein
+1044127..1044534	+	135	161017834	-	BT_0996	-	-	hypothetical protein
+1044728..1045117	+	129	161017835	-	BT_0997	-	-	hypothetical protein
+1045411..1045926	+	171	161017836	-	BT_0998	-	-	hypothetical prophage protein
+1046007..1046666	+	219	161017837	-	BT_0999	-	-	phage-related protein
+1047448..1047729	+	93	161017838	ssb	BT_1001	-	-	single-strand binding protein (ssb)
+1049204..1049983	-	259	161017839	-	BT_1002	-	-	phage-related protein
+1050089..1050667	-	192	161017840	-	BT_1003	-	-	phage-related protein
+1050749..1051522	-	257	161017841	-	BT_1004	-	-	phage-related protein
+1051604..1052335	-	243	161017842	-	BT_1005	-	-	phage-related protein
+1053950..1058908	-	1652	161017843	-	BT_1006	-	-	helicase/methyltransferase
+1059440..1059841	-	133	161017844	-	BT_1008	-	-	hypothetical protein
+1060295..1060717	-	140	161017845	-	BT_1009	-	-	hypothetical protein predicted by Glimmer/Critica
+1060812..1061117	-	101	161017846	-	BT_1010	-	-	hypothetical protein predicted by Glimmer/Critica
+1061568..1061717	-	49	161017847	-	BT_1011	-	-	hypothetical protein predicted by Glimmer/Critica
+1061815..1062015	-	66	161017848	-	BT_1012	-	-	hypothetical protein
+1062224..1063390	-	388	161017849	int	BT_1013	-	-	phage-related integrase
+1063814..1064338	+	174	161017850	-	BT_1015	-	-	hypothetical protein
+1064340..1065074	-	244	161017851	-	BT_1016	-	-	hypothetical protein predicted by Glimmer/Critica
+1066931..1067710	-	259	161017852	-	BT_1017	-	-	phage-related protein
+1067824..1068402	-	192	161017853	-	BT_1018	-	-	phage-related protein
+1068485..1069147	-	220	161017854	-	BT_1019	-	-	phage-related protein
+1069228..1069863	-	211	161017855	-	BT_1020	-	-	phage-related protein
+1071505..1076493	-	1662	161017856	-	BT_1021	-	-	helicase/methyltransferase
+1077038..1078525	-	495	161017857	-	BT_1023	-	-	conserved hypothetical protein
+1078953..1079153	-	66	161017858	-	BT_1027	-	-	hypothetical protein
+1079362..1080528	-	388	161017859	int	BT_1028	-	-	phage-related integrase
+1080671..1080949	+	92	161017860	-	BT_1029	-	-	hypothetical protein
+1080930..1082258	+	442	161017861	-	BT_1030	-	-	phage related protein
+1082243..1084204	+	653	161017862	-	BT_1031	-	-	hypothetical protein
+1085697..1086476	-	259	161017863	-	BT_1032	-	-	phage-related protein
+1086593..1087171	-	192	161017864	-	BT_1033	-	-	phage-related protein
+1087254..1087895	-	213	161017865	-	BT_1034	-	-	phage-related protein
+1089619..1094562	-	1647	161017866	-	BT_1035	-	-	helicase/methyltransferase
+1095601..1097388	+	595	161017867	hec2	BT_1036	-	-	hemolysin activator protein precursor
+1097413..1105458	+	2681	161017868	fhaB	BT_1037	-	-	filamentous hemagglutinin
+1105479..1105895	+	138	161017869	-	BT_1038	-	-	hypothetical protein
+1105903..1106463	+	186	161017870	-	BT_1039	-	-	hypothetical protein
+1106588..1108120	+	510	161017871	fhaB	BT_1040	-	-	filamentous hemagglutinin
+1108117..1108521	+	134	161017872	-	BT_1041	-	-	hypothetica protein
+1108737..1108937	-	66	161017873	-	BT_1042	-	-	hypothetical protein
+1109148..1110314	-	388	161017874	int	BT_1043	-	-	phage-related integrase
+1110612..1111313	+	233	161017875	-	BT_1045	-	-	hypothetical protein
+1111470..1112636	+	388	161017876	int	BT_1046	-	-	phage-related integrase
+1112845..1113045	+	66	161017877	-	BT_1047	-	-	hypothetical protein
+1113473..1114960	+	495	161017878	-	BT_1051	-	-	conserved hypothetical protein
+1115629..1120602	+	1657	161017879	-	BT_1053	-	-	helicase/methyltransferase
+1122188..1122847	+	219	161017880	-	BT_1054	-	-	phage-related protein
+1122930..1123703	+	257	161017881	-	BT_1055	-	-	phage-related protein
+1123785..1124363	+	192	161017882	-	BT_1056	-	-	phage-related protein
+1124469..1125047	+	192	161017883	-	BT_1057	-	-	phage-related protein
+1126833..1127126	+	97	161017884	-	BT_1059	-	-	hypothetical protein predicted by Glimmer/Critica
+1127209..1128096	+	295	161017885	-	BT_1060	-	-	hypothetical protein
+1129687..1130466	-	259	161017886	-	BT_1061	-	-	phage-related protein
+1130580..1131158	-	192	161017887	-	BT_1062	-	-	phage-related protein
+1131240..1131899	-	219	161017888	-	BT_1063	-	-	phage-related protein
+1133485..1138458	-	1657	161017889	-	BT_1064	-	-	helicase/methyltransferase
+1139127..1140077	-	316	161017890	-	BT_1066	-	-	conserved hypothetical protein
+1140276..1140548	-	90	161017891	-	BT_1067	-	-	hypothetical protein
+1140545..1140835	-	96	161017892	-	BT_1068	-	-	hypothetical protein
+1141539..1141739	-	66	161017893	-	BT_1069	-	-	hypothetical protein
+1141940..1141978	-	12	161017894	-	BT_1071	-	-	hypothetical protein predicted by Glimmer/Critica
+1142050..1142277	-	75	161017895	int	BT_1072	-	-	hypothetical protein predicted by Glimmer/Critica
+1142253..1143104	-	283	161017896	int	BT_1073	-	-	phage-related integrase
+1143315..1143938	+	207	161017897	-	BT_1074	-	-	phage_related modification methylase
+1144449..1144667	+	72	161017898	-	BT_1075	-	-	conserved hypothetical protein
+1144672..1144944	+	90	161017899	-	BT_1076	-	-	hypothetical protein
+1145821..1146108	+	95	161017900	-	BT_1077	-	-	hypothetical protein predicted by Glimmer/Critica
+1146120..1147052	+	310	161017901	-	BT_1078	-	-	conserved hypothetical membrane protein
+1148601..1153532	-	1643	161017902	-	BT_1080	-	-	helicase/methyltransferase
+1154064..1155551	-	495	161017903	-	BT_1082	-	-	conserved hypothetical protein
+1155979..1156179	-	66	161017904	-	BT_1086	-	-	hypothetical protein
+1156388..1157554	-	388	161017905	int	BT_1087	-	-	phage-related integrase
+1157723..1158007	+	94	161017906	-	BT_1088	-	-	hypothetical protein
+1158027..1158407	+	126	161017907	-	BT_1089	-	-	hypothetical protein
+1158419..1158799	+	126	161017908	-	BT_1090	-	-	hypothetical protein
+1158832..1159116	-	94	161017909	-	BT_1091	-	-	hypothetical prophage protein
+1159097..1159408	-	103	161017910	-	BT_1092	-	-	conserved hypothetical prophage protein
+1159482..1160189	+	235	161017911	-	BT_1093	-	-	hypothetical protein
+1160191..1161648	+	485	161017912	-	BT_1094	-	-	hypothetical protein
+1161648..1162073	+	141	161017913	-	BT_1095	-	-	hypothetical protein
+1162075..1162998	+	307	161017914	-	BT_1096	-	-	hypothetical protein
+1163038..1164474	+	478	161017915	-	BT_1097	-	-	hypothetical protein predicted by Glimmer/Critica
+1164471..1166696	+	741	161017916	-	BT_1098	-	-	hypothetical protein
+1166714..1167394	+	226	161017917	-	BT_1099	-	-	conserved hypothetical protein
+1169045..1169824	-	259	161017918	-	BT_1100	-	-	phage-related protein
+1169929..1170507	-	192	161017919	-	BT_1101	-	-	phage-related protein
+1170589..1171362	-	257	161017920	-	BT_1102	-	-	phage-related protein
+1171445..1172215	-	256	161017921	-	BT_1103	-	-	phage-related protein
+1173598..1178559	-	1653	161017922	-	BT_1105	-	-	helicase/methyltransferase
+1179092..1179493	-	133	161017923	-	BT_1107	-	-	hypothetical protein
+1179947..1180369	-	140	161017924	-	BT_1108	-	-	hypothetical protein predicted by Glimmer/Critica
+1180464..1180769	-	101	161017925	-	BT_1109	-	-	hypothetical protein predicted by Glimmer/Critica
+1181479..1181679	-	66	161017926	-	BT_1111	-	-	conserved hypothetical protein
+1181889..1183055	-	388	161017927	int	BT_1112	-	-	phage-related integrase
+1183252..1184253	+	333	161017928	-	BT_1113	-	-	phage-related protein
+1184262..1184378	+	38	161017929	-	BT_1114	-	-	hypothetical protein predicted by Glimmer/Critica
+1184375..1185274	+	299	161017930	-	BT_1115	-	-	phage related protein
+1185282..1186412	+	376	161017931	-	BT_1116	-	-	phage related protein
+1186665..1189898	+	1077	161017932	-	BT_1118	-	-	hypothetical protein
+1189961..1190623	+	220	161017933	-	BT_1119	-	-	phage-related lysozyme
+1190620..1190847	+	75	161017934	-	BT_1120	-	-	hypothetical prophage protein
+1190964..1191191	+	75	161017935	-	BT_1121	-	-	hypothetical protein
+1191315..1191683	+	122	161017936	-	BT_1122	-	-	hypothetical protein
+1192062..1193420	-	452	161017937	accC	BT_1123	-	-	Biotin carboxylase
+1193435..1193932	-	165	161017938	accB	BT_1124	-	-	Biotin carboxyl carrier protein
+1194186..1195058	-	290	161017939	-	BT_1125	-	-	outer membrane protein
+1195395..1196924	+	509	161017940	glpD	BT_1126	-	-	Glycerol-3-phosphate dehydrogenase
+1197598..1198581	+	327	161017941	yjbN	BT_1127	-	-	tRNA-dihydrouridine synthase A
+1198971..1199978	+	335	161017942	cobT1	BT_1128	-	-	nicotinate-nucleotide--dimethylbenzimidazolephosphoribosyltransferase
+1200007..1200498	-	163	161017943	-	BT_1129	-	-	transcriptional regulator
+1200520..1201149	-	209	161017944	-	BT_1130	-	-	conserved hypothetical protein
+1201178..1201738	-	186	161017945	-	BT_1131	-	-	putative micrococcal nuclease
+1202082..1202249	-	55	161017946	rpmG	BT_1132	-	-	50S ribosomal protein L33
+1202351..1203520	-	389	161017947	-	BT_1133	-	-	major facilitator family transporter
+1203855..1206125	-	756	161017948	vacB	BT_1134	-	-	exoribonuclease
+1206129..1208705	-	858	161017949	topA	BT_1135	-	-	DNA topoisomerase I
+1209108..1210322	-	404	161017950	dprA	BT_1136	-	-	DNA processing chain A
+1210297..1210929	-	210	161017951	-	BT_1137	-	-	conserved hypothetical protein
+1210941..1212242	-	433	161017952	pyrC2	BT_1138	-	-	dihydroorotase
+1212239..1213204	-	321	161017953	pyrB	BT_1139	-	-	aspartate carbamoyltransferase
+1213329..1214948	+	539	161017954	aidB	BT_1140	-	-	acyl-CoA dehydrogenase
+1214943..1215413	-	156	161017955	-	BT_1141	-	-	putative resolvase
+1215561..1215869	+	102	161017956	gatC	BT_1142	-	-	Glu-tRNA(Gln) amidotransferase subunit C
+1215901..1217385	+	494	161017957	gatA	BT_1143	-	-	glutamyl-tRNA amidotransferase subunit A
+1217478..1218188	-	236	161017958	livF	BT_1144	-	-	ATP-binding protein of ATP-transport system
+1218175..1218957	-	260	161017959	livG	BT_1145	-	-	ATP-binding protein of ABC-transport system
+1218954..1220012	-	352	161017960	livM	BT_1146	-	-	permease protein of ABC transporter
+1220012..1221082	-	356	161017961	livH	BT_1147	-	-	permease protein of ABC transporter
+1221198..1222331	-	377	161017962	livJ	BT_1148	-	-	substrate-binding protein of ABC transporter system
+1222648..1223223	+	191	161017963	cspE	BT_1149	-	-	cold shock protein
+1223465..1223791	+	108	161017964	-	BT_1150	-	-	conserved hypothetical protein
+1223974..1224747	+	257	161017965	-	BT_1151	-	-	hydrolase or acyltransferase
+1225306..1225569	+	87	161017966	-	BT_1152	-	-	conserved hypothetical protein
+1225613..1226425	-	270	161017967	radC	BT_1153	-	-	DNA repair protein RadC
+1226425..1227255	-	276	161017968	map	BT_1154	-	-	Methionine aminopeptidase
+1227248..1227964	-	238	161017969	sfsA	BT_1155	-	-	sugar fermentation stimulation protein
+1228219..1229049	+	276	161017970	-	BT_1156	-	-	RNA methyltransferase
+1229049..1229876	+	275	161017971	murI	BT_1157	-	-	Glutamate racemase
+1230049..1230666	+	205	161017972	rpsD	BT_1158	-	-	30S ribosomal protein S4
+1230927..1231793	+	288	161017973	-	BT_1159	-	-	conserved hypothetical protein
+1232340..1233653	-	437	161017974	-	BT_1161	-	-	conserved hypothetical protein
+1234122..1234835	-	237	161017975	lexA	BT_1162	-	-	SOS response regulator lexA protein
+1236552..1237448	+	298	161017976	rlpA	BT_1163	-	-	rare lipoprotein A
+1238413..1239576	+	387	161017977	dacD	BT_1164	-	-	penicillin-binding protein
+1239606..1240250	+	214	161017978	tmk	BT_1165	-	-	Thymidylate kinase
+1240247..1241290	+	347	161017979	dnaC	BT_1166	-	-	DNA polymerase III, delta prime subunit
+1241367..1242926	+	519	161017980	metS	BT_1167	-	-	Methionyl-tRNA synthetase
+1242916..1243689	+	257	161017981	-	BT_1168	-	-	putative deoxyribonuclease
+1243700..1244509	+	269	161017982	-	BT_1169	-	-	conserved hypothetical protein
+1244622..1244981	+	119	161017983	-	BT_1170	-	-	hypothetical protein predicted by Glimmer/Critica
+1245386..1245799	-	137	161017984	-	BT_1171	-	-	conserved hypothetical protein
+1245796..1246842	-	348	161017985	-	BT_1172	-	-	enoyl-CoA hydratase
+1246867..1247649	-	260	161017986	-	BT_1173	-	-	phosphatidylcholine synthase
+1247865..1249091	+	408	161017987	ubiH1	BT_1174	-	-	2-octaprenyl-6-methoxyphenol hydroxylase
+1250116..1250460	+	114	161017988	-	BT_1175	-	-	hypothetical protein
+1250453..1250794	+	113	161017989	-	BT_1176	-	-	conserved hypothetical protein
+1251232..1251759	+	175	161017990	sodC	BT_1177	-	-	superoxide dismutase
+1252372..1253310	-	312	161017991	-	BT_1178	-	-	conserved hypothetical protein
+1253751..1256501	-	916	161017992	-	BT_1179	-	-	conserved hypothetical protein
+1256525..1258165	-	546	161017993	-	BT_1180	-	-	methyltransferase
+1258223..1258624	-	133	161017994	paaD	BT_1181	-	-	conserved hypothetical protein
+1258617..1259861	-	414	161017995	sufS	BT_1182	-	-	cysteine desulfurase
+1259872..1261137	-	421	161017996	sufD	BT_1183	-	-	ABC-type transport system
+1261149..1261904	-	251	161017997	sufC	BT_1184	-	-	ABC transporter ATP-binding protein
+1262065..1263576	-	503	161017998	sufB	BT_1185	-	-	ABC transporter subunit
+1263747..1264892	-	381	161017999	-	BT_1186	-	-	putative cysteine desulfurase
+1265054..1265734	+	226	161018000	-	BT_1187	-	-	conserved hypothetical protein
+1266022..1267275	+	417	161018001	tyrS	BT_1188	-	-	Tyrosyl-tRNA synthetase
+1267488..1267973	+	161	161018002	bcp	BT_1189	-	-	bacterioferritin comigratory protein
+1268330..1269295	-	321	161018003	prfB	BT_1190	-	-	peptide chain release factor RF-2
+1269627..1272092	-	821	161018004	mrcA	BT_1191	-	-	penicillin-binding protein 1A
+1272262..1273437	-	391	161018005	amiB	BT_1192	-	-	N-acetylmuramoyl-L-alanine amidase
+1274087..1276702	+	871	161018006	rne	BT_1193	-	-	ribonuclease E
+1276772..1277383	-	203	161018007	-	BT_1194	-	-	conserved hypothetical protein
+1279750..1280619	-	289	161018008	-	BT_1196	-	-	hypothetical protein
+1280870..1284370	-	1166	161018009	mfd	BT_1197	-	-	transcription repair coupling factor
+1284376..1284663	-	95	161018010	-	BT_1198	-	-	conserved hypothetical protein
+1284730..1285410	-	226	161018011	lolD	BT_1199	-	-	lipoprotein releasing system ATP-binding protein lolD
+1285410..1286678	-	422	161018012	lolC	BT_1200	-	-	ABC transporter, permease protein
+1286690..1288015	-	441	161018013	proS	BT_1201	-	-	Prolyl-tRNA synthetase
+1288217..1289893	-	558	161018014	-	BT_1202	-	-	conserved hypothetical protein
+1289940..1290749	-	269	161018015	birA	BT_1203	-	-	birA bifunctional protein
+1290749..1292203	-	484	161018016	nuoN	BT_1204	-	-	NADH dehydrogenase I, N subunit
+1292221..1293690	-	489	161018017	nuoM	BT_1205	-	-	NADH dehydrogenase I chain M
+1293687..1295654	-	655	161018018	nuoL	BT_1206	-	-	NADH dehydrogenase I chain L
+1295661..1295969	-	102	161018019	nuoK	BT_1207	-	-	NADH dehydrogenase I chain K
+1295984..1296604	-	206	161018020	nuoJ	BT_1208	-	-	NADH dehydrogenase I chain J
+1296701..1297192	-	163	161018021	nuoI	BT_1209	-	-	NADH dehydrogenase I chain I
+1297207..1298253	-	348	161018022	nuoH	BT_1210	-	-	NADH dehydrogenase I chain H
+1298276..1300345	-	689	161018023	nuoG	BT_1211	-	-	NADH dehydrogenase I chain G
+1300411..1301718	-	435	161018024	nuoF	BT_1212	-	-	NADH dehydrogenase I chain F
+1301820..1302491	-	223	161018025	nuoE	BT_1213	-	-	NADH dehydrogenase I, E subunit
+1302491..1303681	-	396	161018026	nuoD	BT_1214	-	-	NADH dehydrogenase I, D subunit
+1303802..1304413	-	203	161018027	nuoC	BT_1215	-	-	NADH dehydrogenase I chain C
+1304428..1305009	-	193	161018028	nuoB	BT_1216	-	-	NADH dehydrogenase I, B subunit
+1305000..1305365	-	121	161018029	nuoA	BT_1217	-	-	NADH dehydrogenase I chain A
+1307410..1308231	-	273	161018030	-	BT_1218	-	-	phage-related modification methylase
+1308374..1309357	-	327	161018031	-	BT_1219	-	-	hypothetical prophage protein
+1309357..1309611	-	84	161018032	-	BT_1220	-	-	hypothetical protein
+1309608..1310078	-	156	161018033	-	BT_1221	-	-	putative phage tail protein
+1310235..1312571	-	778	161018034	-	BT_1222	-	-	Phage-related tail protein
+1312581..1312664	-	27	161018035	-	BT_1223	-	-	hypothetical protein predicted by Glimmer/Critica
+1312703..1313116	-	137	161018036	-	BT_1224	-	-	hypothetical protein
+1313126..1313644	-	172	161018037	gpFII	BT_1225	-	-	Phage tail tube protein FII
+1313641..1314930	-	429	161018038	gpFI	BT_1226	-	-	phage-related tail sheath protein
+1315076..1315288	-	70	161018039	-	BT_1227	-	-	hypothetical protein predicted by Glimmer/Critica
+1315298..1316614	-	438	161018040	-	BT_1228	-	-	hypothetical prophage protein
+1316629..1319772	-	1047	161018041	-	BT_1229	-	-	hypothetical protein
+1319774..1320880	-	368	161018042	gp27	BT_1230	-	-	phage protein
+1320880..1321746	-	288	161018043	gp26	BT_1231	-	-	Phage-related baseplate assembly protein
+1321733..1322119	-	128	161018044	gp25	BT_1232	-	-	phage-related baseplate assembly protein
+1322123..1322323	-	66	161018045	-	BT_1233	-	-	hypothetical protein predicted by Glimmer/Critica
+1322336..1322929	-	197	161018046	gp24	BT_1234	-	-	phage-related baseplate assembly protein
+1322926..1323438	-	170	161018047	-	BT_1235	-	-	hypothetical protein predicted by Glimmer/Critica
+1323444..1323938	-	164	161018048	-	BT_1236	-	-	hypothetical phage protein
+1323940..1324365	-	141	161018049	-	BT_1237	-	-	hypothetical phage protein
+1324381..1325346	-	321	161018050	-	BT_1238	-	-	conserved hypothetical phage protein
+1325359..1325700	-	113	161018051	-	BT_1239	-	-	hypothetical phage protein
+1325697..1326746	-	349	161018052	-	BT_1240	-	-	hypothetical phage protein
+1327358..1328563	-	401	161018053	-	BT_1241	-	-	conserved hypothetical phage protein
+1328556..1330133	-	525	161018054	gp29	BT_1242	-	-	phage protein
+1330146..1331768	-	540	161018055	gp28	BT_1243	-	-	phage protein
+1331761..1332342	-	193	161018056	gp27	BT_1244	-	-	phage protein
+1332305..1332661	-	118	161018057	-	BT_1245	-	-	phage related protein
+1332658..1332972	-	104	161018058	-	BT_1246	-	-	hypothetical phage protein
+1333172..1333513	-	113	161018059	-	BT_1247	-	-	hypothetical protein predicted by Glimmer/Critica
+1333506..1333793	-	95	161018060	-	BT_1248	-	-	hypothetical protein predicted by Glimmer/Critica
+1333790..1334371	-	193	161018061	-	BT_1249	-	-	peptidoglycan binding protein
+1334458..1334865	-	135	161018062	-	BT_1250	-	-	hypothetical protein predicted by Glimmer/Critica
+1334872..1335489	-	205	161018063	-	BT_1251	-	-	conserved hypothetical phage protein
+1335500..1336123	-	207	161018064	-	BT_1252	-	-	conserved hypothetical phage protein
+1336138..1336389	-	83	161018065	-	BT_1253	-	-	hypothetical protein predicted by Glimmer/Critica
+1336386..1336655	-	89	161018066	-	BT_1254	-	-	hypothetical protein
+1336652..1337683	-	343	161018067	muB	BT_1255	-	-	bacteriophage DNA transposition protein B
+1338041..1340011	-	656	161018068	muA	BT_1256	-	-	transposase (class III)
+1340008..1340466	-	152	161018069	-	BT_1257	-	-	hypothetical protein
+1340463..1341479	-	338	161018070	parB	BT_1258	-	-	chromosome partitioning protein
+1341479..1341877	-	132	161018071	-	BT_1259	-	-	conserved hypothetical protein
+1342075..1342527	-	150	161018073	-	BT_1260	-	-	hypothetical protein
+1342521..1343051	+	176	161018072	-	BT_1261	-	-	conserved hypothetical protein
+1343213..1343401	+	62	161018074	-	BT_1263	-	-	hypothetical protein
+1343711..1344532	-	273	161018075	-	BT_1264	-	-	phage-related modification methylase
+1344675..1345658	-	327	161018076	-	BT_1265	-	-	hypothetical prophage protein
+1345658..1345912	-	84	161018077	-	BT_1266	-	-	hypothetical protein
+1345909..1346379	-	156	161018078	-	BT_1267	-	-	putative phage tail protein
+1346536..1348872	-	778	161018079	-	BT_1268	-	-	Phage-related tail protein
+1348882..1348965	-	27	161018080	-	BT_1269	-	-	hypothetical protein predicted by Glimmer/Critica
+1349004..1349417	-	137	161018081	-	BT_1270	-	-	hypothetical protein
+1349427..1349945	-	172	161018082	gpFII	BT_1271	-	-	Phage tail tube protein FII
+1349942..1351231	-	429	161018083	gpFI	BT_1272	-	-	phage-related tail sheath protein
+1351377..1351589	-	70	161018084	-	BT_1273	-	-	hypothetical protein predicted by Glimmer/Critica
+1351599..1352915	-	438	161018085	-	BT_1274	-	-	hypothetical prophage protein
+1352930..1356073	-	1047	161018086	-	BT_1275	-	-	hypothetical protein
+1356075..1357181	-	368	161018087	gp27	BT_1276	-	-	phage protein
+1357181..1358047	-	288	161018088	gp26	BT_1277	-	-	Phage-related baseplate assembly protein
+1358034..1358420	-	128	161018089	gp25	BT_1278	-	-	phage-related baseplate assembly protein
+1358424..1358624	-	66	161018090	-	BT_1279	-	-	hypothetical protein predicted by Glimmer/Critica
+1358637..1359230	-	197	161018091	gp24	BT_1280	-	-	phage-related baseplate assembly protein
+1359272..1359739	-	155	161018092	-	BT_1281	-	-	hypothetical protein predicted by Glimmer/Critica
+1359745..1360239	-	164	161018093	-	BT_1282	-	-	hypothetical phage protein
+1360241..1360666	-	141	161018094	-	BT_1283	-	-	hypothetical phage protein
+1360682..1361647	-	321	161018095	-	BT_1284	-	-	hypothetical phage protein
+1361660..1362001	-	113	161018096	-	BT_1285	-	-	hypothetical phage protein
+1361998..1363047	-	349	161018097	-	BT_1286	-	-	hypothetical phage protein
+1363766..1364671	-	301	161018098	-	BT_1288	-	-	conserved hypothetical phage protein
+1364821..1365006	-	61	161018099	-	BT_1290	-	-	hypothetical protein predicted by Glimmer/Critica
+1365180..1365341	-	53	161018100	-	BT_1291	-	-	hypothetical protein predicted by Glimmer/Critica
+1365447..1366025	-	192	161018101	-	BT_1292	-	-	hypothetical protein
+1366090..1368426	-	778	161018102	-	BT_1293	-	-	hypothetical protein
+1368607..1371171	-	854	161018103	-	BT_1294	-	-	hypothetical protein predicted by Glimmer/Critica
+1371175..1372533	-	452	161018104	-	BT_1295	-	-	hemagglutinin-like secreted protein
+1372774..1373343	-	189	161018105	-	BT_1296	-	-	hypothetical protein
+1373393..1380970	-	2525	161018106	-	BT_1297	-	-	Filamentous hemagglutinin
+1381061..1382824	-	587	161018107	-	BT_1299	-	-	Hemolysin activator precursor
+1383445..1383795	+	116	161018108	-	BT_1301	-	-	helicase domain protein (fragment)
+1385241..1385861	-	206	161018109	folE	BT_1303	-	-	GTP cyclohydrolase I
+1385987..1386448	+	153	161018110	-	BT_1304	-	-	hypothetical protein
+1386415..1386765	+	116	161018111	-	BT_1305	-	-	conserved hypothetical protein
+1386878..1388854	+	658	161018112	thrS	BT_1306	-	-	Threonyl-tRNA synthetase
+1389972..1390475	-	167	161018113	-	BT_1307	-	-	regulatory protein MerR
+1390655..1390978	-	107	161018114	ihfA	BT_1308	-	-	integration host factor alpha subunit
+1391056..1392030	-	324	161018115	fabH	BT_1309	-	-	acyl-carrier-protein
+1392080..1393150	-	356	161018116	plsX	BT_1310	-	-	fatty acid/phospholipid synthesis protein
+1393306..1393863	-	185	161018117	-	BT_1311	-	-	conserved hypothetical protein
+1394079..1394567	+	162	161018118	-	BT_1312	-	-	small protein A
+1394639..1395109	-	156	161018119	nusB	BT_1313	-	-	N utilization substance protein B
+1395112..1395567	-	151	161018120	ribH	BT_1314	-	-	riboflavin synthase beta chain
+1395649..1396266	-	205	161018121	ribE	BT_1315	-	-	Riboflavin synthase alpha chain
+1396248..1397375	-	375	161018122	ribD	BT_1316	-	-	Riboflavin biosynthesis protein ribD
+1397368..1397850	-	160	161018123	-	BT_1317	-	-	conserved hypothetical protein
+1397864..1399177	-	437	161018124	glyA	BT_1318	-	-	serine hydroxymethyltransferase
+1399518..1400450	+	310	161018125	argC	BT_1319	-	-	N-acetyl-gamma-glutamyl-phosphate reductase
+1400470..1401546	-	358	161018126	cox15	BT_1320	-	-	cytochrome c oxidase assembly protein
+1401691..1403517	-	608	161018127	exoP	BT_1321	-	-	conserved hypothetical protein
+1403667..1405004	-	445	161018128	hflX	BT_1322	-	-	GTP-binding protein HflX
+1405058..1405297	-	79	161018129	hfq	BT_1323	-	-	host factor-I protein
+1405971..1410530	+	1519	161018130	-	BT_1324	-	-	conserved hypothetical protein
+1411551..1413869	+	772	161018131	maeB2	BT_1325	-	-	NAD-dependent malic enzyme
+1414059..1414343	+	94	161018132	acpP2	BT_1326	-	-	Acyl carrier protein
+1414354..1415529	+	391	161018133	-	BT_1327	-	-	beta-ketoacyl synthase family protein
+1415545..1416819	+	424	161018134	fabF2	BT_1328	-	-	3-oxoacyl-(acyl-carrier-protein) synthase II
+1416887..1417915	+	342	161018135	adh	BT_1329	-	-	alcohol dehydrogenase
+1417919..1418851	+	310	161018136	-	BT_1330	-	-	lipid A biosynthesis lauroyl acyltransferase
+1418885..1419700	+	271	161018137	mazG	BT_1331	-	-	MazG protein
+1419748..1420113	-	121	161018138	-	BT_1332	-	-	conserved hypothetical protein
+1421049..1421516	-	155	161018139	ibpA2	BT_1333	-	-	small heat shock protein
+1421800..1422717	+	305	161018140	-	BT_1334	-	-	lysophospholipase L2
+1423509..1423871	+	120	161018141	-	BT_1335	-	-	response regulator
+1426088..1426393	-	101	161018142	-	BT_1338	-	-	NADH-ubiquinone oxidoreductase
+1427285..1427974	-	229	161018143	-	BT_1339	-	-	conserved hypothetical protein
+1427971..1429182	-	403	161018144	perM	BT_1340	-	-	permease protein
+1429341..1430432	+	363	161018145	purM	BT_1341	-	-	5'-phosphoribosyl-5-aminoimidazole synthetase
+1430429..1431040	+	203	161018146	purN	BT_1342	-	-	phosphoribosylglycinamide formyltransferase
+1431316..1433862	-	848	161018147	-	BT_1343	-	-	sensor histidine kinase
+1434075..1434551	+	158	161018148	-	BT_1344	-	-	conserved hypothetical protein
+1434603..1435019	-	138	161018149	dksA	BT_1345	-	-	DnaK suppressor protein
+1435337..1435879	-	180	161018150	nmoB	BT_1346	-	-	4-hydroxyphenylacetate 3-monooxygenase
+1436016..1436702	+	228	161018151	rpe	BT_1347	-	-	ribulose-phosphate 3-epimerase
+1436699..1438015	+	438	161018152	purB	BT_1348	-	-	Adenylosuccinate lyase
+1438074..1438622	+	182	161018153	-	BT_1349	-	-	conserved hypothetical protein
+1438795..1439559	+	254	161018154	purC	BT_1350	-	-	phosphoribosylaminoimidazole-succinocarboxamidesynthase
+1439656..1439895	+	79	161018155	purS	BT_1351	-	-	conserved hypothetical protein
+1439907..1440578	+	223	161018156	purQ	BT_1352	-	-	phosphoribosylformylglycinamidine synthase I
+1440873..1443083	+	736	161018157	purL	BT_1353	-	-	phosphoribosylformylglycinamidine synthase II
+1443144..1443377	+	77	161018158	-	BT_1354	-	-	conserved hypothetical protein
+1443475..1443807	+	110	161018159	grlA	BT_1355	-	-	Glutaredoxin-related protein
+1443879..1445135	+	418	161018160	-	BT_1356	-	-	bicyclomycin resistance protein
+1445688..1447937	-	749	161018161	parC	BT_1357	-	-	topoisomerase IV subunit A
+1448984..1450777	-	597	161018162	aspS	BT_1358	-	-	Aspartyl-tRNA synthetase
+1450910..1452064	+	384	161018163	rnd2	BT_1359	-	-	Ribonuclease D
+1452547..1454064	-	505	161018164	-	BT_1360	-	-	exopolyphosphatase, Ppx/GppA family
+1454071..1456251	-	726	161018165	ppk	BT_1361	-	-	Polyphosphate kinase
+1456576..1456824	+	82	161018166	-	BT_1362	-	-	conserved hypothetical protein
+1456871..1458118	+	415	161018167	-	BT_1363	-	-	salicylate hydroxylase
+1458296..1461763	-	1155	161018168	dnaE	BT_1364	-	-	DNA polymerase III alpha subunit
+1462156..1464264	+	702	161018169	recG	BT_1365	-	-	ATP-dependent DNA helicase
+1464666..1466489	-	607	161018170	glmS	BT_1366	-	-	glucosamine-fructose-6-phosphateaminotransferase
+1466662..1468026	-	454	161018171	glmU	BT_1367	-	-	glucosamine-1-phosphate N-acetyltransferase / UDP-N-acetylglucosamine pyrophosphorylase
+1468041..1468826	-	261	161018172	ccdA	BT_1368	-	-	cytochrome c-type biogenesis protein
+1468876..1469859	-	327	161018173	-	BT_1369	-	-	conserved hypothetical protein
+1469900..1470223	-	107	161018174	-	BT_1370	-	-	conserved hypothetical protein
+1470350..1471552	+	400	161018175	dgt	BT_1371	-	-	deoxyguanosinetriphosphate triphosphohydrolase
+1471583..1473340	+	585	161018176	argS	BT_1372	-	-	Arginyl-tRNA synthetase
+1473491..1476019	+	842	161018177	-	BT_1373	-	-	conserved hypothetical protein
+1476214..1476501	-	95	161018178	-	BT_1375	-	-	conserved hypothetical protein
+1476788..1477897	+	369	161018179	ilvE	BT_1376	-	-	branched-chain amino acid aminotransferase
+1478007..1478993	-	328	161018180	glpX	BT_1378	-	-	glpX protein
+1479130..1480446	-	438	161018181	hom	BT_1379	-	-	Homoserine dehydrogenase
+1482626..1483840	+	404	161018182	icdA	BT_1381	-	-	NADP-dependent isocitrate dehydrogenase
+1483959..1484840	+	293	161018183	-	BT_1382	-	-	transport transmembrane protein
+1484787..1485608	-	273	161018184	-	BT_1383	-	-	phage-related modification methylase
+1485751..1486743	-	330	161018185	-	BT_1384	-	-	hypothetical prophage protein
+1486734..1486988	-	84	161018186	-	BT_1385	-	-	hypothetical protein
+1486985..1487455	-	156	161018187	-	BT_1386	-	-	putative phage tail protein
+1487612..1489948	-	778	161018188	-	BT_1387	-	-	Phage-related tail protein
+1489958..1490041	-	27	161018189	-	BT_1388	-	-	hypothetical protein predicted by Glimmer/Critica
+1490080..1490493	-	137	161018190	-	BT_1389	-	-	hypothetical protein predicted by Glimmer/Critica
+1490503..1491021	-	172	161018191	gpFII	BT_1390	-	-	Phage tail tube protein FII
+1491018..1492307	-	429	161018192	gpFI	BT_1391	-	-	phage-related tail sheath protein
+1492453..1492665	-	70	161018193	-	BT_1392	-	-	hypothetical protein predicted by Glimmer/Critica
+1492675..1493991	-	438	161018194	-	BT_1393	-	-	hypothetical prophage protein
+1494006..1497149	-	1047	161018195	-	BT_1394	-	-	hypothetical protein
+1497151..1498257	-	368	161018196	gp27	BT_1395	-	-	phage protein
+1498257..1499123	-	288	161018197	gp26	BT_1396	-	-	Phage-related baseplate assembly protein
+1499110..1499496	-	128	161018198	gp25	BT_1397	-	-	phage-related baseplate assembly protein
+1499500..1499700	-	66	161018199	-	BT_1398	-	-	hypothetical protein predicted by Glimmer/Critica
+1499713..1500306	-	197	161018200	gp24	BT_1399	-	-	phage-related baseplate assembly protein
+1500303..1500815	-	170	161018201	-	BT_1400	-	-	hypothetical protein phage
+1500821..1501315	-	164	161018202	-	BT_1401	-	-	hypothetical phage protein
+1501317..1501742	-	141	161018203	-	BT_1402	-	-	hypothetical phage protein
+1501758..1502723	-	321	161018204	-	BT_1403	-	-	conserved hypothetical phage protein
+1502736..1503077	-	113	161018205	-	BT_1404	-	-	hypothetical phage protein
+1503074..1504123	-	349	161018206	-	BT_1405	-	-	hypothetical phage protein
+1504735..1505940	-	401	161018207	-	BT_1406	-	-	conserved hypothetical phage protein
+1505933..1507510	-	525	161018208	gp29	BT_1407	-	-	phage protein
+1507523..1509145	-	540	161018209	gp28	BT_1408	-	-	phage protein
+1509138..1509719	-	193	161018210	gp27	BT_1409	-	-	phage protein
+1509682..1510038	-	118	161018211	-	BT_1410	-	-	phage related protein
+1510035..1510349	-	104	161018212	-	BT_1411	-	-	hypothetical phage protein
+1510549..1510890	-	113	161018213	-	BT_1412	-	-	hypothetical protein phage
+1510883..1511170	-	95	161018214	-	BT_1413	-	-	hypothetical phage protein
+1511167..1511748	-	193	161018215	-	BT_1414	-	-	phage-related protein
+1511835..1512242	-	135	161018216	-	BT_1415	-	-	hypothetical phage protein
+1512249..1512866	-	205	161018217	-	BT_1416	-	-	conserved hypothetical phage protein
+1512877..1513500	-	207	161018218	-	BT_1417	-	-	conserved hypothetical phage protein
+1513515..1513763	-	82	161018219	-	BT_1418	-	-	hypothetical protein predicted by Glimmer/Critica
+1513763..1514032	-	89	161018220	-	BT_1419	-	-	hypothetical protein
+1514029..1515060	-	343	161018221	muB	BT_1420	-	-	bacteriophage DNA transposition protein B
+1515418..1517388	-	656	161018222	muA	BT_1421	-	-	transposase (class III)
+1517385..1517843	-	152	161018223	-	BT_1422	-	-	hypothetical protein
+1517840..1518913	-	357	161018224	parB	BT_1423	-	-	chromosome partitioning protein parB
+1518856..1519254	-	132	161018225	-	BT_1424	-	-	conserved hypothetical protein
+1519452..1519883	-	143	161018226	-	BT_1425	-	-	hypothetical protein
+1519898..1520428	+	176	161018227	-	BT_1426	-	-	conserved hypothetical protein
+1520590..1520778	+	62	161018228	-	BT_1428	-	-	hypothetical protein
+1520895..1521641	+	248	161018229	-	BT_1429	-	-	transport transmembrane protein
+1521686..1522885	-	399	161018230	-	BT_1430	-	-	transport transmembrane protein
+1524077..1525195	-	372	161018231	tgt	BT_1431	-	-	queuine tRNA-ribosyltransferase
+1526343..1526531	+	62	161018232	int	BT_1432	-	-	putative integrase protein
+1526590..1526718	+	42	161018233	int	BT_1433	-	-	putative integrase protein
+1527181..1527693	-	170	161018234	ppiB2	BT_1434	-	-	peptidyl prolyl cis-trans isomerase
+1527712..1528314	-	200	161018235	ppiB1	BT_1435	-	-	peptidyl prolyl cis-trans isomerase
+1528317..1528823	-	168	161018236	coaD	BT_1436	-	-	Phosphopantetheine adenylyltransferase
+1528848..1531598	-	916	161018237	gyrA	BT_1437	-	-	DNA gyrase subunit A
+1531872..1532378	-	168	161018238	ssb	BT_1438	-	-	single-strand DNA binding protein
+1532711..1535626	+	971	161018239	uvrA	BT_1439	-	-	excinuclease ABC subunit A
+1536688..1537026	+	112	161018240	glnB	BT_1440	-	-	nitrogen regulatory protein P-II
+1537084..1538493	+	469	161018241	glnA	BT_1441	-	-	glutamine synthetase I
+1538658..1539203	+	181	161018242	-	BT_1444	-	-	hypothetical protein
+1539214..1539996	-	260	161018243	-	BT_1445	-	-	conserved hypothetical protein
+1540995..1541303	+	102	161018244	-	BT_1446	-	-	hypothetical protein
+1541290..1542495	+	401	161018245	-	BT_1447	-	-	hypothetical protein
+1542597..1543439	+	280	161018246	-	BT_1448	-	-	putative integral membrane protein
+1543436..1544701	+	421	161018247	-	BT_1449	-	-	hypothetical protein
+1545563..1548316	-	917	161018248	-	BT_1450	-	-	autotransporter
+1549622..1550071	-	149	161018249	-	BT_1453	-	-	hypothetical protein
+1550218..1550619	-	133	161018250	-	BT_1455	-	-	hypothetical protein
+1550986..1551450	-	154	161018251	-	BT_1457	-	-	hypothetical protein
+1551390..1552148	-	252	161018252	fhaB	BT_1458	-	-	filamentous hemagglutinin
+1552161..1552565	-	134	161018253	-	BT_1459	-	-	hypothetical protein
+1552562..1553329	-	255	161018254	fhaB	BT_1460	-	-	filamentous hemagglutinin
+1553342..1553746	-	134	161018255	-	BT_1461	-	-	hypothetical protein
+1553743..1556802	-	1019	161018256	fhaB	BT_1462	-	-	filamentous hemagglutinin
+1557694..1559070	-	458	161018257	-	BT_1464	-	-	amino acid permease
+1559521..1559883	-	120	161018258	-	BT_1464a	-	-	hypothetical protein
+1560157..1561695	-	512	161018259	hutH	BT_1465	-	-	Histidine ammonia-lyase
+1563136..1563468	-	110	161018260	-	BT_1467	-	-	hypothetical protein
+1564254..1564880	+	208	161018261	lemA	BT_1469	-	-	membrane protein LemA
+1564880..1565731	+	283	161018262	-	BT_1470	-	-	conserved hypothetical protein
+1565874..1566611	+	245	161018263	lipB	BT_1472	-	-	lipoate biosynthesis protein B
+1566694..1568760	+	688	161018264	-	BT_1473	-	-	topoisomerase protein
+1568786..1570570	-	594	161018265	recJ	BT_1474	-	-	single-stranded-DNA-specific exonuclease
+1570859..1571323	+	154	161018266	rplM	BT_1475	-	-	50S ribosomal protein L13
+1571326..1571811	+	161	161018267	rpsI	BT_1476	-	-	30S ribosomal protein S9
+1572137..1572502	-	121	161018268	divK	BT_1477	-	-	two-component system response regulator
+1573045..1573404	-	119	161018269	-	BT_1478	-	-	hypothetical protein
+1574394..1574756	-	120	161018270	-	BT_1479	-	-	hypothetical protein
+1577224..1577535	-	103	161018271	-	BT_1482	-	-	hypothetical protein predicted by Glimmer/Critica
+1578411..1579199	-	262	161018272	-	BT_1484	-	-	hypothetical protein
+1579183..1579917	-	244	161018273	-	BT_1485	-	-	possible ABC transporter, permease
+1579982..1581001	-	339	161018274	-	BT_1486	-	-	ABC transporter, ATP-binding protein
+1581769..1582752	-	327	161018275	rluC	BT_1487	-	-	ribosomal large subunit pseudouridine synthase C
+1582987..1584774	+	595	161018276	-	BT_1488	-	-	ABC transporter, ATP-binding protein
+1585482..1588148	-	888	161018277	alaS	BT_1489	-	-	Alanyl-tRNA synthetase
+1588357..1589400	-	347	161018278	recA	BT_1490	-	-	RecA protein
+1590390..1591757	-	455	161018279	-	BT_1491	-	-	ATPase, AAA family
+1591717..1593111	-	464	161018280	htrA2	BT_1492	-	-	serine protease HtrA
+1593383..1593811	-	142	161018281	rplQ	BT_1493	-	-	50S ribosomal protein L17
+1593836..1594849	-	337	161018282	rpoA	BT_1494	-	-	DNA-directed RNA polymerase alpha subunit
+1594944..1595333	-	129	161018283	rpsK	BT_1495	-	-	30S ribosomal protein S11
+1595450..1595818	-	122	161018284	rpsM	BT_1496	-	-	30S ribosomal protein S13
+1595999..1596577	-	192	161018285	adk	BT_1497	-	-	adenylate kinase
+1596574..1597920	-	448	161018286	secY	BT_1498	-	-	translocase SecY subunit precursor
+1598076..1598543	-	155	161018287	rplO	BT_1499	-	-	50S ribosomal protein L15
+1598564..1598770	-	68	161018288	rpmD	BT_1500	-	-	50S ribosomal protein L30
+1598802..1599350	-	182	161018289	rpsE	BT_1501	-	-	30S ribosomal protein S5
+1599463..1599825	-	120	161018290	rplR	BT_1502	-	-	50S ribosomal protein L18
+1599838..1600371	-	177	161018291	rplF	BT_1503	-	-	50S ribosomal protein L6
+1600411..1600809	-	132	161018292	rpsH	BT_1504	-	-	30S ribosomal protein S8
+1600824..1601129	-	101	161018293	rpsN	BT_1505	-	-	30S ribosomal protein S14
+1601154..1601711	-	185	161018294	rplE	BT_1506	-	-	50S ribosomal protein L5
+1601704..1602018	-	104	161018295	rplX	BT_1507	-	-	50S ribosomal protein L24
+1602031..1602399	-	122	161018296	rplN	BT_1508	-	-	50S ribosomal protein L14
+1602543..1602782	-	79	161018297	rpsQ	BT_1509	-	-	30S ribosomal protein S17
+1602794..1602994	-	66	161018298	rpmC	BT_1510	-	-	50S ribosomal protein L29
+1603007..1603420	-	137	161018299	rplP	BT_1511	-	-	50S ribosomal protein L16
+1603457..1604167	-	236	161018300	rpsC	BT_1512	-	-	30S ribosomal protein S3
+1604167..1604556	-	129	161018301	rplV	BT_1513	-	-	50S ribosomal protein L22
+1604559..1604837	-	92	161018302	rpsS	BT_1514	-	-	30S ribosomal protein S19
+1604853..1605686	-	277	161018303	rplB	BT_1515	-	-	50S ribosomal protein L2
+1605708..1606001	-	97	161018304	rplW	BT_1516	-	-	50S ribosomal protein L23
+1605998..1606618	-	206	161018305	rplD	BT_1517	-	-	50S ribosomal protein L4
+1606621..1607358	-	245	161018306	rplC	BT_1518	-	-	50S ribosomal protein L3
+1607386..1607694	-	102	161018307	rpsJ	BT_1519	-	-	30S ribosomal protein S10
+1607756..1608931	-	391	161018308	tufA	BT_1520	-	-	elongation factor Tu (EF-Tu)
+1608997..1611081	-	694	161018309	fusA	BT_1521	-	-	elongation factor EF-G
+1611106..1611576	-	156	161018310	rpsG	BT_1522	-	-	30S ribosomal protein S7
+1611595..1611966	-	123	161018311	rpsL	BT_1523	-	-	30S ribosomal protein S12
+1612463..1613245	+	260	161018312	xthA1	BT_1524	-	-	exodeoxyribonuclease III
+1613369..1614274	+	301	161018313	gltI	BT_1525	-	-	amino-acid ABC transporter binding protein
+1614416..1615168	+	250	161018314	gltJ	BT_1526	-	-	glutamate/aspartate transport system permease protein GltJ
+1615171..1615887	+	238	161018315	gltK	BT_1527	-	-	glutamate/aspartate transport system permease protein
+1615899..1616645	+	248	161018316	gltL	BT_1528	-	-	glutamate /aspartate transport ATP-binding protein
+1616750..1617541	-	263	161018317	exoR	BT_1529	-	-	exopolysaccharide production negative regulator precursor
+1618929..1621661	-	910	161018318	valS	BT_1530	-	-	Valyl-tRNA synthetase
+1621797..1622357	-	186	161018319	-	BT_1531	-	-	hypothetical protein
+1622602..1623903	-	433	161018320	tolC	BT_1532	-	-	Outer membrane protein
+1623961..1624635	-	224	161018321	-	BT_1533	-	-	conserved hypothetical protein
+1626618..1628021	-	467	161018322	rhlE2	BT_1534	-	-	ATP-dependent RNA helicase
+1628275..1628805	-	176	161018323	-	BT_1535	-	-	hypothetical protein
+1628841..1630118	-	425	161018324	ilvA	BT_1536	-	-	Threonine dehydratase
+1630678..1631607	-	309	161018325	hbpE	BT_1537	-	-	hemin binding protein E
+1632219..1632491	-	90	161018326	-	BT_1538	-	-	conserved hypothetical protein
+1632485..1634860	-	791	161018327	-	BT_1539	-	-	conserved hypothetical protein
+1635036..1635413	+	125	161018328	-	BT_1539a	-	-	hypothetical protein
+1635518..1638031	+	837	161018329	secD	BT_1540	-	-	protein-export membrane protein
+1638132..1639874	+	580	161018330	-	BT_1541	-	-	putative transport protein
+1639899..1640852	+	317	161018331	-	BT_1542	-	-	conserved hypothetical protein
+1641956..1643524	+	522	161018332	-	BT_1543	-	-	conserved hypothetical protein
+1644872..1645480	+	202	161018333	-	BT_1545	-	-	conserved hypothetical protein
+1646845..1648245	+	466	161018334	cycA1	BT_1547	-	-	D-serine/D-alanine/glycine transporter
+1649109..1650500	+	463	161018335	cycA2	BT_1548	-	-	D-serine/D-alanine/glycine transporter
+1650625..1651644	-	339	161018336	ilvC	BT_1549	-	-	Ketol-acid reductoisomerase
+1652592..1653326	-	244	161018337	pdxJ	BT_1551	-	-	pyridoxal phosphate biosynthetic protein PdxJ
+1653411..1654532	-	373	161018338	-	BT_1552	-	-	exodeoxyribonuclease V
+1655571..1656497	+	308	161018339	-	BT_1554	-	-	conserved hypothetical protein
+1656714..1656893	+	59	161018340	-	BT_1555	-	-	hypothetical protein (fragment)
+1656996..1657175	+	59	161018341	-	BT_1556	-	-	hypothetical protein (fragment)
+1657103..1657534	+	143	161018342	-	BT_1557	-	-	hypothetical protein (fragment)
+1659608..1661410	-	600	161018343	ilvB	BT_1560	-	-	acetolactate synthase large subunit
+1661659..1662531	-	290	161018344	miaA	BT_1561	-	-	tRNA delta(2)-isopentenylpyrophosphate transferase
+1663520..1665046	-	508	161018345	htrA3	BT_1564	-	-	serine protease
+1665198..1666133	-	311	161018346	hflC	BT_1565	-	-	ftsH protease activity modulator HflC
+1666136..1667287	-	383	161018347	hflK	BT_1566	-	-	ftsH protease activity modulator HflK
+1667408..1667917	-	169	161018348	folA	BT_1567	-	-	Dihydrofolate reductase
+1667914..1668708	-	264	161018349	thyA	BT_1568	-	-	Thymidylate synthase
+1668929..1670236	+	435	161018350	kgtP1	BT_1569	-	-	alpha-ketoglutarate permease
+1671696..1673003	+	435	161018351	kgtP2	BT_1570	-	-	alpha-ketoglutarate permease
+1673542..1674849	+	435	161018352	kgtP3	BT_1571	-	-	alpha-ketoglutarate permease
+1674917..1675222	-	101	161018353	-	BT_1572	-	-	conserved hypothetical protein
+1675860..1676405	+	181	161018354	-	BT_1573	-	-	conserved hypothetical protein
+1676414..1676596	+	60	161018355	-	BT_1574	-	-	conserved hypothetical protein
+1676607..1676858	+	83	161018356	-	BT_1575	-	-	conserved hypothetical protein
+1676942..1679305	+	787	161018357	uvrD	BT_1576	-	-	DNA helicase II
+1679362..1679991	-	209	161018358	cat	BT_1577	-	-	acetyltransferase
+1680133..1680714	+	193	161018359	-	BT_1578	-	-	sco1/2 family protein
+1680745..1681614	+	289	161018360	prmA	BT_1579	-	-	ribosomal protein L11 methyltransferase
+1681632..1683458	+	608	161018361	-	BT_1580	-	-	aminopeptidase P
+1685244..1687403	-	719	161018362	ligA	BT_1581	-	-	DNA ligase
+1687537..1689198	-	553	161018363	recN	BT_1582	-	-	DNA repair protein RecN
+1689205..1690098	-	297	161018364	comL	BT_1583	-	-	competence lipoprotein precursor
+1690260..1691144	-	294	161018365	lpxC	BT_1584	-	-	UDP-3-O-[3-hydroxymyristoyl] N-acetylglucosamine deacetylase
+1691355..1693127	-	590	161018366	ftsZ	BT_1585	-	-	cell division protein FtsZ
+1693191..1694489	-	432	161018367	ftsA	BT_1586	-	-	cell division protein FtsA
+1694489..1695400	-	303	161018368	ftsQ	BT_1587	-	-	cell division protein FtsQ
+1695388..1696308	-	306	161018369	ddlB	BT_1588	-	-	D-alanine--D-alanine ligase
+1696548..1697531	-	327	161018370	murB	BT_1589	-	-	UDP-N-acetylenolpyruvoylglucosamine reductase
+1697503..1698930	-	475	161018371	murC	BT_1590	-	-	UDP-N-acetylmuramate--alanine ligase
+1698914..1700050	-	378	161018372	murG	BT_1591	-	-	UDP-N-acetylglucosamine--N-acetylmuramyl-(pentap eptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase
+1700047..1701195	-	382	161018373	ftsW	BT_1592	-	-	cell division protein FtsW
+1701341..1702735	-	464	161018374	murD	BT_1593	-	-	UDP-N-acetylmuramoylalanine--D-glutamate ligase
+1702740..1703810	-	356	161018375	mraY	BT_1594	-	-	phospho-N-acetylmuramoyl-pentapeptide-transferase
+1703835..1705253	-	472	161018376	murF	BT_1595	-	-	UDP-N-acetylmuramoylalanyl-D-glutamyl-2,6-diamin opimelate--D-alanyl-D-alanine ligase
+1705250..1706701	-	483	161018377	murE	BT_1596	-	-	UDP-N-acetylmuramoylalanyl-D-glutamate--2,6 diaminopimelate ligase
+1706725..1708467	-	580	161018378	ftsI	BT_1597	-	-	Cell division protein/penicillin-binding protein
+1708464..1708871	-	135	161018379	-	BT_1598	-	-	conserved hypothetical protein
+1708868..1709866	-	332	161018380	mraW	BT_1599	-	-	S-adenosyl-methyltransferase
+1710606..1711115	-	169	161018381	-	BT_1600	-	-	putative membrane protein
+1712506..1712886	-	126	161018382	-	BT_1601	-	-	conserved hypothetical protein
+1713882..1714820	-	312	161018383	arsR	BT_1602	-	-	transcriptional regulator, ArsR family
+1715462..1717111	-	549	161018384	chvD	BT_1605	-	-	ChvD protein
+1717274..1717810	+	178	161018385	-	BT_1606	-	-	conserved hypothetical protein
+1717857..1718465	+	202	161018386	pncA	BT_1607	-	-	pyrazinamidase/nicotinamidase
+1718840..1719889	-	349	161018387	-	BT_1608	-	-	conserved hypothetical membrane protein
+1720255..1720794	+	179	161018388	-	BT_1609	-	-	conserved hypothetical protein
+1721181..1721360	+	59	161018389	-	BT_1610	-	-	hypothetical protein
+1722127..1722438	-	103	161018390	-	BT_1611	-	-	phage-related protein
+1722989..1723369	-	126	161018391	-	BT_1612	-	-	phage-related protein
+1723759..1724073	+	104	161018392	-	BT_1614	-	-	hypothetical protein
+1725869..1726612	+	247	161018393	omp28	BT_1616	-	-	outer membrane protein
+1726642..1727103	-	153	161018394	ycgN	BT_1617	-	-	conserved hypothetical protein
+1727548..1727748	-	66	161018395	-	BT_1618	-	-	Predicted transcriptional regulator
+1727978..1728199	-	73	161018396	int (fragment 2)	BT_1619	-	-	phage-related integrase (fragment 2)
+1728701..1729078	-	125	161018397	int (fragment 1)	BT_1620	-	-	phage-related integrase (fragment 1)
+1729494..1731509	-	671	161018398	rpoD	BT_1621	-	-	RNA polymerase sigma factor
+1731902..1733839	-	645	161018399	dnaG	BT_1622	-	-	DNA primase
+1733976..1735193	+	405	161018400	-	BT_1623	-	-	integral membrane protein
+1735262..1736938	+	558	161018401	-	BT_1624	-	-	Na+/phosphate symporter
+1738200..1738451	+	83	161018402	-	BT_1626	-	-	hypothetical protein
+1739650..1740174	+	174	161018403	ubiC	BT_1627	-	-	chorismate-pyruvate lyase
+1740854..1741306	-	150	161018404	-	BT_1629	-	-	conserved hypothetical protein
+1741565..1742761	+	398	161018405	carA	BT_1630	-	-	carbamoyl-phosphate synthase small chain
+1743760..1744413	-	217	161018406	tet (fragment 3)	BT_1631	-	-	tetracycline-efflux transporter (fragment 3)
+1744483..1744779	-	98	161018407	tet (fragment 2)	BT_1632	-	-	tetracycline resistance protein (fragment 2)
+1744783..1744989	-	68	161018408	tet (fragment 1)	BT_1633	-	-	tetracycline-efflux transporter (fragment 1)
+1745566..1746405	+	279	161018409	-	BT_1634	-	-	conserved hypothetical protein
+1747125..1748042	-	305	161018410	-	BT_1635	-	-	conserved hypothetical protein
+1748815..1749630	+	271	161018411	-	BT_1636	-	-	tRNA/rRNA methyltransferase protein, TrmH family
+1749885..1751108	-	407	161018412	trmU	BT_1637	-	-	tRNA(5-methylaminomethyl-2-thiouridylate)-methyltransferase
+1751503..1751778	+	91	161018413	-	BT_1639	-	-	conserved hypothetical protein
+1751933..1752319	-	128	161018414	-	BT_1640	-	-	conserved hypothetical protein
+1752884..1753585	+	233	161018415	ctrA	BT_1641	-	-	cell cycle transcriptional regulator CtrA
+1753806..1754444	-	212	161018416	-	BT_1642	-	-	conserved hypothetical protein
+1754660..1755256	+	198	161018417	-	BT_1643	-	-	conserved hypothetical protein
+1755241..1755669	+	142	161018418	fragment1	BT_1644	-	-	hypothetical protein
+1755659..1755925	+	88	161018419	fragment2	BT_1645	-	-	hypothetical protein
+1756230..1757348	-	372	161018420	-	BT_1646	-	-	conserved hypothetical protein
+1757398..1758354	-	318	161018421	-	BT_1647	-	-	conserved hypothetical protein
+1758795..1759274	-	159	161018422	dnaB (fragment2)	BT_1648	-	-	replicative DNA helicase (fragment2)
+1759319..1760299	-	326	161018423	dnaB (fragment1)	BT_1649	-	-	replicative DNA helicase (fragment1)
+1760278..1761285	-	335	161018424	-	BT_1650	-	-	hypothetical prophage protein
+1761276..1761530	-	84	161018425	-	BT_1651	-	-	hypothetical protein
+1761527..1762012	-	161	161018426	-	BT_1652	-	-	putative phage tail protein
+1762173..1763918	-	581	161018427	-	BT_1653	-	-	phage-related membrane protein
+1763986..1764192	+	68	161018428	-	BT_1654	-	-	conserved hypothetical protein
+1764672..1769153	+	1493	161018429	ibaA	BT_1655	-	-	inducible Bartonella autotransporter A protein
+1771355..1773832	+	825	161018430	ibaB	BT_1660	-	-	inducible Bartonella autotransporter B protein
+1774486..1776909	+	807	161018431	ibaC	BT_1661	-	-	inducible Bartonella autotransporter C protein
+1777056..1778714	+	552	161018432	ibaD	BT_1662	-	-	inducible Bartonella autotransporter D protein
+1778846..1782157	+	1103	161018433	ibaE	BT_1663	-	-	inducible Bartonella autotransporter E protein
+1783218..1783337	+	39	161018434	dicA (fragment)	BT_1665	-	-	transcriptional regulator (fragment)
+1785248..1785442	+	64	161018435	int (fragment)	BT_1670	-	-	putative integrase protein (fragment)
+1786251..1786523	+	90	161018436	int (fragment)	BT_1671	-	-	phage-related integrase (fragment)
+1786794..1787198	-	134	161018437	-	BT_1672	-	-	conserved hypothetical protein
+1792421..1792648	-	75	161018438	-	BT_1680	-	-	conserved hypothetical protein
+1792648..1793274	-	208	161018439	parA	BT_1681	-	-	partition protein A
+1794585..1794914	+	109	161018440	-	BT_1683	-	-	conserved hypothetical protein
+1795506..1796489	-	327	161018441	ribF	BT_1685	-	-	riboflavin biosynthesis protein RibF
+1796522..1797367	-	281	161018442	-	BT_1686	-	-	Predicted sugar phosphatase of the HAD superfamily
+1798604..1798963	+	119	161018443	dicA	BT_1687	-	-	transcriptional regulator
+1799101..1799772	-	223	161018444	-	BT_1688	-	-	conserved hypothetical protein
+1800215..1800535	+	106	161018445	virB2	BT_1689	-	-	VirB2 protein precursor
+1800536..1800844	+	102	161018446	virB3	BT_1690	-	-	VirB3 protein
+1800867..1803221	+	784	161018447	virB4	BT_1691	-	-	VirB4 protein
+1803218..1803703	+	161	161018448	virB5	BT_1692	-	-	VirB5 protein homolog precursor
+1803690..1804667	+	325	161018449	virB6	BT_1693	-	-	VirB6 protein
+1804879..1805193	+	104	161018450	virB7	BT_1694	-	-	VirB7 protein homolog precursor
+1805183..1805851	+	222	161018451	virB8	BT_1695	-	-	VirB8 protein
+1805848..1806714	+	288	161018452	virB9	BT_1696	-	-	VirB9 protein precursor
+1806707..1807879	+	390	161018453	virB10	BT_1697	-	-	VirB10 protein
+1807876..1808946	+	356	161018454	virB11	BT_1698	-	-	VirB11 protein
+1809009..1809224	+	71	161018455	-	BT_1699	-	-	conserved hypothetical protein
+1809235..1810869	+	544	161018456	bepA	BT_1700	-	-	BepA protein
+1811015..1812931	+	638	161018457	virD4	BT_1701	-	-	VirD4 protein
+1814544..1816142	+	532	161018458	bepC	BT_1704	-	-	BepC protein
+1816452..1818026	+	524	161018459	bepD	BT_1705	-	-	bepD protein
+1818370..1819188	+	272	161018460	bepE	BT_1706	-	-	BepE protein
+1819541..1820833	+	430	161018461	bepH	BT_1707	-	-	BepH protein
+1821138..1823105	+	655	161018462	bepF	BT_1709	-	-	BepF protein
+1823441..1825813	+	790	161018463	bepI	BT_1710	-	-	BepI protein
+1826661..1828232	+	523	161018464	mviN	BT_1713	-	-	MviN protein
+1828294..1829364	+	356	161018465	trpS	BT_1714	-	-	Tryptophanyl-tRNA synthetase
+1829428..1829919	+	163	161018466	uspA	BT_1715	-	-	UspA protein homolog
+1829981..1830559	+	192	161018467	-	BT_1716	-	-	NifU-related protein
+1831810..1832145	-	111	161018468	phnA	BT_1720	-	-	alkylphosphonate utilization operon protein PhnA
+1832928..1834580	-	550	161018469	pgm	BT_1724	-	-	Phosphoglucomutase
+1834774..1835298	+	174	161018470	-	BT_1726	-	-	conserved hypothetical protein
+1835875..1836405	-	176	161018471	-	BT_1727	-	-	hypothetical protein
+1837013..1838539	-	508	161018472	hisS	BT_1728	-	-	Histidyl-tRNA synthetase
+1839876..1840166	-	96	161018473	dicA	BT_1730	-	-	transcriptional regulator
+1841245..1842090	-	281	161018474	pyrF	BT_1734	-	-	orotidine 5'-phosphate decarboxylase
+1842595..1843671	+	358	161018475	-	BT_1735	-	-	hypothetical protein
+1844452..1846284	+	610	161018476	mod1	BT_1738	-	-	type III restriction system methylase
+1846296..1849271	+	991	161018477	res1	BT_1739	-	-	restriction enzyme of type III restriction-modification system
+1857684..1858076	+	130	161018478	-	BT_1745	-	-	transcriptional regulator, Fur family
+1858232..1859326	+	364	161018479	vceA	BT_1746	-	-	multidrug resistance efflux pump VceA protein
+1859351..1860922	+	523	161018480	vceB	BT_1747	-	-	multidrug resistance protein VceB
+1863805..1864389	-	194	161018481	-	BT_1748	-	-	conserved hypothetical protein
+1864467..1865600	-	377	161018482	ldc	BT_1749	-	-	lysine/ornithine decarboxylase
+1867923..1868852	-	309	161018483	-	BT_1751	-	-	conserved hypothetical protein
+1868956..1869639	+	227	161018484	eda	BT_1752	-	-	2-dehydro-3-deoxyphosphogluconate aldolase / 4-hydroxy-2-oxoglutarate aldolase
+1869663..1869860	-	65	161018485	fpr (fragment)	BT_1753	-	-	ferredoxin NADP+ reductase (fragment)
+1870012..1870839	-	275	161018486	fpr	BT_1754	-	-	ferredoxin-NADP reductase
+1871937..1873052	+	371	161018487	alr	BT_1758	-	-	Alanine racemase
+1873767..1873892	+	41	161018488	int	BT_1760	-	-	hypothetical protein predicted by Glimmer/Critica
+1874730..1877534	-	934	161018489	gcvP	BT_1761	-	-	glycine cleavage system P protein
+1877531..1877899	-	122	161018490	gcvH	BT_1762	-	-	glycine cleavage system H protein
+1877906..1879018	-	370	161018491	gcvT	BT_1763	-	-	glycine cleavage system T protein
+1879699..1880361	+	220	161018492	-	BT_1764	-	-	ATP-dependent protease
+1880375..1880581	+	68	161018493	-	BT_1765	-	-	conserved hypothetical protein
+1881534..1881923	+	129	161018494	dicA	BT_1767	-	-	transcriptional regulator
+1882421..1883452	+	343	161018495	asd	BT_1768	-	-	Aspartate-semialdehyde dehydrogenase
+1884004..1884684	-	226	161018496	-	BT_1769	-	-	hypothetical protein
+1885145..1885963	+	272	161018497	metQ	BT_1771	-	-	lipoprotein/periplasmic component of ABC transporter
+1885991..1887025	+	344	161018498	metN	BT_1772	-	-	ATP-binding protein of ABC transporter
+1887018..1887677	+	219	161018499	metI	BT_1773	-	-	permease protein of ABC transporter
+1888144..1888350	+	68	161018500	-	BT_1774	-	-	integrase (fragment)
+1888642..1888812	-	56	161018501	-	BT_1775	-	-	hypothetical protein predicted by Glimmer/Critica
+1888781..1888993	-	70	161018502	-	BT_1776	-	-	integrase (fragment)
+1889412..1889891	-	159	161018503	-	BT_1777	-	-	Acyl dehydratase
+1890059..1891387	+	442	161018504	-	BT_1778	-	-	homoserine dehydrogenase
+1891668..1891832	+	54	161018505	-	BT_1779	-	-	integrase (fragment)
+1892825..1893181	-	118	161018506	-	BT_1780	-	-	hypothetical protein
+1896060..1896803	+	247	161018507	-	BT_1782	-	-	creatinine amidohydrolase
+1896825..1897856	+	343	161018508	-	BT_1783	-	-	putative cobalamin synthesis protein
+1897874..1898845	+	323	161018509	-	BT_1784	-	-	conserved hypothetical protein
+1900299..1903679	-	1126	161018510	-	BT_1785	-	-	autotransporter
+1903847..1907152	-	1101	161018511	-	BT_1786	-	-	autotransporter
+1907325..1909985	-	886	161018512	-	BT_1787	-	-	autotransporter
+1910180..1913554	-	1124	161018513	-	BT_1788	-	-	autotransporter
+1914499..1917183	-	894	161018514	-	BT_1793	-	-	putative autotransporter
+1918359..1921547	-	1062	161018515	-	BT_1795	-	-	autotransporter
+1922216..1928791	-	2191	161018516	-	BT_1796	-	-	autotransporter
+1929075..1930025	+	316	161018517	fatB	BT_1797	-	-	ferric anguibactin-binding protein
+1930125..1931081	+	318	161018518	fatD	BT_1798	-	-	Ferric anguibactin-transport system permease
+1931074..1932024	+	316	161018519	fatC	BT_1799	-	-	ferric anguibactin-transport system permease
+1932021..1932779	+	252	161018520	ceuD	BT_1800	-	-	ATPase component of iron transport system
+1933107..1933928	-	273	161018521	-	BT_1801	-	-	phage-related modification methylase
+1934071..1935063	-	330	161018522	-	BT_1802	-	-	hypothetical prophage protein
+1935054..1935308	-	84	161018523	-	BT_1803	-	-	hypothetical protein
+1935305..1935775	-	156	161018524	-	BT_1804	-	-	putative phage tail protein
+1935932..1938268	-	778	161018525	-	BT_1805	-	-	Phage-related tail protein
+1938278..1938361	-	27	161018526	-	BT_1806	-	-	hypothetical protein predicted by Glimmer/Critica
+1938400..1938813	-	137	161018527	-	BT_1807	-	-	hypothetical protein
+1938823..1939341	-	172	161018528	gpFII	BT_1808	-	-	Phage tail tube protein FII
+1939338..1940627	-	429	161018529	gpFI	BT_1809	-	-	phage-related tail sheath protein
+1940773..1940985	-	70	161018530	-	BT_1810	-	-	hypothetical protein predicted by Glimmer/Critica
+1940995..1942311	-	438	161018531	-	BT_1811	-	-	hypothetical prophage protein
+1942326..1945469	-	1047	161018532	-	BT_1812	-	-	hypothetical protein
+1945471..1946577	-	368	161018533	gp27	BT_1813	-	-	phage protein
+1946577..1947443	-	288	161018534	gp26	BT_1814	-	-	Phage-related baseplate assembly protein
+1947430..1947816	-	128	161018535	gp25	BT_1815	-	-	phage-related baseplate assembly protein
+1947820..1948020	-	66	161018536	-	BT_1816	-	-	hypothetical protein predicted by Glimmer/Critica
+1948033..1948626	-	197	161018537	gp24	BT_1817	-	-	phage-related baseplate assembly protein
+1948623..1949135	-	170	161018538	-	BT_1818	-	-	hypothetical protein predicted by Glimmer/Critica
+1949141..1949635	-	164	161018539	-	BT_1819	-	-	hypothetical phage protein
+1949637..1950062	-	141	161018540	-	BT_1820	-	-	hypothetical phage protein
+1950078..1951043	-	321	161018541	-	BT_1821	-	-	conserved hypothetical phage protein
+1951056..1951397	-	113	161018542	-	BT_1822	-	-	hypothetical phage protein
+1951394..1952443	-	349	161018543	-	BT_1823	-	-	hypothetical phage protein
+1953055..1954260	-	401	161018544	-	BT_1824	-	-	conserved hypothetical phage protein
+1954253..1955830	-	525	161018545	gp29	BT_1825	-	-	phage protein
+1955843..1957465	-	540	161018546	gp28	BT_1826	-	-	phage protein
+1957458..1958039	-	193	161018547	gp27	BT_1827	-	-	phage protein
+1958002..1958358	-	118	161018548	-	BT_1828	-	-	phage related protein
+1958355..1958669	-	104	161018549	-	BT_1829	-	-	hypothetical protein
+1958870..1959211	-	113	161018550	-	BT_1830	-	-	hypothetical protein predicted by Glimmer/Critica
+1959204..1959491	-	95	161018551	-	BT_1831	-	-	hypothetical protein predicted by Glimmer/Critica
+1959488..1960069	-	193	161018552	-	BT_1832	-	-	phage-related protein
+1960156..1960563	-	135	161018553	-	BT_1833	-	-	hypothetical protein predicted by Glimmer/Critica
+1960570..1961187	-	205	161018554	-	BT_1834	-	-	conserved hypothetical phage protein
+1961210..1961833	-	207	161018555	-	BT_1835	-	-	conserved hypothetical phage protein
+1961826..1962098	-	90	161018556	-	BT_1836	-	-	hypothetical protein predicted by Glimmer/Critica
+1962095..1962364	-	89	161018557	-	BT_1837	-	-	hypothetical protein
+1962361..1963392	-	343	161018558	muB	BT_1838	-	-	bacteriophage DNA transposition protein B
+1963750..1965729	-	659	161018559	muA	BT_1839	-	-	transposase (class III)
+1965726..1966184	-	152	161018560	-	BT_1840	-	-	hypothetical protein
+1966181..1967098	-	305	161018561	parB	BT_1841	-	-	chromosome partitioning protein parB
+1967041..1967439	-	132	161018562	-	BT_1842	-	-	hypothetical protein
+1967634..1967939	-	101	161018563	-	BT_1843	-	-	hypothetical protein
+1968069..1968620	+	183	161018564	-	BT_1844	-	-	hypothetical protein
+1969110..1969931	-	273	161018565	-	BT_1845	-	-	phage-related modification methylase
+1970074..1971066	-	330	161018566	-	BT_1846	-	-	hypothetical prophage protein
+1971057..1971311	-	84	161018567	-	BT_1847	-	-	hypothetical protein
+1971308..1971793	-	161	161018568	-	BT_1848	-	-	putative phage tail protein
+1971954..1972955	-	333	161018569	-	BT_1849	-	-	hypothetical prophage protein
+1973207..1976725	+	1172	161018570	-	BT_1850	-	-	putative autotransporter
+1977191..1977973	-	260	161018571	dppF	BT_1852	-	-	ABC transporter, ATP-binding protein
+1977960..1978844	-	294	161018572	oppD	BT_1853	-	-	oligopeptide transport ATP-binding protein
+1978837..1979766	-	309	161018573	dppC2	BT_1854	-	-	ABC transporter, permease protein
+1979769..1980842	-	357	161018574	dppB2	BT_1855	-	-	ABC transporter permease protein
+1980955..1982571	-	538	161018575	dppA2	BT_1856	-	-	ABC transporter, periplasmic oligopeptide-binding protein
+1982935..1984554	-	539	161018576	-	BT_1857	-	-	ABC transporter, periplasmic oligopeptide-binding protein
+1986233..1986823	-	196	161018577	tag	BT_1858	-	-	DNA-3-methyladenine glycosylase I
+1986837..1988267	-	476	161018578	xseA	BT_1859	-	-	exodeoxyribonuclease VII large subunit
+1988538..1990163	-	541	161018579	-	BT_1860	-	-	ABC transporter, periplasmic oligopeptide-binding protein
+1991089..1992720	-	543	161018580	-	BT_1864	-	-	ABC transporter, periplasmic oligopeptide-binding protein
+1993031..1993276	-	81	161018581	xseA (fragment)	BT_1865	-	-	exodeoxyribonuclease VII large subunit (fragment)
+1993628..1995259	-	543	161018582	-	BT_1866	-	-	ABC transporter, periplasmic oligopeptide-binding protein
+1996151..1997779	-	542	161018583	-	BT_1869	-	-	ABC transporter, periplasmic oligopeptide-binding protein
+1998893..1999174	+	93	161018584	-	BT_1872a	-	-	conserved hypothetical protein
+1999199..2000008	-	269	161018585	-	BT_1873	-	-	putative membrane protein
+2000011..2000937	-	308	161018586	-	BT_1874	-	-	putative membrane protein
+2001116..2001898	-	260	161018587	-	BT_1875	-	-	conserved hypothetical protein
+2002543..2003289	+	248	161018588	etfB	BT_1877	-	-	electron transfer flavoprotein beta-subunit
+2003345..2004271	+	308	161018589	etfA	BT_1878	-	-	electron transfer flavoprotein alpha-subunit
+2004440..2006101	+	553	161018590	etfD	BT_1880	-	-	electron transfer flavoprotein-ubiquinone oxidoreductase
+2006394..2007284	+	296	161018591	-	BT_1881	-	-	Predicted methyltransferases
+2007277..2007669	+	130	161018592	-	BT_1882	-	-	conserved hypothetical protein
+2007773..2008018	+	81	161018593	-	BT_1883	-	-	conserved hypothetical protein
+2008074..2008865	+	263	161018594	proC	BT_1884	-	-	Pyrroline-5-carboxylate reductase
+2009163..2009294	-	43	161018595	-	BT_1885	-	-	hypothetical protein predicted by Glimmer/Critica
+2009720..2010781	-	353	161018596	mrp	BT_1886	-	-	ATP/GTP-binding protein
+2011367..2011501	+	44	161018597	rpmH	BT_1887	-	-	50S ribosomal protein L34
+2011618..2012010	+	130	161018598	rnpA	BT_1888	-	-	ribonuclease P protein component
+2012000..2013862	+	620	161018599	yidC	BT_1889	-	-	translocase precursor subunit
+2013859..2014503	+	214	161018600	cgpA	BT_1890	-	-	GTP-binding protein
+2014643..2015335	+	230	161018601	gst	BT_1891	-	-	Glutathione S-transferase
+2016456..2017268	+	270	161018602	dapB	BT_1893	-	-	Dihydrodipicolinate reductase
+2017292..2017912	+	206	161018603	gpmA	BT_1894	-	-	phosphoglycerate mutase
+2020253..2020843	-	196	161018604	-	BT_1897	-	-	hypothetical protein predicted by Glimmer/Critica
+2022498..2023715	+	405	161018605	mccC	BT_1900	-	-	Permeases of the major facilitator superfamily
+2025735..2026949	+	404	161018606	omp43	BT_1902	-	-	porin
+2028778..2029584	-	268	161018607	-	BT_1904	-	-	conserved hypothetical protein
+2030883..2031650	-	255	161018608	-	BT_1908	-	-	conserved hypothetical protein
+2031884..2033080	-	398	161018609	-	BT_1909	-	-	putative efflux protein
+2034115..2035203	+	362	161018610	-	BT_1911	-	-	hypothetical protein
+2035715..2035864	+	49	161018611	-	BT_1912	-	-	hypothetical protein
+2035930..2037120	+	396	161018612	-	BT_1913	-	-	hypothetical protein
+2037117..2038310	+	397	161018613	-	BT_1914	-	-	putative transporter
+2038500..2039171	+	223	161018614	-	BT_1915	-	-	hypothetical protein
+2039185..2039805	+	206	161018615	fragment1	BT_1916	-	-	hypothetical protein
+2039757..2040437	+	226	161018616	fragment2	BT_1917	-	-	hypothetical protein
+2040551..2041171	+	206	161018617	-	BT_1918	-	-	hypothetical protein
+2042731..2043885	+	384	161018618	-	BT_1921	-	-	hypothetical protein
+2045991..2047160	+	389	161018619	-	BT_1925	-	-	putative membrane protein
+2047872..2048477	+	201	161018620	-	BT_1926	-	-	hypothetical protein predicted by Glimmer/Critica
+2049031..2050392	+	453	161018621	-	BT_1928	-	-	hypothetical protein
+2050816..2052681	+	621	161018622	mod2	BT_1929	-	-	type III restriction system methylase
+2052693..2055668	+	991	161018623	res2	BT_1930	-	-	restriction enzyme of type III restriction-modification system
+2064114..2066102	+	662	161018624	-	BT_1936	-	-	membrane protein related to metalloendopeptidases
+2067210..2067329	+	39	161018625	(fragment)	BT_1942	-	-	conserved hypothetical protein (fragment)
+2068092..2068199	-	35	161018626	-	BT_1943	-	-	hypothetical protein
+2068528..2069985	-	485	161018627	-	BT_1944	-	-	hypothetical protein
+2070177..2070731	-	184	161018628	sigH	BT_1945	-	-	RNA polymerase sigma factor, ecr subfamily
+2070739..2070942	-	67	161018629	-	BT_1946	-	-	hypothetical protein
+2071109..2071903	+	264	161018630	-	BT_1947	-	-	two-component system response regulator
+2071926..2072939	+	337	161018631	-	BT_1948	-	-	two-component system sensor histidine kinase
+2073755..2075140	+	461	161018632	-	BT_1952	-	-	hypothetical protein
+2075229..2075594	+	121	161018633	-	BT_1952a	-	-	hypothetical protein
+2075629..2076084	+	151	161018634	-	BT_1953	-	-	hypothetical protein
+2077520..2078263	-	247	161018635	-	BT_1955	-	-	conserved hypothetical protein
+2079985..2080428	-	147	161018636	-	BT_1957	-	-	conserved hypothetical protein
+2083797..2084249	-	150	161018637	-	BT_1962	-	-	hypothetical protein
+2084315..2084728	-	137	161018638	-	BT_1963	-	-	hypothetical protein
+2085860..2086864	-	334	161018639	-	BT_1965	-	-	phage-related protein
+2086861..2088000	-	379	161018640	-	BT_1966	-	-	hypothetical protein
+2087997..2088467	-	156	161018641	-	BT_1967	-	-	hypothetical protein
+2088817..2090280	-	487	161018642	-	BT_1969	-	-	hypothetical protein
+2091116..2091811	-	231	161018643	-	BT_1971	-	-	hypothetical protein
+2091893..2093011	-	372	161018644	-	BT_1973	-	-	hypothetical protein
+2093816..2094589	-	257	161018645	-	BT_1979	-	-	hypothetical protein
+2095036..2096898	-	620	161018646	-	BT_1982	-	-	phage-related protein
+2096883..2098244	-	453	161018647	-	BT_1983	-	-	phage-related protein
+2099248..2099571	-	107	161018648	-	BT_1985	-	-	hypothetical protein
+2101763..2102110	+	115	161018649	-	BT_1991	-	-	hypothetical protein
+2103481..2103873	+	130	161018650	dicA	BT_1993	-	-	transcriptional regulator
+2107461..2110121	-	886	161018651	clpB	BT_1998	-	-	ATP-dependent clp protease, atp-binding subunit ClpB
+2113312..2113719	+	135	161018652	dicA	BT_2013	-	-	transcriptional regulator
+2114600..2114719	+	39	161018653	dicA (fragment)	BT_2014	-	-	hypothetical protein predicted by Glimmer/Critica
+2115018..2115428	-	136	161018654	-	BT_2015	-	-	hypothetical protein
+2116746..2116904	+	52	161018655	dicA	BT_2023	-	-	transcriptional regulator
+2117249..2117647	-	132	161018656	-	BT_2024	-	-	hypothetical protein
+2117644..2117895	-	83	161018657	-	BT_2025	-	-	hypothetical protein
+2118668..2119057	+	129	161018658	dicA	BT_2027	-	-	transcriptional regulator
+2119293..2120537	-	414	161018659	-	BT_2029	-	-	transporter, putative
+2121637..2121792	-	51	161018660	-	BT_2032	-	-	hypothetical protein
+2122147..2122428	-	93	161018661	-	BT_2033	-	-	hypothetical protein
+2122500..2123231	-	243	161018662	-	BT_2034	-	-	nucleotide-binding protein
+2123462..2123680	-	72	161018663	infA	BT_2036	-	-	translation initiation factor IF-1
+2125054..2125311	+	85	161018664	-	BT_2039	-	-	hypothetical protein predicted by Glimmer/Critica
+2129661..2130242	-	193	161018665	dsbB	BT_2048	-	-	disulfide bond formation protein B
+2130253..2130405	-	50	161018666	-	BT_2049	-	-	conserved hypothetical protein
+2131219..2131716	+	165	161018667	purE	BT_2051	-	-	phosphoribosylaminoimidazole carboxylase catalytic subunit
+2131718..2132995	+	425	161018668	purK	BT_2052	-	-	phosphoribosylaminoimidazole carboxylase, ATPase subunit
+2136792..2136917	+	41	161018669	rpmJ	BT_2059	-	-	50S ribosomal protein L36
+2137061..2137870	+	269	161018670	-	BT_2060	-	-	hypothetical signal peptide protein
+2138032..2138169	+	45	161018671	-	BT_2061	-	-	hypothetical protein predicted by Glimmer/Critica
+2138269..2138415	+	48	161018672	-	BT_2062	-	-	hypothetical protein predicted by Glimmer/Critica
+2138829..2140040	-	403	161018673	-	BT_2063	-	-	hypothetical protein
+2140846..2141235	+	129	161018674	dicA	BT_2065	-	-	transcriptional regulator
+2141730..2142122	+	130	161018675	dicA	BT_2066	-	-	transcriptional regulator
+2142395..2142784	+	129	161018676	dicA	BT_2067	-	-	transcriptional regulator
+2144437..2145036	+	199	161018677	-	BT_2073	-	-	conserved hypothetical protein
+2145230..2145835	+	201	161018678	-	BT_2076	-	-	conserved hypothetical protein
+2145854..2146675	+	273	161018679	-	BT_2077	-	-	conserved hypothetical protein
+2147132..2147491	+	119	161018680	-	BT_2080	-	-	hypothetical protein
+2148143..2150530	+	795	161018681	-	BT_2082	-	-	hypothetical protein
+2150974..2151153	-	59	161018682	-	BT_2085	-	-	hypothetical protein predicted by Glimmer/Critica
+2151909..2152337	-	142	161018683	dicA	BT_2089	-	-	transcriptional regulator
+2152885..2153292	-	135	161018684	dicA	BT_2090	-	-	transcriptional regulator
+2153569..2153949	-	126	161018685	dicA	BT_2091	-	-	transcriptional regulator
+2154161..2154601	-	146	161018686	dicA	BT_2092	-	-	transcriptional regulator
+2155184..2155294	-	36	161018687	murA (fragment)	BT_2093	-	-	UDP-N-acetylglucosamine1-carboxyvinyltransferase
+2155674..2156012	-	112	161018688	dicA	BT_2095	-	-	transcriptional regulator
+2156515..2157810	-	431	161018689	murA	BT_2096	-	-	UDP-N-acetylglucosamine1-carboxyvinyltransferase
+2157978..2158130	-	50	161018690	-	BT_2097	-	-	conserved hypothetical protein
+2164217..2165008	-	263	161018691	exo	BT_2113	-	-	phage-related exonuclease
+2167219..2167407	-	62	161018692	-	BT_2121a	-	-	hypothetical protein
+2167410..2167799	-	129	161018693	-	BT_2122	-	-	hypothetical protein
+2168113..2168430	-	105	161018694	-	BT_2123	-	-	hypothetical protein
+2168831..2169898	+	355	161018695	-	BT_2126	-	-	hypothetical protein
+2171501..2174911	+	1136	161018696	-	BT_2129	-	-	phage-related protein
+2174917..2175555	-	212	161018697	-	BT_2130	-	-	hypothetical protein predicted by Glimmer/Critica
+2175720..2176043	-	107	161018698	-	BT_2134	-	-	hypothetical protein
+2178450..2179028	+	192	161018699	-	BT_2147	-	-	hypothetical protein
+2184106..2184417	+	103	161018700	-	BT_2150a	-	-	hypothetical protein
+2184549..2184872	+	107	161018701	-	BT_2150b	-	-	hypothetical protein
+2186367..2187518	-	383	161018702	-	BT_2154	-	-	hypothetical protein
+2192470..2192985	+	171	161018703	-	BT_2170	-	-	hypothetical protein
+2199105..2199281	-	58	161018704	-	BT_2185	-	-	hypothetical protein predicted by Glimmer/Critica
+2199297..2199644	-	115	161018705	-	BT_2186	-	-	hypothetical protein predicted by Glimmer/Critica
+2200351..2201484	-	377	161018706	-	BT_2189	-	-	hypothetical protein
+2206483..2207043	-	186	161018707	-	BT_2204	-	-	hypothetical protein
+2209615..2210403	+	262	161018708	-	BT_2212	-	-	hypothetical protein
+2213700..2214635	+	311	161018709	yopP1	BT_2223	-	-	conserved hypothetical protein
+2215000..2215944	+	314	161018710	yopP2	BT_2224	-	-	conserved hypothetical protein
+2216275..2217219	+	314	161018711	yopP3	BT_2225	-	-	conserved hypothetical protein
+2218241..2218903	+	220	161018712	-	BT_2229	-	-	phage-related lysozyme
+2218900..2219136	+	78	161018713	-	BT_2230	-	-	hypothetical prophage protein
+2219253..2219477	+	74	161018714	-	BT_2231	-	-	hypothetical prophage protein
+2222526..2223338	+	270	161018715	-	BT_2240	-	-	hypothetical protein
+2223316..2225115	+	599	161018716	-	BT_2241	-	-	hypothetical membrane protein
+2225176..2225565	-	129	161018717	int	BT_2242	-	-	phage-related integrase
+2225978..2227621	-	547	161018718	groEL	BT_2244	-	-	groEL chaperonin
+2227682..2227978	-	98	161018719	groES	BT_2245	-	-	chaperonin, 10 kDa
+2228209..2229597	+	462	161018720	fumC	BT_2246	-	-	fumarate hydratase C
+2229693..2229890	+	65	161018721	fumC (fragment)	BT_2247	-	-	fumarate hydratase C (fragment)
+2230152..2230349	+	65	161018722	fumC (fragment)	BT_2248	-	-	fumarate hydratase C (fragment)
+2230814..2231374	+	186	161018723	fumC (fragment)	BT_2250	-	-	fumarate hydratase C (fragment)
+2232769..2233659	+	296	161018724	hbpY	BT_2254	-	-	hemin binding protein
+2236907..2238826	+	639	161018725	-	BT_2262	-	-	hypothetical protein
+2238843..2239070	-	75	161018726	-	BT_2263	-	-	hypothetical protein
+2239187..2239414	-	75	161018727	-	BT_2264	-	-	hypothetical prophage protein
+2239411..2240073	-	220	161018728	-	BT_2265	-	-	phage-related lysozyme
+2240137..2240466	-	109	161018729	-	BT_2266	-	-	hypothetical protein predicted by Glimmer/Critica
+2240480..2244523	-	1347	161018730	-	BT_2267	-	-	hypothetical protein
+2244545..2244778	-	77	161018731	-	BT_2268	-	-	hypothetical protein predicted by Glimmer/Critica
+2244788..2245918	-	376	161018732	-	BT_2269	-	-	hypothetical protein
+2245926..2246939	-	337	161018733	-	BT_2270	-	-	hypothetical protein
+2246948..2247949	-	333	161018734	-	BT_2271	-	-	hypothetical protein
+2247962..2248615	-	217	161018735	-	BT_2272	-	-	conserved hypothetical protein
+2248653..2250842	-	729	161018736	-	BT_2273	-	-	hypothetical protein
+2250856..2252151	-	431	161018737	-	BT_2274	-	-	hypothetical protein predicted by Glimmer/Critica
+2252186..2253037	-	283	161018738	-	BT_2275	-	-	hypothetical protein
+2253039..2253464	-	141	161018739	-	BT_2276	-	-	hypothetical protein
+2253464..2254921	-	485	161018740	-	BT_2277	-	-	hypothetical protein
+2254923..2255630	-	235	161018741	-	BT_2278	-	-	hypothetical protein
+2255696..2256004	+	102	161018742	-	BT_2279	-	-	conserved hypothetical prophage protein
+2255985..2256269	+	94	161018743	-	BT_2280	-	-	hypothetical prophage protein
+2256305..2256685	-	126	161018744	-	BT_2281	-	-	hypothetical protein
+2256696..2257076	-	126	161018745	-	BT_2282	-	-	hypothetical protein
+2257099..2258226	-	375	161018746	-	BT_2283	-	-	hypothetical protein
+2258320..2259207	-	295	161018747	-	BT_2284	-	-	hypothetical protein
+2259221..2261239	-	672	161018748	-	BT_2285	-	-	phage-related protein
+2261224..2262552	-	442	161018749	-	BT_2286	-	-	phage-related protein
+2262533..2262865	-	110	161018750	-	BT_2287	-	-	hypothetical protein
+2263569..2264090	-	173	161018751	-	BT_2288	-	-	hypothetical protein
+2264106..2264564	-	152	161018752	ssb	BT_2289	-	-	single-strand binding protein (ssb)
+2265321..2266076	-	251	161018753	-	BT_2290	-	-	phage-related hypothetical protein
+2266141..2266440	-	99	161018754	-	BT_2291	-	-	hypothetical prophage protein
+2266733..2267131	-	132	161018755	-	BT_2292	-	-	hypothetical protein
+2267317..2267778	-	153	161018756	-	BT_2293	-	-	hypothetical protein
+2267738..2268829	-	363	161018757	-	BT_2294	-	-	hypothetical protein
+2268819..2269190	-	123	161018758	-	BT_2295	-	-	hypothetical prophage protein
+2269187..2269654	-	155	161018759	-	BT_2296	-	-	phage-related conserved hypothetical protein
+2269730..2270440	+	236	161018760	-	BT_2297	-	-	hypothetical protein
+2270593..2270931	-	112	161018761	-	BT_2298	-	-	hypothetical protein
+2271021..2271302	-	93	161018762	-	BT_2298a	-	-	hypothetical protein
+2271423..2271752	+	109	161018763	-	BT_2299	-	-	hypothetical protein
+2272015..2272434	+	139	161018764	-	BT_2300	-	-	hypothetical protein
+2272483..2273229	+	248	161018765	-	BT_2301	-	-	hypothetical prophage protein
+2273242..2273712	+	156	161018766	-	BT_2302	-	-	phage-related protein
+2273852..2274673	+	273	161018767	-	BT_2303	-	-	bacteriophage recombination protein
+2274675..2275298	+	207	161018768	exo	BT_2304	-	-	phage-related exonuclease
+2275380..2275655	+	91	161018769	-	BT_2305	-	-	hypothetical protein
+2275660..2276832	-	390	161018770	int	BT_2306	-	-	phage-related integrase
+2277274..2277879	+	201	161018771	-	BT_2307	-	-	conserved hypothetical protein
+2277892..2278461	+	189	161018772	-	BT_2308	-	-	conserved hypothetical protein
+2279177..2279329	+	50	161018773	int	BT_2309	-	-	Integrase
+2279636..2280187	+	183	161018774	-	BT_2310	-	-	hypothetical protein
+2282300..2282962	-	220	161018775	-	BT_2315	-	-	hypothetical protein
+2284091..2284909	+	272	161018776	-	BT_2318	-	-	putative membrane protein
+2285309..2285845	+	178	161018777	dut	BT_2320	-	-	deoxyuridine 5'-triphosphate nucleotidohydrolase
+2286099..2286224	+	41	161018778	dut (fragment1)	BT_2321	-	-	deoxyuridine 5'-triphosphate nucleotidohydrolase
+2286221..2286523	+	100	161018779	dut (fragment2)	BT_2322	-	-	deoxyuridine 5'-triphosphate nucleotidohydrolase
+2287415..2287600	+	61	161018780	int	BT_2323	-	-	phage-related integrase
+2288086..2288691	-	201	161018781	exbD	BT_2325	-	-	ExbD/TolR-family transport protein
+2288688..2289563	-	291	161018782	exbB	BT_2326	-	-	biopolymer transport exbB protein
+2290590..2290928	+	112	161018783	-	BT_2328	-	-	conserved hypothetical protein
+2290932..2291375	+	147	161018784	-	BT_2329	-	-	conserved hypothetical protein
+2291950..2292504	-	184	161018785	-	BT_2331	-	-	conserved hypothetical protein
+2292828..2293178	+	116	161018786	vbh2	BT_2332	-	-	Vbh2 precursor
+2293182..2293520	+	112	161018787	vbh3	BT_2333	-	-	Vbh3 protein
+2293520..2295355	+	611	161018788	vbh4 (fragment 1)	BT_2334	-	-	Vbh4 protein fragment 2
+2295355..2295879	+	174	161018789	vbh4 (fragment 2)	BT_2335	-	-	Vbh4 protein fragment 2
+2295876..2296604	+	242	161018790	vbh5	BT_2336	-	-	Vbh5 protein precursor
+2296897..2297313	+	138	161018791	-	BT_2338	-	-	hypothetical protein predicted by Glimmer/Critica
+2297316..2297720	+	134	161018792	vbh6	BT_2339	-	-	Vbh6 protein
+2297747..2298682	+	311	161018793	vbh6	BT_2340	-	-	Vbh6 protein
+2298689..2298976	+	95	161018794	vbh7	BT_2341	-	-	Vbh7 protein precursor
+2298973..2299644	+	223	161018795	vbh8	BT_2342	-	-	Vbh8 protein
+2299647..2300498	+	283	161018796	vbh9	BT_2343	-	-	Vbh9 protein precursor
+2300545..2301732	+	395	161018797	vbh10	BT_2344	-	-	Vbh10 protein
+2301793..2302848	+	351	161018798	vbh11	BT_2345	-	-	Vbh11 protein
+2302997..2303401	+	134	161018799	-	BT_2346	-	-	hypothetical protein
+2303685..2304089	+	134	161018800	-	BT_2347	-	-	hypothetical protein
+2304375..2304755	+	126	161018801	-	BT_2348	-	-	hypothetical protein
+2304802..2304993	+	63	161018802	vbh6 (fragment)	BT_2349	-	-	hypothetical protein
+2305056..2305649	-	197	161018803	-	BT_2350	-	-	conserved hypothetical protein
+2305636..2305824	-	62	161018804	-	BT_2351	-	-	hypothetical protein
+2306021..2306269	-	82	161018805	vap	BT_2352	-	-	virulence-associated protein
+2306635..2306952	-	105	161018806	-	BT_2354	-	-	hypothetical protein predicted by Glimmer/Critica
+2307063..2308424	-	453	161018807	mrsA	BT_2355	-	-	phosphoglucomutase/phosphomannomutasefamily protein MrsA
+2308995..2311163	-	722	161018808	ftsH	BT_2358	-	-	cell division protein FtsH
+2311278..2312765	-	495	161018809	tilS	BT_2359	-	-	tRNA(Ile)-lysidine synthase
+2312784..2314772	-	662	161018810	-	BT_2360	-	-	hypothetical protein
+2314826..2315344	-	172	161018811	pal	BT_2361	-	-	peptidoglycan-associated lipoprotein
+2315546..2316241	-	231	161018812	-	BT_2362	-	-	conserved hypothetical protein
+2316615..2317361	+	248	161018813	-	BT_2363	-	-	conserved hypothetical protein
+2318013..2318162	+	49	161018814	int	BT_2365	-	-	hypothetical protein predicted by Glimmer/Critica
+2318191..2318337	+	48	161018815	int	BT_2366	-	-	hypothetical protein predicted by Glimmer/Critica
+2318304..2318582	+	92	161018816	int	BT_2367	-	-	phage-related integrase
+2318970..2320295	-	441	161018817	tolB	BT_2368	-	-	TolB protein
+2320339..2321835	-	498	161018818	tolA	BT_2369	-	-	TolA protein
+2321934..2322386	-	150	161018819	tolR	BT_2371	-	-	TolR protein
+2322401..2323114	-	237	161018820	tolQ	BT_2372	-	-	tolQ protein
+2324255..2324695	-	146	161018821	-	BT_2374	-	-	conserved hypothetical protein
+2324909..2326000	-	363	161018822	ruvB	BT_2375	-	-	Holliday junction DNA helicase RuvB
+2326014..2326628	-	204	161018823	ruvA	BT_2376	-	-	holliday junction DNA helicase RuvA
+2326642..2327175	-	177	161018824	ruvC	BT_2377	-	-	Holliday junction nuclease ruvC
+2330282..2330800	-	172	161018825	-	BT_2384	-	-	conserved hypothetical protein
+2330984..2332126	-	380	161018826	opgC	BT_2385	-	-	OpgC protein
+2332485..2333147	+	220	161018827	thiE2	BT_2387	-	-	thiamine-phosphate pyrophosphorylase
+2333408..2334199	+	263	161018828	-	BT_2388	-	-	hypothetical protein
+2335165..2335530	+	121	161018829	dicA	BT_2389	-	-	transcriptional regulator
+2336219..2336689	+	156	161018830	dicA	BT_2390	-	-	transcriptional regulator
+2337052..2337300	+	82	161018831	dicA	BT_2391	-	-	transcriptional regulator
+2337275..2337415	+	46	161018832	dicA (fragment)	BT_2392	-	-	hypothetical protein predicted by Glimmer/Critica
+2337752..2337955	+	67	161018833	-	BT_2394	-	-	hypothetical protein predicted by Glimmer/Critica
+2338605..2339648	+	347	161018834	-	BT_2395	-	-	conserved hypothetical protein
+2340551..2340916	+	121	161018835	dicA	BT_2397	-	-	transcriptional regulator
+2341373..2341759	+	128	161018836	dicA	BT_2398	-	-	transcriptional regulator
+2341940..2342413	+	157	161018837	dicA	BT_2399	-	-	transcriptional regulator
+2342799..2343164	+	121	161018838	dicA	BT_2400	-	-	transcriptional regulator
+2343437..2343700	-	87	161018839	-	BT_2401	-	-	hypothetical protein predicted by Glimmer/Critica
+2343823..2344398	+	191	161018840	efp	BT_2402	-	-	translation elongation factor P
+2344410..2345201	+	263	161018841	suhB	BT_2403	-	-	Inositol monophosphatase family protein
+2345289..2345630	+	113	161018842	suhB (fragment)	BT_2404	-	-	Inositol-1-monophosphatase family protein
+2345587..2345820	+	77	161018843	suhB (fragment)	BT_2405	-	-	Inositol-1-monophosphatase family protein
+2346135..2347409	-	424	161018844	-	BT_2406	-	-	hypothetical protein predicted by Glimmer/Critica
+2348046..2348513	-	155	161018845	int	BT_2409	-	-	phage-related integrase
+2348510..2348662	-	50	161018846	-	BT_2410	-	-	hypothetical protein predicted by Glimmer/Critica
+2349102..2350892	-	596	161018847	-	BT_2411	-	-	ATP-binding protein of ABC transporter
+2351102..2351323	+	73	161018848	rpmE	BT_2412	-	-	50S ribosomal protein L31
+2353047..2353226	-	59	161018849	fbaB (fragment)	BT_2413	-	-	fructose-bisphosphate aldolase
+2353248..2353583	-	111	161018850	fbaB (fragment)	BT_2414	-	-	fructose-bisphosphate aldolase
+2353774..2354805	-	343	161018851	fbaB	BT_2416	-	-	fructose-bisphosphate aldolase
+2354921..2356114	-	397	161018852	pgk	BT_2417	-	-	phosphoglycerate kinase
+2356699..2357706	-	335	161018853	gapA	BT_2420	-	-	glyceraldehyde 3-phosphate dehydrogenase
+2357904..2359910	-	668	161018854	tktA	BT_2422	-	-	Transketolase
+2360244..2360519	+	91	161018855	-	BT_2423	-	-	hypothetical protein
+2360532..2360915	+	127	161018856	-	BT_2424	-	-	conserved hypothetical protein
+2362472..2362747	-	91	161018857	pykA (fragment)	BT_2427	-	-	Pyruvate kinase
+2362819..2363094	-	91	161018858	pykA (fragment)	BT_2428	-	-	Pyruvate kinase
+2363166..2363441	-	91	161018859	pykA (fragment)	BT_2429	-	-	Pyruvate kinase
+2363513..2364949	-	478	161018860	pykA	BT_2430	-	-	Pyruvate kinase
+2364946..2365473	-	175	161018861	-	BT_2431	-	-	conserved hypothetical protein
+2365690..2365950	+	86	161018862	-	BT_2432	-	-	conserved hypothetical protein
+2366504..2366737	-	77	161018863	rimJ (fragment 2)	BT_2433	-	-	ribosomal-protein-alanine acetyltransferase
+2366710..2367069	-	119	161018864	rimJ (fragment 1)	BT_2434	-	-	ribosomal-protein-alanine acetyltransferase
+2368064..2369926	-	620	161018865	-	BT_2435	-	-	ATP-binding protein of ABC transporter
+2369926..2370312	-	128	161018866	-	BT_2436	-	-	hypothetical protein
+2370416..2371051	-	211	161018867	-	BT_2437	-	-	hypothetical protein
+2371197..2372795	+	532	161018868	-	BT_2438	-	-	putative peptidase
+2373208..2374119	-	303	161018869	rpoH2	BT_2439	-	-	RNA polymerase sigma-32 factor
+2374713..2376305	+	530	161018870	-	BT_2442	-	-	hypothetical protein
+2376327..2376668	+	113	161018871	fdxA	BT_2443	-	-	ferredoxin II
+2376974..2377558	+	194	161018872	-	BT_2444	-	-	transcriptional factor
+2380004..2380225	-	73	161018873	rpmF3	BT_2448	-	-	50S ribosomal protein L32
+2380201..2380560	-	119	161018874	rpmF2	BT_2449	-	-	50S ribosomal protein L32
+2380590..2380769	-	59	161018875	rpmF1	BT_2450	-	-	50S ribosomal protein L32
+2381195..2382100	+	301	161018876	ispA	BT_2451	-	-	geranyltranstransferase
+2383265..2383864	-	199	161018877	-	BT_2453	-	-	hypothetical protein predicted by Glimmer/Critica
+2384644..2385810	-	388	161018878	-	BT_2456	-	-	multidrug-efflux transporter
+2386672..2387913	-	413	161018879	gcpE	BT_2457	-	-	1-hydroxy-2-methyl-2-(E)-butenyl 4-diphosphate synthase
+2388829..2389131	+	100	161018880	-	BT_2460	-	-	hypothetical protein
+2389751..2390758	-	335	161018881	-	BT_2461	-	-	secretion protein
+2390783..2392414	-	543	161018882	-	BT_2462	-	-	transport protein
+2392438..2392854	-	138	161018883	atpC	BT_2463	-	-	ATP synthase epsilon chain
+2392981..2394606	-	541	161018884	atpD	BT_2464	-	-	ATP synthase beta chain
+2394626..2395552	-	308	161018885	atpG	BT_2465	-	-	ATP synthase gamma chain
+2395573..2397108	-	511	161018886	atpA	BT_2466	-	-	ATP synthase alpha chain
+2397108..2397692	-	194	161018887	atpH	BT_2467	-	-	ATP synthase delta chain
+2398998..2399276	-	92	161018888	-	BT_2470	-	-	hypothetical protein
+2399802..2399993	-	63	161018889	-	BT_2471	-	-	hypothetical protein
+2400547..2400696	-	49	161018890	-	BT_2472	-	-	hypothetical protein
+2400865..2403072	-	735	161018891	priA	BT_2473	-	-	primosomal replication factor Y
+2403186..2403335	-	49	161018892	-	BT_2474	-	-	integrase fragment
+2404415..2405068	+	217	161018893	talC	BT_2476	-	-	Transaldolase
+2405079..2405672	-	197	161018894	-	BT_2477	-	-	conserved hypothetical protein
+2405659..2408319	-	886	161018895	leuS	BT_2478	-	-	Leucyl-tRNA synthetase
+2408504..2409211	+	235	161018896	-	BT_2479	-	-	conserved hypothetical protein
+2410635..2410901	+	88	161018897	-	BT_2481	-	-	hypothetical protein predicted by Glimmer/Critica
+2411779..2413722	+	647	161018898	acs	BT_2482	-	-	acetyl-CoA synthetase
+2414455..2415114	+	219	161018899	ftsE	BT_2485	-	-	Cell division protein
+2415107..2416060	+	317	161018900	ftsX	BT_2486	-	-	Cell division protein
+2416065..2416730	+	221	161018901	-	BT_2487	-	-	conserved hypothetical protein
+2418068..2423026	-	1652	161018902	-	BT_2491	-	-	helicase/methyltransferase
+2424677..2426659	-	660	161018903	-	BT_2493	-	-	ATP-binding protein of ABC transporter
+2426663..2427886	-	407	161018904	-	BT_2494	-	-	putative secretion protein
+2427883..2429361	-	492	161018905	-	BT_2495	-	-	putative outer membrane protein
+2429423..2430238	-	271	161018906	xthA2	BT_2496	-	-	exodeoxyribonuclease III
+2430272..2430880	-	202	161018907	-	BT_2497	-	-	lipoprotein carrier protein
+2432684..2433310	+	208	161018908	int	BT_2501	-	-	phage-related integrase
+2434072..2436516	-	814	161018909	ftsK2	BT_2504	-	-	cell division transmembrane protein FtsK
+2437302..2438579	+	425	161018910	ubiH2	BT_2505	-	-	2-octaprenyl-6-methoxyphenol hydroxylase
+2440422..2440709	-	95	161018911	korB	BT_2507	-	-	trans-acting regulatory protein
+2440839..2441450	+	203	161018912	-	BT_2508	-	-	hypothetical protein
+2441450..2442091	+	213	161018913	trwN	BT_2509	-	-	TrwN protein
+2442212..2442511	+	99	161018914	korA	BT_2510	-	-	KorA protein
+2442474..2442791	+	105	161018915	trwL1	BT_2511	-	-	TrwL1 protein
+2442932..2443252	+	106	161018916	trwL2	BT_2512	-	-	TrwL2 protein
+2443390..2443707	+	105	161018917	trwL3	BT_2513	-	-	TrwL3 protein
+2443848..2444168	+	106	161018918	trwL4	BT_2514	-	-	TrwL4 protein
+2444290..2444604	+	104	161018919	trwL5	BT_2515	-	-	TrwL5 protein
+2444742..2445062	+	106	161018920	trwL6	BT_2516	-	-	TrwL6 protein
+2445194..2445505	+	103	161018921	trwL7	BT_2516a	-	-	TrwL7 protein
+2445518..2445826	+	102	161018922	trwM	BT_2517	-	-	TrwM protein
+2445829..2448300	+	823	161018923	trwK	BT_2518	-	-	TrwK protein
+2448297..2449046	+	249	161018924	trwJ1	BT_2519	-	-	TrwJ1 protein precursor
+2449233..2450078	+	281	161018925	trwI1	BT_2521	-	-	TrwI1 protein
+2450239..2450460	+	73	161018926	trwH1	BT_2521a	-	-	TrwH1 protein
+2450457..2451389	+	310	161018927	trwJ2	BT_2522	-	-	TrwJ2 protein precursor
+2451573..2452418	+	281	161018928	trwI2	BT_2523	-	-	TrwI2 protein
+2452658..2452801	+	47	161018929	trwH2	BT_2523a	-	-	TrwH2 protein
+2452798..2453529	+	243	161018930	trwJ3	BT_2524	-	-	TrwJ3 protein precursor
+2453714..2454559	+	281	161018931	trwI3	BT_2525	-	-	TrwI3 protein
+2454760..2455536	+	258	161018932	trwJ4	BT_2526	-	-	TrwJ4 protein precursor
+2455757..2456602	+	281	161018933	trwI4	BT_2527	-	-	TrwI4 protein
+2456842..2456985	+	47	161018934	trwH4	BT_2527a	-	-	TrwH4 protein
+2456982..2457833	+	283	161018935	trwJ5	BT_2528	-	-	TrwJ5 protein precursor
+2458017..2458862	+	281	161018936	trwI5	BT_2529	-	-	TrwI5 protein
+2459102..2459245	+	47	161018937	trwH5	BT_2529a	-	-	TrwH5 protein
+2459242..2459943	+	233	161018938	trwG	BT_2530	-	-	TrwG protein
+2459957..2460763	+	268	161018939	trwF	BT_2531	-	-	TrwF protein precursor
+2460763..2461905	+	380	161018940	trwE	BT_2532	-	-	TrwE protein
+2461880..2462941	+	353	161018941	trwD	BT_2533	-	-	TrwD
+2464162..2464473	+	103	161018942	int (fragment 1)	BT_2536	-	-	Int (fragment 1)
+2464509..2465054	+	181	161018943	int (fragment 2)	BT_2537	-	-	Int (fragment 2)
+2465264..2465464	+	66	161018944	-	BT_2538	-	-	conserved hypothetical protein
+2466200..2466520	-	106	161018945	-	BT_2539	-	-	conserved hypothetical protein
+2466625..2466729	-	34	161018946	fhaB (fragment 2)	BT_2540	-	-	FhaB filamentous hemagglutinin protein (fragment 2)
+2466674..2467072	-	132	161018947	fhaB (fragment 1)	BT_2541	-	-	FhaB filamentous hemagglutinin protein (fragment 1)
+2467755..2468534	-	259	161018948	sdhB	BT_2542	-	-	SdhB succinate dehydrogenase, iron-sulfur protein
+2468549..2470393	-	614	161018949	sdhA	BT_2543	-	-	SdhA succinate dehydrogenase flavoprotein subunit
+2470400..2470786	-	128	161018950	sdhD	BT_2544	-	-	SdhD succinate dehydrogenase hydrophobic membrane anchor protein
+2470805..2471206	-	133	161018951	sdhC	BT_2545	-	-	SdhC succinate dehydrogenase cytochrome b-556 subunit
+2471684..2472124	-	146	161018952	rplS	BT_2546	-	-	50S ribosomal protein L19
+2472336..2473034	-	232	161018953	trmD	BT_2547	-	-	tRNA (guanine-N1)-methyltransferase
+2473336..2473881	-	181	161018954	rimM	BT_2548	-	-	16S rRNA processing protein
+2474013..2474834	+	273	161018955	-	BT_2549	-	-	SapC-related protein
+2474838..2475806	+	322	161018956	xerC	BT_2550	-	-	integrase/recombinase XerC
+2476368..2476640	-	90	161018957	bolA	BT_2552	-	-	transcriptional regulator BolA
+2476765..2477385	+	206	161018958	-	BT_2553	-	-	DnaJ-related protein
+2477591..2478571	+	326	161018959	cobS	BT_2554	-	-	cobalamin biosynthesis protein CobS
+2478587..2480497	+	636	161018960	cobT2	BT_2555	-	-	cobalamin biosynthesis protein CobT
+2481612..2482295	-	227	161018961	-	BT_2557	-	-	conserved hypothetical membrane protein
+2482443..2482760	-	105	161018962	rpmB	BT_2558	-	-	50S ribosomal protein L28
+2483040..2483837	+	265	161018963	surF	BT_2559	-	-	SurF1 family protein (Surfeit 1)
+2484984..2486603	+	539	161018964	purH	BT_2562	-	-	phosphoribosylaminoimidazolecarboxamide formyltransferase / IMP cyclohydrolase
+2486953..2487105	+	50	161018965	-	BT_2564	-	-	conserved hypothetical protein
+2488593..2488790	-	65	161018966	int	BT_2568	-	-	phage-related integrase
+2489168..2490913	-	581	161018967	-	BT_2569	-	-	conserved hypothetical protein
+2490978..2492342	-	454	161018968	sun2	BT_2570	-	-	SUN-family protein
+2492402..2493451	-	349	161018969	htpX	BT_2571	-	-	heat shock protein
+2493535..2493750	+	71	161018970	-	BT_2572	-	-	conserved hypothetical protein
+2493899..2494273	-	124	161018971	rpsP	BT_2573	-	-	30S ribosomal protein S16
+2494290..2494622	-	110	161018972	-	BT_2574	-	-	Chorismate mutase
+2494644..2496206	-	520	161018973	ffh	BT_2575	-	-	signal recognition particle protein
+2496458..2497114	-	218	161018974	cynT	BT_2577	-	-	Carbonic anhydrase
+2497398..2502113	+	1571	161018975	-	BT_2578	-	-	conserved hypothetical protein
+2504385..2505371	-	328	161018976	-	BT_2581	-	-	hypothetical protein
+2506308..2507054	-	248	161018977	-	BT_2582	-	-	hypothetcial protein
+2507214..2508776	-	520	161018978	-	BT_2583	-	-	conserved hypothetical protein
+2508788..2509972	-	394	161018979	-	BT_2584	-	-	conserved hypothetical protein
+2510349..2511443	+	364	161018980	gcp	BT_2585	-	-	O-sialoglycoprotein endopeptidase
+2512122..2512550	+	142	161018981	-	BT_2586	-	-	conserved hypothetical protein
+2513447..2514127	+	226	161018982	mtrA	BT_2587	-	-	two-component response regulator
+2515405..2516175	-	256	161018983	-	BT_2589	-	-	conserved hypothetical protein
+2516401..2518782	-	793	161018984	-	BT_2590	-	-	conserved hypothetical protein
+2518929..2520203	-	424	161018985	lysA	BT_2591	-	-	Diaminopimelate decarboxylase
+2520213..2520395	-	60	161018986	-	BT_2592	-	-	hypothetical protein
+2520447..2521847	-	466	161018987	argH	BT_2593	-	-	Argininosuccinate lyase
+2521881..2522579	+	232	161018988	tlpA	BT_2594	-	-	Thiol 3-disulfide interchange protein
+2522581..2523096	-	171	161018989	-	BT_2595	-	-	conserved hypothetical protein
+2523093..2523944	-	283	161018990	rbn	BT_2596	-	-	ribonuclease RNAse bn transmembrane protein
+2525104..2526042	-	312	161018991	tyrC	BT_2597	-	-	cyclohexadienyl dehydrogenase / prephenate dehydrogenase
+2527003..2528043	-	346	161018992	-	BT_2598	-	-	putative DNA polymerase III
+2528048..2528842	-	264	161018993	-	BT_2599	-	-	ATP-binding component of ABC-transporter system
+2528835..2529731	-	298	161018994	-	BT_2600	-	-	permease protein of ABC transporter system
+2529794..2530771	-	325	161018995	-	BT_2601	-	-	periplasmic substrate-binding protein of ABC-transporter system
+2531283..2532104	-	273	161018996	-	BT_2603	-	-	phage-related modification methylase
+2532247..2533239	-	330	161018997	-	BT_2604	-	-	hypothetical prophage protein
+2533230..2533484	-	84	161018998	-	BT_2605	-	-	hypothetical protein
+2533481..2533951	-	156	161018999	-	BT_2606	-	-	putative phage tail protein
+2534108..2536444	-	778	161019000	-	BT_2607	-	-	Phage-related tail protein
+2536454..2536537	-	27	161019001	-	BT_2608	-	-	hypothetical protein predicted by Glimmer/Critica
+2536576..2536989	-	137	161019002	-	BT_2609	-	-	hypothetical protein
+2536999..2537517	-	172	161019003	gpFII	BT_2610	-	-	Phage tail tube protein FII
+2537514..2538803	-	429	161019004	gpFI	BT_2611	-	-	phage-related tail sheath protein
+2538949..2539161	-	70	161019005	-	BT_2612	-	-	hypothetical protein predicted by Glimmer/Critica
+2539171..2540487	-	438	161019006	-	BT_2613	-	-	hypothetical prophage protein
+2540502..2543645	-	1047	161019007	-	BT_2614	-	-	hypothetical protein
+2543647..2544753	-	368	161019008	gp27	BT_2615	-	-	phage protein
+2544753..2545619	-	288	161019009	gp26	BT_2616	-	-	Phage-related baseplate assembly protein
+2545606..2545992	-	128	161019010	gp25	BT_2617	-	-	phage-related baseplate assembly protein
+2545996..2546196	-	66	161019011	-	BT_2618	-	-	hypothetical protein predicted by Glimmer/Critica
+2546209..2546802	-	197	161019012	gp24	BT_2619	-	-	Phage-related baseplate assembly protein
+2546799..2547311	-	170	161019013	-	BT_2620	-	-	hypothetical protein predicted by Glimmer/Critica
+2547317..2547811	-	164	161019014	-	BT_2621	-	-	hypothetical phage protein
+2547813..2548238	-	141	161019015	-	BT_2622	-	-	prophage protein
+2548254..2549219	-	321	161019016	-	BT_2623	-	-	conserved hypothetical phage protein
+2549232..2549573	-	113	161019017	-	BT_2624	-	-	hypothetical phage protein
+2549570..2550619	-	349	161019018	-	BT_2625	-	-	phage-related protein
+2551231..2552436	-	401	161019019	-	BT_2626	-	-	phage-related protein
+2552429..2554006	-	525	161019020	gp29	BT_2627	-	-	phage protein
+2554019..2555641	-	540	161019021	gp28	BT_2628	-	-	phage protein
+2555634..2556215	-	193	161019022	gp27	BT_2629	-	-	phage protein
+2556178..2556534	-	118	161019023	-	BT_2630	-	-	phage-related protein
+2556531..2556845	-	104	161019024	-	BT_2631	-	-	hypothetical protein
+2557046..2557387	-	113	161019025	-	BT_2632	-	-	hypothetical protein predicted by Glimmer/Critica
+2557380..2557667	-	95	161019026	-	BT_2633	-	-	hypothetical protein predicted by Glimmer/Critica
+2557664..2558245	-	193	161019027	-	BT_2634	-	-	phage-related protein
+2558332..2558739	-	135	161019028	-	BT_2635	-	-	hypothetical protein predicted by Glimmer/Critica
+2558746..2559363	-	205	161019029	-	BT_2636	-	-	conserved hypothetical phage protein
+2559386..2560009	-	207	161019030	-	BT_2637	-	-	conserved hypothetical phage protein
+2560002..2560274	-	90	161019031	-	BT_2638	-	-	hypothetical protein predicted by Glimmer/Critica
+2560271..2560540	-	89	161019032	-	BT_2639	-	-	hypothetical protein
+2560537..2561568	-	343	161019033	muB	BT_2640	-	-	bacteriophage DNA transposition protein B
+2561926..2563905	-	659	161019034	muA	BT_2641	-	-	transposase (class III)
+2563902..2564360	-	152	161019035	-	BT_2642	-	-	hypothetical protein
+2564357..2565265	-	302	161019036	parB	BT_2643	-	-	chromosome partitioning protein parB
+2565265..2565663	-	132	161019037	-	BT_2644	-	-	hypothetical protein
+2565861..2566166	-	101	161019038	-	BT_2645	-	-	hypothetical protein
+2566320..2566850	+	176	161019039	-	BT_2646	-	-	hypothetical protein
+2568115..2568591	+	158	161019040	-	BT_2647	-	-	hypothetical protein
+2569088..2569942	-	284	161019041	thiD2	BT_2648	-	-	phosphomethylpyrimidine kinase
+2570072..2570878	+	268	161019042	plsC	BT_2649	-	-	1-acyl-sn-glycerol-3-phosphate acyltransferase
+2571845..2571958	-	37	161019043	int	BT_2651	-	-	hypothetical protein predicted by Glimmer/Critica
+2572503..2573594	+	363	161019044	dacD	BT_2652	-	-	penicillin-binding protein
+2574351..2574509	+	52	161019045	int	BT_2653	-	-	putative integrase
+2574558..2575628	+	356	161019046	-	BT_2654	-	-	conserved hypothetical protein
+2577193..2577942	-	249	161019047	-	BT_2657	-	-	hypothetical protein
+2577984..2578940	-	318	161019048	accA	BT_2658	-	-	acetyl-CoA carboxylase carboxyltransferase alpha subunit
+2579019..2579957	-	312	161019049	xerD	BT_2659	-	-	integrase/recombinase XerD
+2580212..2580802	+	196	161019050	aroK	BT_2661	-	-	Shikimate kinase
+2580820..2581953	+	377	161019051	aroB	BT_2662	-	-	3-dehydroquinate synthase
+2582358..2582741	+	127	161019052	-	BT_2663	-	-	conserved hypothetical protein
+2582759..2583151	+	130	161019053	-	BT_2664	-	-	conserved hypothetical protein
+2583175..2583585	-	136	161019054	phaG	BT_2665	-	-	Na+/H+ antiporter
+2583582..2583863	-	93	161019055	phaF	BT_2666	-	-	multicomponent K+:H+ antiporter subunit F
+2583863..2584345	-	160	161019056	phaE	BT_2667	-	-	multicomponent K+:H+ antiporter subunit E
+2584342..2585964	-	540	161019057	phaD	BT_2668	-	-	multicomponent K+:H+ antiporter subunit D
+2585964..2586305	-	113	161019058	phaC	BT_2669	-	-	multicomponent K+:H+ antiporter subunit C
+2586305..2589226	-	973	161019059	phaA	BT_2670	-	-	multicomponent K+:H+ antiporter subunit A
+2589467..2589958	-	163	161019060	-	BT_2671	-	-	hypothetical protein
+2590122..2591222	+	366	161019061	nspC	BT_2672	-	-	carboxynorspermidine decarboxylase
+2591276..2592514	+	412	161019062	-	BT_2673	-	-	conserved hypothetical protein
+2593763..2595169	-	468	161019063	lpdA2	BT_2674	-	-	dihydrolipoamide dehydrogenase
+2595201..2596412	-	403	161019064	sucB	BT_2675	-	-	dihydrolipoamide succinyltransferase
+2596445..2599444	-	999	161019065	sucA	BT_2676	-	-	alpha-ketoglutarate dehydrogenase
+2599606..2600508	-	300	161019066	sucD	BT_2677	-	-	succinyl-CoA synthetase, alpha chain
+2600512..2601708	-	398	161019067	sucC	BT_2678	-	-	succinyl-CoA synthetase, beta chain
+2601800..2602762	-	320	161019068	mdh	BT_2679	-	-	malate dehydrogenase
+2603051..2604250	-	399	161019069	-	BT_2680	-	-	conserved hypothetical protein
+2604349..2604894	-	181	161019070	omp19	BT_2681	-	-	outer membrane lipoprotein
+2605122..2605973	+	283	161019071	dapF	BT_2682	-	-	Diaminopimelate epimerase
+2605973..2607256	+	427	161019072	-	BT_2683	-	-	conserved hypothetical protein
+2607337..2608509	+	390	161019073	ftsY	BT_2684	-	-	cell division protein
+2608506..2609192	+	228	161019074	ispZ	BT_2685	-	-	intracellular septation protein
+2609262..2610023	+	253	161019075	gloB	BT_2686	-	-	hydroxyacylglutathione hydrolase
+2610191..2610508	+	105	161019076	-	BT_2687	-	-	hypothetical protein predicted by Glimmer/Critica
+2611044..2611511	+	155	161019077	-	BT_2688	-	-	hypothetical protein predicted by Glimmer/Critica
+2611536..2612432	-	298	161019078	parB	BT_2689	-	-	chromosome partitioning protein ParB
+2612472..2613269	-	265	161019079	parA	BT_2690	-	-	chromosome partitioning protein ParA
+2613283..2613924	-	213	161019080	gidB	BT_2691	-	-	glucose inhibited division protein B
+2613924..2615792	-	622	161019081	gidA	BT_2692	-	-	glucose inhibited division protein A
+2615900..2617207	-	435	161019082	trmE	BT_2693	-	-	tRNA modification GTPase
+2617239..2618504	-	421	161019083	rho	BT_2694	-	-	transcription termination factor rho
