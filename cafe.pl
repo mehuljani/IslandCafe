@@ -583,7 +583,7 @@ for($i=0;$i<scalar(@cond_arr1)-1;$i++){
 				$cfgi_start[$gic]=$cond_arr1[$i];
 				$cfgi_end[$gic]=$cond_arr2[$i];
 				$gic+=1;
-				$lenn=$cond_arr2[$i]-$cond_arr1[$i];
+				$lenn=$cond_arr2[$i]-$cond_arr1[$i]+1;
 				$cafe_f_gi_start[$cff]=$cond_arr1[$i];$cafe_f_gi_end[$cff]=$cond_arr2[$i];$cff+=1; 	
 				print OUTFILE "GI-$is_counter\t$cond_arr1[$i]\t$cond_arr2[$i]\t$lenn\n";
 			}
@@ -616,7 +616,7 @@ for ($i=0;$i<$gic;$i++){
 					if($count==1){
 						$nul+=1;
 						if ($nul==1){print OUTFILE1 "Genomic_island	Start	End	Length\n";}
-						$gilen=	$cfgi_end[$i]-$cfgi_start[$i];
+						$gilen=	$cfgi_end[$i]-$cfgi_start[$i]+1;
 						$cafe_m_gi_start[$cfm]=$cfgi_start[$i];$cafe_m_gi_end[$cfm]=$cfgi_end[$i];$cfm+=1; 
 						print OUTFILE1 "GI-$nul\t$cfgi_start[$i]\t$cfgi_end[$i]\t$gilen\n";
 					}
