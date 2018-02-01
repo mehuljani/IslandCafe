@@ -20,11 +20,17 @@ CAFE requires genome sequence and annotations to predict genomic islands. These 
 
 ### Optional Input
 -annot    Annotate marker genes (This requires Prodigal and Hmmer are installed and in path)
+
 -Thres    Provide segmentation, contiguous clustering and non-contiguous clustering thresholds (range: 0-1)
+
 -gbk      Use genbank as input file
+
 -out      Output file name
+
 -verbose  print on screen
+
 -expert   keep temporary files for user analyses
+
 -visual   Make a map of genomic islands (Requires CGView be installed and in path)
 
 
