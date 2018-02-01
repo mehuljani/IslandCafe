@@ -20,4 +20,5 @@ If the annotation file is not available, CAFE will identify marker genes for gen
 ```
 
 ## Output
+CAFE outputs two text file
 
