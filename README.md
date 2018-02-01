@@ -39,7 +39,9 @@ CAFE outputs two tab separated text files. File with suffix CAFE_full_version.tx
 Both files has four columns showing genomic island id, start and end co-ordinates, and length of the genomic island.
 
 ## Example
+```
 ./cafe.pl -out outfile -verbose -gbk example.gbk
+```
 
 
 
