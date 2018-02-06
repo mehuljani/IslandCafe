@@ -2,10 +2,18 @@
 
 Composition Anomaly and Feature Enrichment (CAFE), is genomic island prediction tool that utilizes sequence composition and functional information to identify genomic islands.
 
+sudo chmod 775 cafe
+sudo chmod 775 cafe.out
 
 ## Example
+First set the permissions for the file
 ```
-./cafe.pl -out outfile -verbose -gbk example.gbk
+sudo chmod 775 cafe
+sudo chmod 775 cafe.out
+```
+To run program on example files
+```
+./cafe -out outfile -verbose -gbk example.gbk
 ```
 
 ## Input
