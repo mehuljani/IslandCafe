@@ -838,11 +838,11 @@ for ($i=0; $i< $ncondcounter; $i++){
 	if ($nca3[$i]==121212){
 		if ($nca2[$i]-$nca1[$i]>=8000){
 			$nul+=1;
-			if ($nul==1){print OUTFILE1 "Genomic_island	Start	End	Length\n";}
+			if ($nul==1){print OUTFILE1 "Genomic_island_id	Start	End	Length\n";}
 			$length=$nca2[$i]-$nca1[$i]+1;
 			$cgist=$nca1[$i]; $cgiend=$nca2[$i];
 			$cafe_gi_start[$cffm]=$cgist; $cafe_gi_end[$cffm]=$cgiend;$cffm+=1; 
-			print OUTFILE1 "$nul\t$nca1[$i]\t$nca2[$i]\t$length\n";
+			print OUTFILE1 "GI-$nul\t$nca1[$i]\t$nca2[$i]\t$length\n";
 		}
 	}
 
