@@ -47,11 +47,11 @@ Note this requires BLAST version 2.6 or higher. Phylogenetic module also require
 
 --out     Output file name 
 
--verbose  print on screen
+--verbose print on screen
 
--expert   keep temporary files for user analyses
+--expert  keep temporary files for user analyses
 
--visual   Make a map of genomic islands (Requires CGView be installed and in path)
+--visual  Make a map of genomic islands (Requires CGView be installed and in path)
 
 
 ## Output
