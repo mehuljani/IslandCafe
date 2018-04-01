@@ -955,7 +955,7 @@ if ($expert==0){
 	system ("rm $name\_CAFE_label") if ($visual==1);
 	#system ("rm $name\_CAFE_CGViewout1") if ($visual==1);
 	system ("rm $name\_CAFE_CGViewout") if ($visual==1);
-	#system ("rm CAFE_temp")	
+	system ("rm CAFE_temp")	
 }
 
 
