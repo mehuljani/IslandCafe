@@ -13,24 +13,23 @@ sudo chmod 775 cafe.out
 ```
 To run program on example files
 ```
-./cafe -out outfile -verbose -gbk example.gbk
+./cafe -phylo -genus bartonella -gbk example.gbk
 ```
 
 ## Input
-CAFE requires genome sequence and annotations to predict genomic islands. These can be provided in one of the following ways:
-1. Fasta file containing the genome sequence and another file containing annotations in ptt format.
-```
-./cafe.pl [options] genome.fna annotation.ptt
-```
-2. A single file containing both the sequence and annotations in gbk format.
+CAFE requires genome sequence and annotations to predict genomic islands. These can be provided as a single Genbank file.
 ```
 ./cafe.pl [options] -gbk  genome.gbk
 ```
-3. If the genome is not annotated then CAFE can identify marker genes for genomic island. This requires Prodigal and Hmmer be installed and included in path
+If the genome is not annotated then CAFE can identify marker genes for genomic island. This requires Prodigal and Hmmer be installed and included in path
 ```
 ./cafe.pl [options] -annot genome.fna
 ```
-
+To use the Phylogenetic module of CAFE, first download reference protein sequence files (.faa format) in faa folder. CAFE requires atleast reference protein files for comparison. faa folder should only have reference protein sequence files, remove pre existing files in faa folder if not running on example genome. 
+```
+./cafe.pl [options] -phylo -genus [genus_name] -gbk genome.gbk
+```
+Note this requires BLAST version 2.6 or higher. Phylogenetic module also requires that users specify the name 
 ### Optional Input
 -annot    Annotate marker genes (This requires Prodigal and Hmmer are installed and in path)
 
