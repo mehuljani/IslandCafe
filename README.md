@@ -55,7 +55,7 @@ Note this requires BLAST version 2.6 or higher. Phylogenetic module also require
 CAFE outputs a tab separated text file. File with suffix CAFE.txt shows genomic island predictions. It has four columns showing genomic island id, start and end co-ordinates, and length of the genomic island.
 
 
-## Note
+#### Note
 This program has been tested on 64-bit machine and is intended for use on 64-bit computers
 
 
