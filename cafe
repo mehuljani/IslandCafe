@@ -383,14 +383,14 @@ if ($phylo==1){
 #If user has defined thresholds
 
 if (defined ($seg) && defined ($clus1) && defined ($clus2)){
-	#system("./cafe.out $name\_CAFE_1 $seg $clus1 $clus2 $verb"); 
+	system("./cafe.out $name\_CAFE_1 $seg $clus1 $clus2 $verb"); 
 }
 
 #Default thresholds
 
 else {
 	
-	#system("./cafe.out $name\_CAFE_1 0.8 0.99999 0.999 $verb");
+	system("./cafe.out $name\_CAFE_1 0.8 0.99999 0.999 $verb");
 } 	
 
 #Parse segment and clustering output file. Combine contiguous segments with same cluster id.
