@@ -22,7 +22,7 @@ If the genome is not annotated then CAFE can identify marker genes for genomic i
 ```
 ./cafe [options] -annot genome.fna
 ```
-To use the Phylogenetic module of CAFE, first download reference protein sequence files (.faa format) in faa folder. CAFE requires atleast reference protein files for comparison. faa folder should only have reference protein sequence files, remove pre existing files in faa folder if not running on example genome. Phylogenetic module also requires that genus name be speciied using -genus option
+To use the Phylogenetic module of CAFE, first download reference protein sequence files (.faa format) in faa folder. CAFE requires atleast five reference protein files for comparison. faa folder should only have reference protein sequence files, remove pre existing files in faa folder if not running on example genome. Phylogenetic module also requires that genus name be speciied using -genus option
 ```
 ./cafe [options] -phylo -genus [genus_name] -gbk genome.gbk
 ```
