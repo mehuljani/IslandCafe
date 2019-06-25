@@ -1,4 +1,4 @@
-# CAFE
+# IslandCafe
 
 Composition Anomaly and Feature Enrichment (CAFE), is genomic island prediction tool that utilizes sequence composition and functional information to identify genomic islands.
 
