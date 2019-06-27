@@ -245,6 +245,10 @@ if ($phylo==1){
 	system ("cat ./faa/* > faa_database");
 	@faa_files=<./faa/*>;
 	$expect=scalar (@faa_files);
+	if ($expect < 5){
+		print "Phylo module requires atleast 5 genomes for comparison\n";
+		exit;
+	}
 	if(defined$annotation){$infile=$name;}
 	##make database
 	system ("makeblastdb -dbtype prot -in faa_database");#faa_database
