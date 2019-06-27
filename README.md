@@ -1,6 +1,6 @@
 # IslandCafe
 
-Composition Anomaly and Feature Enrichment (CAFE), is genomic island prediction tool that utilizes sequence composition and functional information to identify genomic islands.
+IslandCafe, is genomic island prediction tool that utilizes sequence composition and functional information to identify genomic islands.
 
 ## Example
 First set the permissions for the file
@@ -54,6 +54,9 @@ Note this requires BLAST version 2.6 or higher. Phylogenetic module also require
 ## Output
 CAFE outputs a tab separated text file. File with suffix CAFE.txt shows genomic island predictions. It has four columns showing genomic island id, start and end co-ordinates, and length of the genomic island.
 
+
+## Requirements
+IslandCafe uses bioperl.  
 
 #### Note
 This program has been tested on 64-bit machine and is intended for use on 64-bit computers
