@@ -393,6 +393,22 @@ else {
 	system("./cafe.out $name\_CAFE_1 0.8 0.99999 0.999 $verb");
 } 	
 
+$cafetemp = substr(abs_path($0), 0, -5)."/cafe_temp";
+opendir $currdir, Cwd::cwd();
+@dirfiles = readdir $currdir;
+$cpcafetemp = 1;
+foreach (@dirfiles){
+	if ("cafe_temp" eq $_){
+		$cpcafetemp = 0;
+	}
+}
+
+if ($cpcafetemp == 1){
+	system("cp $cafetemp cafe_temp");
+}
+
+
+
 #Parse segment and clustering output file. Combine contiguous segments with same cluster id.
 
 $sc_out='cafe_temp'; #seg-clus output file
@@ -935,8 +951,8 @@ if ($visual==1){
 if ($expert==0){
 	system ("rm $name\_CAFE_stdout_out.txt") if (defined$annotation);
 	system ("rm $name\_CAFE_1");	
-	system ("rm *\_CAFE.ptt"); 
-	system ("rm *\_CAFE.faa");
+	system ("rm $name\_CAFE.ptt"); 
+	system ("rm $name\_CAFE.faa");
 	system ("rm $name\_phy") if($phylo==1); 
 	system ("rm $name\_blast_output") if($phylo==1);	
 	system ("rm $name\_CAFE_extract_out");
@@ -955,7 +971,9 @@ if ($expert==0){
 	system ("rm $name\_CAFE_label") if ($visual==1);
 	#system ("rm $name\_CAFE_CGViewout1") if ($visual==1);
 	system ("rm $name\_CAFE_CGViewout") if ($visual==1);
-	system ("rm cafe_temp")	
+	#system ("rm cafe_temp");
+	system ("rm $cafetemp");
+	system ("rm cafe_temp")if ($cpcafetemp==1);
 }
 
 
