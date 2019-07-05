@@ -56,7 +56,7 @@ CAFE outputs a tab separated text file. File with suffix CAFE.txt shows genomic 
 
 
 ## Requirements
-IslandCafe requires bioperl (Modules -- File::Copy Bio::SeqIO List::MoreUtils List::Util).   
+IslandCafe requires bioperl (Modules -- File::Copy Bio::SeqIO List::MoreUtils List::Util). The cafe.out file is compiled using gcc compiler  
 
 #### Note
 This program has been tested on 64-bit machine and is intended for use on 64-bit computers
